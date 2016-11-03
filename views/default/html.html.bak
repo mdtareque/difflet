@@ -1,0 +1,16 @@
+{{extend 'layout.html'}}
+<h1>This is the html.html template</h1>
+
+<span id="diffbox" class="hvr-grow">
+<a href="{{=URL('default', 'difflet', vars={'e1' : 'India', 'e2' : 'Australia'}) }}">
+    <span class="box animated pulse">
+        <span>India</span>
+        <span>-vs-</span>
+        <span>Australia</span>
+        <span class="hits">4</span>
+    </span>
+</a>
+</span>
+
+<div id="diffbox2"> some text</div>
+<span id="diffbox3"> some text</span>

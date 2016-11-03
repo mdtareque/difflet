@@ -8,35 +8,66 @@
 # - download is for downloading files uploaded in the db (does streaming)
 # -------------------------------------------------------------------------
 
+def _thingId(ename):
+    return db(db.thing.name==ename).select(db.thing.id)[0]['id']
+
+def _thingName(id):
+    return db(db.thing.id==id).select(db.thing.name)[0]['name']
 
 def index():
-    """
-    example action using the internationalization operator T and flash
-    rendered by views/default/index.html or views/generic.html
-
-    if you need a simple wiki simply replace the two lines below with:
-    return auth.wiki()
-    """
     redirect(URL('default', 'search'))
     response.flash = T("Hello World")
-    return dict(message=T('Welcome to web2py!'))
-
+    return dict(message=T('Difflet App Loaded!'))
 
 def search():
-    recent_searches = {}
-    entities =  { }
-    categories = []
-    for c in categories:
-        es = db(db.entity.category == c['id']).select(db.entity.name)
-        entities[c['name']] = []
-        for e in es:
-            entities[c['name']].append(e['name'])
+    recents = db(db.recents).select(db.recents.thing1, db.recents.thing2, orderby = ~db.recents.last_accessed, limitby=(0,5))
+    recent_searches = []
+    try:
+        for r in recents:
+            recent_searches.append( (_thingName(r['thing1']), _thingName(r['thing2']))  )
+    except:
+        pass
     return locals()
 
-def saveSearch(e1, e2):
-    # save to recents
+def saveSearch(e1, e2): # save to recents
+    from datetime import datetime as dt
+    now = dt.today()
+    e1id, e2id = _thingId(e1), _thingId(e2)
+    e1id, e2id = min(e1id, e2id), max(e1id, e2id)
+    q = (db.recents.thing1 == e1id) & (db.recents.thing2 == e2id)
+    myset = db(q).select(db.recents.ALL, limitby=(0,1))
+    if myset:
+        db(q).update(last_accessed=now)
+    else:
+        db.recents.insert(thing1 =e1id, thing2= e2id, last_accessed=now)
+    print "saved recents %s vs %s" % (e1, e2)
+    q2 = (db.popular.thing1 == e1id) & (db.popular.thing2 == e2id)
+    myset = db(q2).select(db.popular.ALL, limitby=(0,1))
+    if myset:
+        oldcount = myset[0]['hits']
+        db(q2).update(hits = oldcount + 1, last_accessed=now)
+    else:
+        db.popular.insert(thing1 =e1id, thing2= e2id, hits=1, last_accessed=now)
+    print "update hit %s vs %s" % (e1, e2)
     return
 
+def html():
+    return locals()
+
+def random():
+    # 'country', animal and company
+    data = [
+     ['india', 'australia', 'egypt'],
+     ['lion', 'deer'],
+     ['apple co.', 'google', 'ibm']
+    ]
+    import random as rand_
+    r1 = rand_.randrange(0, len(data))
+    r11 = data[r1][rand_.randrange(0, len(data[r1]))]
+    r12 = r11
+    while r11 == r12:
+        r12 = data[r1][rand_.randrange(0, len(data[r1]))]
+    redirect(URL('default', 'difflet', vars={'e1': r11, 'e2': r12} ))
 
 def difflet():
     e1, e2 = request.vars['e1'],request.vars['e2']

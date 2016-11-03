@@ -420,3 +420,9 @@ CREATE TABLE invoice(
     PRIMARY KEY (id)
 ) ENGINE=InnoDB CHARACTER SET utf8;
 success!
+TRUNCATE TABLE recents ;
+success!
+TRUNCATE TABLE recents ;
+success!
+TRUNCATE TABLE recents ;
+success!

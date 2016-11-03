@@ -1,0 +1,9 @@
+{{extend 'layout.html'}}
+<h1>This is the html.html template</h1>
+{{=BEAUTIFY(response._vars)}}
+
+<div>
+    <span>India</span>
+    <span>-vs-</span>
+    <span>Australia</span>
+</div>
