@@ -117,3 +117,72 @@ div#form div input {margin : 7px;}
 h1, h3{text-align: center}
 
 
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Itim|Gloria+Hallelujah|Indie+Flower');
+
+
+#diffbox  a {
+    position: relative;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-decoration: none;
+    font-style: italic;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: black;
+}
+#diffbox .box{
+    border-radius: 11px 11px 11px 11px;
+    -moz-border-radius: 11px 11px 11px 11px;
+    -webkit-border-radius: 11px 11px 11px 11px;
+    border: 0px solid #000000;
+    border: 1px solid black;
+    -webkit-box-shadow: 4px 2px 21px 2px rgba(47, 102, 40, 0.65);
+    -moz-box-shadow:    4px 2px 21px 2px rgba(47, 102, 40, 0.65);
+    box-shadow:         4px 2px 21px 2px rgba(47, 102, 40, 0.65);
+    display: block;
+    width: 200px;
+
+background: rgba(158,184,136,1);
+background: -moz-linear-gradient(-45deg, rgba(158,184,136,1) 0%, rgba(33,63,9,1) 62%, rgba(33,63,9,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(158,184,136,1)), color-stop(62%, rgba(33,63,9,1)), color-stop(100%, rgba(33,63,9,1)));
+background: -webkit-linear-gradient(-45deg, rgba(158,184,136,1) 0%, rgba(33,63,9,1) 62%, rgba(33,63,9,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(158,184,136,1) 0%, rgba(33,63,9,1) 62%, rgba(33,63,9,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(158,184,136,1) 0%, rgba(33,63,9,1) 62%, rgba(33,63,9,1) 100%);
+background: linear-gradient(135deg, rgba(158,184,136,1) 0%, rgba(33,63,9,1) 62%, rgba(33,63,9,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9eb888', endColorstr='#213f09', GradientType=1 );
+
+}
+
+#diffbox span.hits {
+ position: absolute;
+ top: 1px;
+ left: 1px;
+ min-width: 20px;
+ height: 30px;
+    border-radius: 11px 5px 5px 5px;
+    -moz-border-radius: 11px 5px 5px 5px;
+    -webkit-border-radius: 11px 5px 5px 5px;
+    border: 1px solid transparent;
+
+
+ background: rgba(248,80,50,1);
+ background: -moz-linear-gradient(-45deg, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 13%, rgba(240,47,23,1) 71%, rgba(246,41,12,1) 77%, rgba(231,56,39,1) 97%, rgba(231,56,39,1) 100%);
+ background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(248,80,50,1)), color-stop(13%, rgba(241,111,92,1)), color-stop(71%, rgba(240,47,23,1)), color-stop(77%, rgba(246,41,12,1)), color-stop(97%, rgba(231,56,39,1)), color-stop(100%, rgba(231,56,39,1)));
+ background: -webkit-linear-gradient(-45deg, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 13%, rgba(240,47,23,1) 71%, rgba(246,41,12,1) 77%, rgba(231,56,39,1) 97%, rgba(231,56,39,1) 100%);
+ background: -o-linear-gradient(-45deg, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 13%, rgba(240,47,23,1) 71%, rgba(246,41,12,1) 77%, rgba(231,56,39,1) 97%, rgba(231,56,39,1) 100%);
+ background: -ms-linear-gradient(-45deg, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 13%, rgba(240,47,23,1) 71%, rgba(246,41,12,1) 77%, rgba(231,56,39,1) 97%, rgba(231,56,39,1) 100%);
+ background: linear-gradient(135deg, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 13%, rgba(240,47,23,1) 71%, rgba(246,41,12,1) 77%, rgba(231,56,39,1) 97%, rgba(231,56,39,1) 100%);
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', endColorstr='#e73827', GradientType=1 );
+}
+
+#diffbox span.box {
+    padding: 5px 10px;
+}
+#diffbox span.box span{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    display: block;
+}
