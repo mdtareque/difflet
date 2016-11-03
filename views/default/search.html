@@ -1,0 +1,67 @@
+{{extend 'layout.html'}}
+
+<h1 style="margin:0 auto; text-align:center;">Search for <i>differences between</i> </h1>
+<div class="row">
+    <div class="col-md-9 col-md-offset-3">
+
+
+      <div class="row">
+        <form class="navbar-form navbar-left" role="search" action="difflet" method="get">
+
+            <div id="change" class="col">
+                <div class="ui-widget">
+                    <input id="e1" name="e1" type="text" class="form-control" placeholder="India" style="text-align:right; border:1px solid black" value="india">
+                    <input id="e2" name="e2" type="text" class="form-control" placeholder="USA"  style="text-align:left; border:1px solid black" value="usa">
+                    <br/>
+                    <div style="width:96%; margin-left:30%; margin-top:4%; margin-bottom: 4%">
+                        <button type="submit" name="search" class="btn btn-default" >Submit</button>
+                        <button type="submit" name="random" class="btn btn-default" >Random Difflet</button>
+                    </div>
+                </div>
+            </div>
+            
+        </form>
+
+      </div>
+
+    </div>
+
+
+    <div class="col-md-6 col-md-offset-3 recent_searches">
+        <a href = "#" class = "list-group-item active">
+            <b>Recent Searches</b>
+        </a>
+        {{for e1,e2 in recent_searches:}}
+        <a href = "{{=URL('default', 'difflet', vars={'e1': e1, 'e2': e2})}}" class = "list-group-item">{{=e1 + ' vs ' + e2}}</a>
+        {{pass}}
+
+    </div>
+
+
+</div>
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<link rel="stylesheet" href="/resources/demos/style.css">
+
+<script>
+
+    var d = {{=XML(entities)}};
+
+    $('.dropdown-menu').on( 'click', 'a', function() {
+        var target = $(this).closest('.dropdown').find('.dropdown-toggle')
+        var text = "Select Category ";
+        selectedVal = $(this).html();
+        var htmlText = selectedVal + ' <span class="caret"></span>';
+        target.html(htmlText);
+
+        $( "#e1" ).autocomplete({
+            source: d[selectedVal]
+        });
+        $( "#e2" ).autocomplete({
+            source: d[selectedVal]
+        });
+    });
+
+</script>

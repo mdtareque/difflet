@@ -17,9 +17,71 @@ def index():
     if you need a simple wiki simply replace the two lines below with:
     return auth.wiki()
     """
+    redirect(URL('default', 'search'))
     response.flash = T("Hello World")
     return dict(message=T('Welcome to web2py!'))
 
+
+def search():
+    recent_searches = {}
+    entities =  { }
+    categories = []
+    for c in categories:
+        es = db(db.entity.category == c['id']).select(db.entity.name)
+        entities[c['name']] = []
+        for e in es:
+            entities[c['name']].append(e['name'])
+    return locals()
+
+def saveSearch(e1, e2):
+    # save to recents
+    return
+
+
+def difflet():
+    e1, e2 = request.vars['e1'],request.vars['e2']
+    e1, e2 = e1.lower(), e2.lower()
+    saveSearch(e1, e2)
+    #e1id=(db(db.thing.name==e1).select())[0]['id']
+    #e2id=(db(db.thing.name==e2).select())[0]['id']
+
+    q1 = (db.listings.thing == db.thing.id) & (db.listings.point == db.point.id) & (db.listings.description == db.description.id) & (db.thing.name == e1)
+    q2 = (db.listings.thing == db.thing.id) & (db.listings.point == db.point.id) & (db.listings.description == db.description.id) & (db.thing.name == e2)
+    
+    e1rows = db(q1).select(db.point.property, db.description.body, db.point.id)
+    e2rows = db(q2).select(db.point.property, db.description.body, db.point.id)
+    #e2rows = db(db.listing.entity==e2id).select(join = db.diff_point.on(db.listing.diff_point == db.diff_point.id))
+
+    e1_dp_id = []
+    for i in range(0, len(e1rows)):
+        e1_dp_id.append(e1rows[i]['point']['id'])
+        #e1_dp_id.append(e1rows[i]['diff_point.id'] )
+    e2_dp_id = []
+    for i in range(0, len(e2rows)):
+        e2_dp_id.append(e2rows[i]['point']['id'])
+        #e2_dp_id.append(e2rows[i]['diff_point.id'] )
+
+    # {  diff_point : (e1, e2)}
+    common=[]
+    for i in e1_dp_id:
+        if i in e2_dp_id:
+            common.append(i)
+
+    output={}
+
+    for r in e1rows:
+        if r['point']['id'] in common:
+            output[r['point']['property']] = (r['description']['body'] , '')
+
+    for r in e2rows:
+        if r['point']['id'] in common:
+            old_tuple = output[r['point']['property']]
+            output[r['point']['property']] = (old_tuple[0], r['description']['body'])
+#        if r['diff_point.id'] in common:
+#            old_tuple = output[r['diff_point.name']]
+#            output[r['diff_point.name']] =  ( old_tuple[0],  r['listing.summary'])
+
+    return locals()
 
 
 def create():
