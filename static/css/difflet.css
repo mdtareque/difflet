@@ -209,3 +209,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0cf528', end
     text-align: center;
     display: block;
 }
+
+.clear {
+    clear: both;
+}

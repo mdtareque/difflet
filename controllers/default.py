@@ -51,9 +51,6 @@ def saveSearch(e1, e2): # save to recents
     print "update hit %s vs %s" % (e1, e2)
     return
 
-def html():
-    return locals()
-
 def random():
     # 'country', animal and company
     data = [
@@ -111,7 +108,7 @@ def difflet():
 #        if r['diff_point.id'] in common:
 #            old_tuple = output[r['diff_point.name']]
 #            output[r['diff_point.name']] =  ( old_tuple[0],  r['listing.summary'])
-
+    diffvideo = request.vars['v'] == '2'
     return locals()
 
 
@@ -182,6 +179,9 @@ def user():
     """
     return dict(form=auth())
 
+def about():
+    return locals()
+
 
 @cache.action()
 def download():
@@ -200,3 +200,11 @@ def call():
     supports xml, json, xmlrpc, jsonrpc, amfrpc, rss, csv
     """
     return service()
+
+
+
+def html():
+    from diffpy import getCheck
+    a=getCheck(6)
+    print a
+    return locals()

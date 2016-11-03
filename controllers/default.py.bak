@@ -108,7 +108,7 @@ def difflet():
 #        if r['diff_point.id'] in common:
 #            old_tuple = output[r['diff_point.name']]
 #            output[r['diff_point.name']] =  ( old_tuple[0],  r['listing.summary'])
-
+    diffvideo = request.vars['v'] == '2'
     return locals()
 
 
@@ -179,6 +179,9 @@ def user():
     """
     return dict(form=auth())
 
+def about():
+    return locals()
+
 
 @cache.action()
 def download():
@@ -197,3 +200,10 @@ def call():
     supports xml, json, xmlrpc, jsonrpc, amfrpc, rss, csv
     """
     return service()
+
+
+
+def html():
+    a=getCheck(6)
+    print a
+    return locals()
