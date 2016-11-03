@@ -1,0 +1,59 @@
+In [13]: a
+Out[13]: ((u'capital', u'captialName1'), (u'ccy', u'ccy2'))
+
+In [14]: b
+Out[14]: ((u'capital', u'captialName2'), (u'ccy', u'ccy1'))
+
+In [15]: list(a)
+Out[15]: [(u'capital', u'captialName1'), (u'ccy', u'ccy2')]
+
+In [16]: for i in a:
+   ....:     print i
+      ....:
+      (u'capital', u'captialName1')
+      (u'ccy', u'ccy2')
+
+      In [17]: for i in a:
+          print list(i)
+             ....:
+             [u'capital', u'captialName1']
+             [u'ccy', u'ccy2']
+
+             In [18]: a = list(a)
+
+             In [19]: b= list(b)
+
+             In [20]: a
+             Out[20]: [(u'capital', u'captialName1'), (u'ccy', u'ccy2')]
+
+             In [21]: b
+             In [22]: [ j for j in b if j[0] in a]
+             Out[22]: []
+
+             In [23]: al = [ i[0] for i in a]
+
+             In [24]: bl = [ i[0] for i in b]
+
+             In [25]: al
+             Out[25]: [u'capital', u'ccy']
+
+             In [26]: bl
+             Out[26]: [u'capital', u'ccy']
+
+             In [27]: al | bl
+             ---------------------------------------------------------------------------
+             TypeError                                 Traceback (most recent call last)
+             /home/mtk/Dropbox/diff/newsite/web2py/applications/difflet/models/menu.py in <module>()
+             ----> 1 al | bl
+
+             TypeError: unsupported operand type(s) for |: 'list' and 'list'
+
+             In [28]: al = set(al)
+
+             In [29]: bl = set(bl)
+
+             In [30]: al | bl
+             Out[30]: {u'capital', u'ccy'}
+
+             In [31]:
+

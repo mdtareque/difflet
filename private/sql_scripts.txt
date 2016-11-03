@@ -1,0 +1,1 @@
+select name, body, property from listings as l, thing as t, point as p, description as d  where l.thing = t.#define and l.point = p.#define and l.description = d.#define and t.name = 'thing1';

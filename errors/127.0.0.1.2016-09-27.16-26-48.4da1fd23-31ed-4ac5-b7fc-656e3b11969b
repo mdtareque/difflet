@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.AttributeError'> 'DAL' object has no attribute 'property'"
+p3
+sS'layer'
+p4
+S'/home/mtk/Dropbox/diff/newsite/web2py/applications/difflet/controllers/default.py'
+p5
+sS'code'
+p6
+S'# -*- coding: utf-8 -*-\n# this file is released under public domain and you can use without limitations\n\n# -------------------------------------------------------------------------\n# This is a sample controller\n# - index is the default action of any application\n# - user is required for authentication and authorization\n# - download is for downloading files uploaded in the db (does streaming)\n# -------------------------------------------------------------------------\n\n\ndef index():\n    """\n    example action using the internationalization operator T and flash\n    rendered by views/default/index.html or views/generic.html\n\n    if you need a simple wiki simply replace the two lines below with:\n    return auth.wiki()\n    """\n    response.flash = T("Hello World")\n    return dict(message=T(\'Welcome to web2py!\'))\n\n\n\ndef create():\n    e = request.args[0]\n    if e is not None:\n        if e == \'category\':\n            form = SQLFORM(db.category).process()\n    return locals()\n\n\ndef manage():\n    e = request.args(0)\n    if e == \'category\' or e is None:\n        #category = SQLFORM.grid(db.category)\n        category = SQLFORM.smartgrid(db.category)\n    if e == \'thing\' or e is None:\n        thing = SQLFORM.smartgrid(db.thing)\n    if e == \'property\' or e is None:\n        property = SQLFORM.smartgrid(db.property)\n    if e == \'description\' or e is None:\n        description = SQLFORM.smartgrid(db.description)\n    if e == \'listing\' or e is None:\n        listing = SQLFORM.smartgrid(db.listings)\n    if e == \'recent\' or e is None:\n        recent = SQLFORM.smartgrid(db.recent)\n    if e == \'popular\' or e is None:\n        popular = SQLFORM.smartgrid(db.popular)\n    return locals()\n\n\ndef template():\n    response.view = \'default/difflet_template.html\'\n    return locals()\n\n\n\n\ndef user():\n    """\n    exposes:\n    http://..../[app]/default/user/login\n    http://..../[app]/default/user/logout\n    http://..../[app]/default/user/register\n    http://..../[app]/default/user/profile\n    http://..../[app]/default/user/retrieve_password\n    http://..../[app]/default/user/change_password\n    http://..../[app]/default/user/bulk_register\n    use @auth.requires_login()\n        @auth.requires_membership(\'group name\')\n        @auth.requires_permission(\'read\',\'table name\',record_id)\n    to decorate functions that need access control\n    also notice there is http://..../[app]/appadmin/manage/auth to allow administrator to manage users\n    """\n    return dict(form=auth())\n\n\n@cache.action()\ndef download():\n    """\n    allows downloading of uploaded files\n    http://..../[app]/default/download/[filename]\n    """\n    return response.download(request, db)\n\n\ndef call():\n    """\n    exposes services. for example:\n    http://..../[app]/default/call/jsonrpc\n    decorate with @services.jsonrpc the functions to expose\n    supports xml, json, xmlrpc, jsonrpc, amfrpc, rss, csv\n    """\n    return service()\n\nresponse._vars=response._caller(manage)\n'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/home/mtk/Dropbox/diff/newsite/web2py/gluon/restricted.py", line 227, in restricted\n    exec ccode in environment\n  File "/home/mtk/Dropbox/diff/newsite/web2py/applications/difflet/controllers/default.py", line 97, in <module>\n  File "/home/mtk/Dropbox/diff/newsite/web2py/gluon/globals.py", line 417, in <lambda>\n    self._caller = lambda f: f()\n  File "/home/mtk/Dropbox/diff/newsite/web2py/applications/difflet/controllers/default.py", line 41, in manage\n    property = SQLFORM.smartgrid(db.property)\n  File "/home/mtk/Dropbox/diff/newsite/web2py/gluon/packages/dal/pydal/base.py", line 921, in __getattr__\n    return BasicStorage.__getattribute__(self, key)\nAttributeError: \'DAL\' object has no attribute \'property\'\n'
+p11
+s.

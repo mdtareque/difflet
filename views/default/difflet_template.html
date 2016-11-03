@@ -1,0 +1,53 @@
+{{extend 'layout.html'}}
+
+<style >
+</style>
+<div class="main">
+<div class="row heading">
+    <div class="col-md-2"> </div>
+    <div class="col-md-4 leftPane"> Entity 1</div>
+    <div class="col-md-4"> Entity 2</div>
+</div>
+
+{{for i in range(5):}}
+<div class="row">
+    <div class="col-md-4">    </div>
+    <div class="col-md-4 dp {{='secondOnwards' if i > 0 else 'firstdp'}}" data-id="{{=i}}">
+    <span>diff point {{=i}}</span>
+        </div>
+</div>
+<div class="row row{{=i}}">
+    <div class="col-md-2">    </div>
+    <div class="col-md-4 leftPane">
+        Hiiiisdf adf asdf asdf adf adf as dfa df adfHiiiisdf adf asdf asdf adf adf as dfa df adfHiiiisdf adf asdf asdf adf adf as dfa df adf
+    </div>
+    <div class="col-md-4 rightPane">
+        NEW Hiiiisdf adf asdf asdf adf adf as dfa df adfNEW Hiiiisdf adf asdf asdf adf adf as dfa df adfNEW Hiiiisdf adf asdf asdf adf adf as dfa df adfNEW Hiiiisdf adf asdf asdf adf adf as dfa df adfNEW Hiiiisdf adf asdf asdf adf adf as dfa df adf
+    </div>
+    <div class="col-md-2">    </div>
+</div>
+{{pass}}
+    
+<div class="row dph" data-id="2">
+    <div class="col-md-4">    </div>
+    <div class="col-md-4 dp firstdp">     <span>diff point img</span> </div>
+</div>
+<div class="row h row2" >
+    <div class="col-md-2">    </div>
+    <div class="col-md-4 leftPane">
+        <img src="https://placeimg.com/300/190/any" />
+    </div>
+    <div class="col-md-4 rightPane">
+        <img src="https://placeimg.com/300/200/any" />
+    </div>
+    <div class="col-md-2">    </div>
+</div>
+    
+<div class="row">
+    <div class="col-md-4">    </div>
+    <div class="col-md-4 dp secondOnwards addDp"> 
+        <span>+</span>
+    </div>
+</div>
+    
+</div>

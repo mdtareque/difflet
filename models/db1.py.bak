@@ -1,0 +1,61 @@
+# -*- coding: utf-8 -*-
+
+#db.define_table('student', Field('name') )
+db.define_table('category'
+                ,Field('name', required=True, unique=True, comment='higher level category names')
+                ,auth.signature)
+
+db.category.name.represent = lambda name, row : name.capitalize()
+
+
+db.define_table('thing'
+                ,Field('category', 'reference category')
+                ,Field('name', required=True, unique=True, comment='name of thing/entity')
+                ,auth.signature)
+
+db.thing.name.represent = lambda name, row : name.capitalize()
+
+
+db.define_table('key'
+                ,Field('property', required=True, unique=True, comment='key-name e.g. capital, currency') 
+                ,auth.signature)
+
+
+db.define_table('value'
+                ,Field('data', required=True, unique=True, comment='data for corresponding key')
+                ,auth.signature)
+
+
+db.define_table('listings'
+                ,Field('thing', 'reference thing')
+                ,Field('key', 'reference key')
+                ,Field('value', 'reference value')
+                ,auth.signature)
+
+
+# stores recent difflets for past 10 days
+# or minimum of 10
+db.define_table('recents'
+                ,Field('thing1', 'reference thing')
+                ,Field('thing2', 'reference thing')
+                ,Field('last_accessed', 'datetime', default=request.now)
+                ,auth.signature)
+
+
+# stores difflets with hitcount > 10
+# to be checked every day once
+db.define_table('popular'
+                ,Field('thing1', 'reference thing')
+                ,Field('thing2', 'reference thing')
+                ,Field('hits', 'integer', default=1)
+                ,Field('last_accessed', 'datetime', default=request.now)
+                ,auth.signature)
+'''
+'''
+
+
+
+
+
+
+k

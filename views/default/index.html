@@ -1,0 +1,17 @@
+{{left_sidebar_enabled,right_sidebar_enabled=False,('message' in globals())}}
+{{extend 'layout.html'}}
+
+
+{{block right_sidebar}}
+
+{{=H2('links')}}
+{{=A('manage', _href=URL('default', 'manage'))}} <br />
+{{=A('create_category', _href=URL('default', 'create', args=['category']))}} <br />
+{{=A('create_thing (entity)', _href=URL('default', 'create', args=['thing']))}} <br />
+{{=A('create_point (key)', _href=URL('default', 'create', args=['point']))}} <br />
+{{=A('create_description (value)', _href=URL('default', 'create', args=['description']))}} <br />
+{{=A('create_listings', _href=URL('default', 'create', args=['listing']))}} <br />
+{{=A('create_recent', _href=URL('default', 'create', args=['recent']))}} <br />
+{{=A('create_popular', _href=URL('default', 'create', args=['popular']))}} <br />
+
+{{pass}}
