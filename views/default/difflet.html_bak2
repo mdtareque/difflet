@@ -1,0 +1,176 @@
+{{extend 'layout.html'}}
+
+<div class="main">
+  <div class="row heading">
+    <div class="col-md-2"></div>
+    <div class="col-md-4 leftPane">{{=e1}}</div>
+    <div class="col-md-4 hrightPane">{{=e2}} </div>
+  </div>
+
+  {{if 'img' in output:}}
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4 dp {{='secondOnwards' if i > 0 else 'firstdp'}}" data-id="{{=i}}">
+          <span class="btn btn-primary btn-large">Image</span>
+        </div>
+    </div>
+
+    <div class="row row{{=i}}">
+        <div class="col-md-2"></div>
+        <div class="col-md-4 leftPane">
+            <img src="{{=output['img'][0]}}" />
+        </div>
+        <div class="col-md-4 rightPane">
+            <img src="{{=output['img'][1]}}" />
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+    {{del output['img']}}
+    {{pass}}
+
+
+  {{i=0}}
+  {{for dp, value in output.iteritems(): }}
+
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4 dp {{='secondOnwards' if i > 0 else 'firstdp'}}"  data-id="{{=i}}">
+          <span class="btn btn-primary btn-large">{{=dp.capitalize()}}</span>
+        </div>
+    </div>
+
+    <div class="row row{{=i}}">
+        <div class="col-md-2"></div>
+        <div class="col-md-4 leftPane">
+            {{if dp == 'img':}}
+                <img src="{{=value[0]}}" />
+            {{else:}}
+                {{=value[0]}}
+            {{pass}}
+        </div>
+        <div class="col-md-4 rightPane">
+            {{if dp == 'img':}}
+                <img src="{{=value[1]}}" />
+            {{else:}}
+                {{=value[1]}}
+            {{pass}}
+        </div>
+        <div class="col-md-2"></div>
+
+    </div>
+    {{i+=1}}
+    {{pass}}
+
+
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4 dp"  data-id="{{=i}}">
+          <span class="btn btn-primary btn-large">Video</span>
+        </div>
+    </div>
+
+    <div class="row row{{=i}}">
+        {{ if diffvideo : }}
+        <div class="col-md-2"></div>
+        <div class="col-md-4 leftPane">
+            <iframe width="350" height="197" src="https://www.youtube.com/embed/2B9cPKHCKlw?rel=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="col-md-4 rightPane">
+            <iframe width="350" height="197" src="https://www.youtube.com/embed/2B9cPKHCKlw?rel=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+        {{else:}}
+        <div class="col-md-8 col-md-offset-3">
+            <iframe width="500" height="281" src="https://www.youtube.com/embed/2B9cPKHCKlw?rel=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+
+        {{pass}}
+        <div class="col-md-2"></div>
+    </div>
+
+
+    <div class="row recent-popular-row">
+
+
+    <div class="col-md-10 col-md-offset-1 popular_searches">
+        <a href = "#" class = "list-group-item active">
+            <b>Popular Searches</b>
+        </a>
+        {{for i in range(0):}}
+        <div class="boxes">
+                <span id="diffbox" >
+                <a href="{{=URL('default', 'difflet', vars={'e1' : 'India', 'e2' : 'Australia'}) }}">
+                <span class="box">
+                    <span>India</span>
+                    <span>-vs-</span>
+                    <span>Australia</span>
+                    <span class="hits">4</span>
+                </span>
+                </a>
+                </span>
+            </div>
+        {{pass}}
+        <div class="clear"></div>
+    </div>
+
+    </div>
+
+
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4 dp secondOnwards addDp">
+            <!-- <div id="one" class="glyphicon glyphicon-plus"></div> -->
+            {{if auth.user is not None:}}
+            <div id="one" class="btn btn-primary btn-large glyphicon-plus"> <b>Add</b> </div>
+            {{pass}}
+            <div id="two">
+                <div id="twow"> <span id="close">x</span> </div>
+                <div id="form">
+                    <form action="{{=URL('default', 'addDiffPoint')}}" >
+                        <input type="hidden" name="e1" value="{{=e1}}">
+                        <input type="hidden" name="e2" value="{{=e2}}">
+                        <div>Add differentiating point</div>
+                        <div><input type="text" id="new_dp" name="new_dp"/></div>
+                        <div>Enter value for each entity </div>
+                        <div class="row" id="forme">
+                            <div class="col-md-6"><b>{{=e1}}</b></div>
+                            <div class="col-md-6"><b>{{=e2}}</b></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <input type="text" id="new_e1_dp" name="new_e1_dp" />
+                            </div>
+                            <div class="col-md-6">
+                                <input type="text" id="new_e2_dp" name="new_e2_dp" />
+                            </div>
+                        </div>
+                            <input type="submit" class="btn-primary"/>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+<script>
+done=0
+$('#one').on('click', function() {
+    console.log('here one is');
+    if (done == 0) {
+        $('#two').show();
+        $('#two').animate({'top' : '-=60px'}, 120);
+        done=1;
+    }
+});
+
+$('#close').on('click', function() {
+    done=0;
+    console.log('closing div two');
+    $("#two").css('top','+=60px');
+    $('#two').hide();
+});
+
+</script>

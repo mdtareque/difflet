@@ -1,0 +1,28 @@
+
+KDE:
+name:KDE,
+KDevelop:
+name:KDevelop,
+developer:KDE,
+latestReleaseVersion:4.7,
+latestPreviewVersion:5,
+frequentlyUpdated:yes,
+programmingLanguage:C_(programming_language),C++,
+operatingSystem:Unix-like,
+platform:KDE_Platform_4,
+genre:Integrated_development_environment,
+license:GNU_General_Public_License,
+Kde_domov_můj%3F:
+filename:2,
+title:Vocal choir version,
+filename:CzechoslovakiaNationalAnthem.ogg,
+title:Czechoslovak anthem,
+description:Medley of Kde domov můj and Nad Tatrou sa blýska,
+KDE_Display_Manager:
+developer:KDE,
+genre:X_display_manager_(program_type),
+license:GNU_General_Public_License,
+website:kde.org,
+KDE:
+KDE:
+name:KDE,

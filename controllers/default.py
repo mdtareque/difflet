@@ -68,17 +68,23 @@ def random():
 
 def difflet():
     e1, e2 = request.vars['e1'],request.vars['e2']
+    e1 = "india"
+    e2 = "indonesia"
     e1, e2 = e1.lower(), e2.lower()
-    saveSearch(e1, e2)
     #e1id=(db(db.thing.name==e1).select())[0]['id']
     #e2id=(db(db.thing.name==e2).select())[0]['id']
 
+    """
     q1 = (db.listings.thing == db.thing.id) & (db.listings.point == db.point.id) & (db.listings.description == db.description.id) & (db.thing.name == e1)
     q2 = (db.listings.thing == db.thing.id) & (db.listings.point == db.point.id) & (db.listings.description == db.description.id) & (db.thing.name == e2)
-    
+
     e1rows = db(q1).select(db.point.property, db.description.body, db.point.id)
     e2rows = db(q2).select(db.point.property, db.description.body, db.point.id)
     #e2rows = db(db.listing.entity==e2id).select(join = db.diff_point.on(db.listing.diff_point == db.diff_point.id))
+
+
+    #if not e1rows: # populate e1rows
+
 
     e1_dp_id = []
     for i in range(0, len(e1rows)):
@@ -94,7 +100,6 @@ def difflet():
     for i in e1_dp_id:
         if i in e2_dp_id:
             common.append(i)
-
     output={}
 
     for r in e1rows:
@@ -108,7 +113,38 @@ def difflet():
 #        if r['diff_point.id'] in common:
 #            old_tuple = output[r['diff_point.name']]
 #            output[r['diff_point.name']] =  ( old_tuple[0],  r['listing.summary'])
+    saveSearch(e1, e2)
+    """
+
     diffvideo = request.vars['v'] == '2'
+    from searchpy import getdata
+    indexpath = request.folder + "private/index"
+    one = getdata(indexpath, e1)
+    two = getdata(indexpath, e2)
+    common=[]
+    e1_dp_id = sorted(one.keys())
+    e2_dp_id = sorted(two.keys())
+    for i in e1_dp_id:
+        if i in e2_dp_id:
+            common.append(i)
+    output={}
+    output = {}
+    for k,v in one.items() :
+        if k in common:
+            output[k] = (v, '')
+    for k,v in two.items() :
+        if k in common:
+            old_tuple = output[k]
+            output[k] = (old_tuple[0], v)
+
+    if diffvideo == True:
+        from ytSearchpy import find_video
+        urls = find_video(e1, e2)
+        print "URLS>>>>>>>>>>>>>>>"
+        print urls
+        v1url = urls[0][1]
+        v2url = urls[1][1]
+
     return locals()
 
 

@@ -1,0 +1,37 @@
+
+FN_FAL:
+name:FN FAL,
+origin:Belgium,
+type:Battle_rifle,
+weight:* FAL 50.00: \n* FAL 50.61: \n* FAL 50.63: \n* FAL 50.41:,
+length:* FAL 50.00 : \n* FAL 50.61 : \n* FAL 50.61 : \n* FAL 50.63 : \n* FAL 50.63 : \n* FAL 50.41 :,
+name:Sturmgewehr 58,
+origin:Belgium and Austria,
+weight:to,
+FN_Herstal:
+name:Fabrique Nationale d'Herstal,
+foundation:1889,
+locationCity:Herstal,
+locationCountry:Belgium,
+keyPeople:* Henri Pieper\n* John Browning\n* Alexandre Galopin\n* Dieudonne Saive,
+industry:Arms_industry,
+products:Firearm,
+numEmployees:3000,
+homepage:www.fnherstal.com,www.fnamerica.com,
+FN_FAL:
+FN_FAL:
+FN_FAL:
+FN_FAL:
+FN_FAL:
+FN_FAL:
+FN_FAL:
+FN_FAL:
+FN_FAL:
+name:FN FAL,
+origin:Belgium,
+type:Battle_rifle,
+weight:* FAL 50.00: \n* FAL 50.61: \n* FAL 50.63: \n* FAL 50.41:,
+length:* FAL 50.00 : \n* FAL 50.61 : \n* FAL 50.61 : \n* FAL 50.63 : \n* FAL 50.63 : \n* FAL 50.41 :,
+name:Sturmgewehr 58,
+origin:Belgium and Austria,
+weight:to,

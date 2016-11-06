@@ -1,0 +1,11 @@
+
+F_Sharp_(programming_language):
+name:F#,
+designer:Microsoft Research, Don Syme,
+developer:Microsoft,F_Sharp_Software_Foundation,
+latestReleaseVersion:4,
+latestReleaseDate:2015-07-20,
+influencedBy:ML_(programming_language),OCaml,C_Sharp_(programming_language),Python_(programming_language),Haskell_(programming_language),Scala_(programming_language),Erlang_(programming_language),
+influenced:C_Sharp_(programming_language),Elm_(programming_language),F*_(programming_language),LiveScript,
+license:Apache_License,
+website:fsharp.org,

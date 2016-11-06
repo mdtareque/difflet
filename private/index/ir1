@@ -1,0 +1,13 @@
+
+R101:
+manufacturer:RAF_Cardington,
+designer:Vincent_Crane_Richmond,
+numberBuilt:1,
+programCost:711595.0,
+R1_(New_York_City_Subway_car):
+name:R1,
+manufacturer:American_Car_and_Foundry_Company,
+yearconstruction:1930,
+numberbuilt:300,
+capacity:56,
+operator:Independent_Subway_System,New_York_City_Transit_Authority,

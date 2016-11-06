@@ -1,0 +1,16 @@
+
+GP32:
+name:GP32,
+manufacturer:Game_Park,
+type:Handheld_game_console,
+cpu:Samsung S3C2400X01,
+successor:GP2X,
+GPE:
+name:GPE Palmtop Environment,
+latestReleaseVersion:2.8,
+latestReleaseDate:2007-08-07,
+status:Discontinued,
+operatingSystem:Linux,
+platform:Personal digital assistants,
+genre:User_interface,
+license:GNU_General_Public_License,GNU_Lesser_General_Public_License,

@@ -1,0 +1,1956 @@
+
+Volkssturm:
+unitName:Volkssturm,
+branch:Nazi_Party,
+dates:--10-18,
+notableCommanders:Joseph_Goebbels,
+Vought_F4U_Corsair:
+type:Carrier-based_aircraft,Fighter_aircraft,
+manufacturer:Vought,
+introduction:1942-12-28,
+produced:1942,
+numberBuilt:12571,
+Vostok_1:
+filename:Gagarin-Poyekhali.ogg,
+title:Poyekhali!,
+description:Gagarin's voice,
+filename:Levitan 12 04 1961.ogg,
+title:First human spaceflight,
+description:Soviet radio announcement by Yuri Levitan,
+Voltaire:
+birthName:François-Marie Arouet,
+pseudonym:Voltaire,
+birthDate:1694-11-21,
+birthPlace:Paris,France,
+deathDate:1778-05-30,
+deathPlace:Paris, France,
+occupation:Writer, philosopher, playwright, historian,
+Volvo:
+name:Volvo Group / AB Volvo,
+type:Public_company,Aktiebolag,
+founder:Assar Gabrielsson and Gustav Larson,
+location:Gothenburg, Sweden,
+products:Volvo_Trucks,Volvo_Buses,Volvo_Construction_Equipment,Volvo_Penta,Financial_services,
+keyPeople:Carl-Henric Svanberg ,,Martin Lundstedt,
+numEmployees:110000,
+subsid:Mack_Trucks,Renault_Trucks,UD_Trucks,Volvo_Construction_Equipment,Volvo_Buses,Volvo_Trucks,Volvo_Penta,Eicher_Motors,
+homepage:,
+intl:yes,
+Volkswagen:
+name:Volkswagen,
+type:Aktiengesellschaft,
+location:Wolfsburg, Germany,
+founder:German_Labour_Front,
+keyPeople:Matthias_Müller_(businessman),
+industry:Automotive_industry,
+products:Cars, trucks and buses,
+production:9727848,
+revenue:2.44985E11,
+netIncome:1.3393E10,
+assets:4.24982E11,
+numEmployees:588902,
+intl:yes,
+parent:Volkswagen_Group,
+Vorbis:
+name:libvorbis,
+developer:Xiph.Org_Foundation,
+released:2002-07-19,
+latestReleaseVersion:1.3,
+programmingLanguage:C_(programming_language),
+genre:Audio_codec,Reference_implementation,
+license:BSD_licenses,
+website:,
+filename:Test ogg mp3 48kbps.wav,
+title:Comparison between mp3 and vorbis,
+description:The first is an uncompressed wav file. The second is a vorbis file encoded at 48kbps, and third is a mp3 file encoded at 48kbps using LAME.,
+Volvox:
+domain:Eukaryote,
+unrankedRegnum:Archaeplastida,
+divisio:Chlorophyta,
+classis:Chlorophyceae,
+ordo:Volvocales,
+familia:Volvocaceae,
+Volleyball:
+union:Fédération_Internationale_de_Volleyball,
+team:6,
+ball:Volleyball_(ball),
+Volgograd:
+leaderTitle:Head,
+leaderName:Alexander_Chunakov,
+website:www.volgadmin.ru,
+Voyeurism:
+name:Voyeurism,
+icd:F65.3,302.82,
+Volkswagen_Group:
+name:Volkswagen Aktiengesellschaft,
+type:Public,
+foundation:Berlin, Germany,
+locationCity:Wolfsburg,
+locationCountry:Germany,
+locations:100,
+keyPeople:Hans_Dieter_Pötsch,Matthias Müller,
+industry:Automotive_industry,
+products:Automobiles, commercial vehicles, engines, motorcycles, turbomachinery,
+production:10.14,
+services:Banking, financing, fleet management, insurance, leasing,
+revenue:€202 billion \nUS$268.55 billion,
+operatingIncome:1.27E10,
+netIncome:1.0847E10,
+assets:3.51209E11,
+equity:9.0189E10,
+owner:Porsche_Automobil_Holding_SE,Volkswagen holdings,Lower_Saxony,Qatar_Investment_Authority,Capital_Group_Companies,
+numEmployees:588902,
+homepage:volkswagenag.com,
+intl:yes,
+Vocoder:
+filename:Elo blue sky.ogg,
+title:\,
+description:Classic example of a singing vocoded voice.,
+filename:Vocoder demo.ogg,
+title:Example of vocoder,
+description:Demonstration of the \,
+Volksmarine:
+unitName:People's Navy,Volksmarine,
+dates:1956,
+country:East Germany,
+allegiance:National_Defense_Council_of_East_Germany,
+type:Navy,
+role:Coastal_defence_and_fortification,
+size:27300,
+commandStructure:National_People's_Army,
+garrison:Rostock,
+battles:Cold_War,
+disbanded:1990-10-02,
+identificationSymbol:150,
+Von_Hippel–Lindau_disease:
+name:Von Hippel–Lindau disease,
+icd:Q85.8,759.6,
+omim:193300,
+Volapük:
+name:Volapük,
+fam:International_auxiliary_language,
+agency:International_Volapük_Academy,
+iso:vo,vol,
+Voyager_2:
+cosparId:1977,
+Vocal_folds:
+name:Vocal folds,
+meshname:Vocal+Folds,
+meshnumber:A04.329.364.737,
+Voluntary_Service_Overseas:
+name:Voluntary Service Overseas,
+formation:1958,
+type:International_development,Charitable_organization,
+Voyager_1:
+cosparId:1977,
+Volta_River:
+name:Volta River,
+country:Ghana,
+discharge:1210,
+mouthName:Gulf of Guinea,
+mouthLocation:Atlantic_Ocean,
+Voting_Rights_Act_of_1965:
+filename:Remarks on the Signing of the Voting Rights Act  Lyndon Baines Johnson.ogv,
+title:1965.0,
+description:--08-06,
+filename:Remarks on the Signing of the Voting Rights Act  Lyndon Baines Johnson.ogg,
+description:audio only,
+Volga_River:
+name:Volga,
+nativeName:Волга,
+country:Russia,
+city:Astrakhan,Volgograd,Saratov,Samara,_Russia,Ulyanovsk,Kazan,Nizhny_Novgorod,Yaroslavl,Tver,
+discharge:8060,
+sourceLocation:Valdai_Hills,
+sourceRegion:Tver_Oblast,
+sourceElevation:225,
+mouthName:Caspian_Sea,
+mouthRegion:Astrakhan_Oblast,
+mouthElevation:-28,
+tributaryLeft:Kama_River,
+tributaryRight:Oka,
+Volkswagen_Beetle:
+name:Volkswagen Type 1,
+manufacturer:Volkswagen,
+aka:\,
+assembly:Wolfsburg, Hanover, Emden, Ingolstadt, Osnabrück, Germany; Melbourne, Australia; Brussels, Belgium; São Bernardo do Campo, Brazil; Jakarta, Indonesia; Dublin, Ireland; Shah Alam, Malaysia; Puebla, Puebla, Mexico; Auckland, New Zealand; Lagos, Nigeria; Manila, Philippines; Uitenhage, South Africa; Sarajevo, Yugoslavia; Valencia, Venezuela; Heinola, Finland,
+class:Subcompact_car,Economy_car,
+bodyStyle:2,
+production:1938,
+successor:Volkswagen_Golf,Volkswagen Jetta,Volkswagen New Beetle,
+layout:Rear-engine,_rear-wheel-drive_layout,
+transmission:4,3,
+Volkswagen_Kübelwagen:
+name:VW type 82 \,
+manufacturer:Volkswagen,
+aka:Safari, \,
+production:50435,
+assembly:Stadt des KDF-Wagens, today Wolfsburg,
+predecessor:Volkswagen_Schwimmwagen,
+successor:Volkswagen 181/Kurierwagen/Thing/Trekker,
+class:List_of_military_vehicles,
+bodyStyle:4,
+layout:Rear-engine,_rear-wheel-drive_layout,
+platform:VW Type 1 Kdf-Wagen,
+engine:air-cooled flat-4,,985,1131.0,
+transmission:4,self-locking differential,
+height:;,collapsible,
+related:Volkswagen_Schwimmwagen,VW_276_Schlepperfahrzeug,
+designer:Ferdinand Porsche,
+Volusia_County,_Florida:
+county:Volusia County,
+state:Florida,
+foundedYear:1854,
+seat:DeLand,_Florida,
+largestCity:Deltona,_Florida,
+areaTotalSqMi:1432.44,
+areaLandSqMi:1101.03,
+areaWaterSqMi:331.4,
+areaPercentage:23.14,
+pop:494593,
+censusYr:2010,
+densitySqMi:449.2,
+Voyager_(web_browser):
+name:Voyager,
+developer:VaporWare_(company),
+latestReleaseVersion:3.3,
+latestPreviewVersion:3.3,
+platform:Amiga,
+genre:Web_browser,
+license:Proprietary_software,
+website:,
+Vosges_(department):
+name:Vosges,
+subdivisionName:France,Alsace-Champagne-Ardenne-Lorraine,
+p:Neufchâteau,_Vosges,Saint-Dié-des-Vosges,
+leaderTitle:President_of_the_Departmental_Council,
+leaderName:Christian_Poncelet,
+areaTotalKm:5874,
+populationTotal:380952,
+populationRank:60,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+Voice_of_America:
+owner:Broadcasting_Board_of_Governors,
+website:,
+Vona,_Colorado:
+officialName:Town of Vona, Colorado,
+settlementType:Town,
+subdivisionName:Kit_Carson_County,_Colorado,
+governmentType:List_of_cities_and_towns_in_Colorado,
+establishedDate:1919-08-09,
+areaTotalKm:0.6,
+areaLandKm:0.6,
+areaWaterKm:0,
+areaTotalSqMi:0.2,
+areaLandSqMi:0.2,
+areaWaterSqMi:0,
+populationTotal:106,
+timezone:Mountain_Time_Zone,
+utcOffset:-7,
+timezoneDst:Mountain_Time_Zone,
+utcOffsetDst:-6,
+elevationM:1376,
+elevationFt:4514,
+postalCode:80861,
+areaCode:970,
+Voluntown,_Connecticut:
+officialName:Voluntown, Connecticut,
+settlementType:New_England_town,
+subdivisionName:United_States,Connecticut,
+governmentType:Board_of_selectmen,
+leaderTitle:First Selectman,
+areaTotalKm:103.1,
+areaLandKm:100.8,
+areaWaterKm:2.2,
+areaTotalSqMi:39.8,
+areaLandSqMi:38.9,
+areaWaterSqMi:0.8,
+populationTotal:2603,
+timezone:Eastern_Time_Zone,
+utcOffset:-5,
+timezoneDst:Eastern_Time_Zone,
+utcOffsetDst:-4,
+elevationM:116,
+elevationFt:381,
+postalCode:6384,
+website:www.voluntown.gov,
+areaCode:860,
+Volcano,_Hawaii:
+officialName:Volcano, Hawaii,
+settlementType:Census-designated_place,
+subdivisionName:United_States,Hawaii,Hawaii_County,_Hawaii,
+areaTotalKm:146.8,
+areaLandKm:146.8,
+areaWaterKm:0,
+areaTotalSqMi:56.7,
+areaLandSqMi:56.7,
+areaWaterSqMi:0,
+populationTotal:2231,
+populationDensityKm:15.2,
+populationDensitySqMi:39.4,
+timezone:Hawaii–Aleutian_Time_Zone,
+utcOffset:-10,
+elevationM:1143,
+elevationFt:3750,
+postalCode:96785,
+areaCode:808,
+Volo,_Illinois:
+name:Volo, Illinois,
+category:List_of_towns_and_villages_in_Illinois,
+motto:\,
+country:United States,
+state:Illinois,
+region:Lake_County,_Illinois,
+population:2929,
+timezone:Central_Time_Zone,
+timezoneDst:Central_Time_Zone,
+postalCode:60050,
+areaCode:847,
+website:www.villageofvolo.com,
+Volga,_Iowa:
+officialName:Volga, Iowa,
+settlementType:City,
+subdivisionName:Clayton_County,_Iowa,
+areaTotalKm:2.02,
+areaLandKm:2.02,
+areaWaterKm:0,
+areaTotalSqMi:0.78,
+areaLandSqMi:0.78,
+areaWaterSqMi:0,
+populationTotal:208,
+populationDensityKm:103,
+populationDensitySqMi:266.7,
+timezone:Central_Time_Zone,
+utcOffset:-6,
+utcOffsetDst:-5,
+elevationM:242,
+elevationFt:794,
+postalCode:52077,
+areaCode:563,
+Volkert_van_der_Graaf:
+occupation:Environmentalism,
+Vox_(musical_equipment):
+name:Vox,
+type:Privately_held_company,
+industry:Musical_instrument,
+foundation:1947,
+founder:Thomas_Walter_Jennings,
+locationCity:Dartford,Kent,
+locationCountry:England,
+products:Electric guitars,Bass guitars,Amplifiers,Electronic organs,Electric ukuleles,Electric mandolins,
+parent:Korg,
+homepage:www.voxamps.com,
+Volinia_Township,_Michigan:
+officialName:Volinia Township, Michigan,
+settlementType:Township_(United_States),
+subdivisionName:United_States,Michigan,Cass_County,_Michigan,
+areaTotalKm:91,
+areaLandKm:89.1,
+areaWaterKm:1.9,
+populationTotal:1112,
+populationDensityKm:12.5,
+timezone:Eastern_Time_Zone,
+utcOffset:-5,
+utcOffsetDst:-4,
+elevationM:265,
+elevationFt:869,
+postalCode:49031,49045,49047,49067,
+Voerendaal:
+name:Voerendaal,
+settlementType:List_of_municipalities_of_the_Netherlands,
+subdivisionName:Netherlands,Limburg_(Netherlands),
+governingBody:Municipal_council_(Netherlands),
+leaderParty:People's_Party_for_Freedom_and_Democracy,
+leaderTitle:Burgemeester,
+leaderName:Wil_Houben,
+elevationM:92,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+postalCode:6310,
+areaCode:45,
+Vorden:
+name:Vorden,
+subdivisionName:Netherlands,Gelderland,Bronckhorst,
+areaTotalKm:67.89,
+areaLandKm:67.4,
+areaWaterKm:0.49,
+populationDensityKm:125,
+Voorst:
+name:Voorst,
+settlementType:List_of_municipalities_of_the_Netherlands,
+subdivisionName:Netherlands,Gelderland,
+governingBody:Municipal_council_(Netherlands),
+leaderParty:Labour_Party_(Netherlands),
+leaderTitle:Burgemeester,
+leaderName:Jos_Penninx,
+elevationM:6,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezoneDst:Central_European_Summer_Time,
+utcOffsetDst:+2,
+postalCode:7382,
+areaCode:550571,
+Voorhout:
+name:Voorhout,
+subdivisionName:Netherlands,South_Holland,Teylingen,
+Voorschoten:
+name:Voorschoten,
+settlementType:List_of_municipalities_of_the_Netherlands,
+subdivisionName:Netherlands,South_Holland,
+governingBody:Municipal_council_(Netherlands),
+leaderParty:People's_Party_for_Freedom_and_Democracy,
+leaderTitle:Burgemeester,
+leaderName:Jeroen_Staatsen,
+elevationM:0,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+postalCode:2250,
+areaCode:71,
+Voorhees_Township,_New_Jersey:
+name:Voorhees Township, New Jersey,
+officialName:Township of Voorhees,
+settlementType:Township_(New_Jersey),
+subdivisionName:Camden_County,_New_Jersey,
+governmentType:Township_(New_Jersey),
+leaderTitle:Mayor,City_manager,Clerk_(municipal_official),
+establishedDate:1899-03-01,
+areaTotalKm:30.157,
+areaLandKm:29.764,
+areaWaterKm:0.392,
+areaTotalSqMi:11.644,
+areaLandSqMi:11.492,
+areaWaterSqMi:0.152,
+areaWaterPercent:1.3,
+populationTotal:29131,
+populationRank:77,6,
+populationDensitySqMi:2534.9,
+timezone:Eastern_Time_Zone,
+utcOffset:-5,
+timezoneDst:Eastern_Time_Zone,
+utcOffsetDst:-4,
+elevationFt:112,
+postalCode:8043,
+areaCode:856,
+Voorheesville,_New_York:
+officialName:Voorheesville,
+settlementType:Administrative_divisions_of_New_York,
+subdivisionName:United_States,New_York,Albany_County,_New_York,New_Scotland,_New_York,
+areaTotalKm:5.5,
+areaLandKm:5.5,
+areaWaterKm:0,
+areaTotalSqMi:2.1,
+areaLandSqMi:2.1,
+areaWaterSqMi:0,
+populationTotal:2789,
+timezone:Eastern_Time_Zone,
+utcOffset:-5,
+utcOffsetDst:-4,
+elevationM:103,
+elevationFt:338,
+postalCode:12186,
+areaCode:518,
+Volney,_New_York:
+officialName:Volney, New York,
+settlementType:Administrative_divisions_of_New_York,
+subdivisionName:United_States,New_York,Oswego_County,_New_York,
+areaTotalKm:127.3,
+areaLandKm:125.1,
+areaWaterKm:2.2,
+areaTotalSqMi:49.1,
+areaLandSqMi:48.3,
+areaWaterSqMi:0.9,
+populationTotal:5926,
+timezone:Eastern_Time_Zone,
+utcOffset:-5,
+utcOffsetDst:-4,
+elevationM:146,
+elevationFt:479,
+postalCode:13069,
+areaCode:315,
+Voltaire,_North_Dakota:
+officialName:Voltaire, North Dakota,
+settlementType:City,
+subdivisionName:United_States,North_Dakota,McHenry_County,_North_Dakota,
+areaTotalKm:1.04,
+areaLandKm:1.04,
+areaWaterKm:0,
+areaTotalSqMi:0.4,
+areaLandSqMi:0.4,
+areaWaterSqMi:0,
+populationTotal:40,
+populationDensityKm:38.6,
+populationDensitySqMi:100,
+timezone:Central_Time_Zone,
+utcOffset:-6,
+utcOffsetDst:-5,
+elevationM:484,
+elevationFt:1588,
+postalCode:58792,
+areaCode:701,
+Volant,_Pennsylvania:
+name:Volant,
+settlementType:Borough_(Pennsylvania),
+subdivisionName:United States,Pennsylvania,Lawrence_County,_Pennsylvania,
+leaderTitle:Mayor,
+areaTotalSqMi:0.1,
+populationTotal:168,
+timezone:Eastern_Time_Zone,
+utcOffset:-4,
+timezone1Dst:Eastern_Time_Zone,
+utcOffset1Dst:-5,
+areaCode:724,
+Volga,_South_Dakota:
+officialName:Volga, South Dakota,
+settlementType:City,
+subdivisionName:United_States,South_Dakota,Brookings_County,_South_Dakota,
+areaTotalKm:2.36,
+areaLandKm:2.36,
+areaWaterKm:0,
+areaTotalSqMi:0.91,
+areaLandSqMi:0.91,
+areaWaterSqMi:0,
+populationTotal:1768,
+populationDensityKm:750.2,
+populationDensitySqMi:1942.9,
+timezone:Central_Time_Zone,
+utcOffset:-6,
+utcOffsetDst:-5,
+elevationM:498,
+elevationFt:1634,
+postalCode:57071,
+areaCode:605,
+Volin,_South_Dakota:
+officialName:Volin, South Dakota,
+settlementType:Town,
+subdivisionName:United_States,South_Dakota,Yankton_County,_South_Dakota,
+areaTotalKm:0.52,
+areaLandKm:0.52,
+areaWaterKm:0,
+areaTotalSqMi:0.2,
+areaLandSqMi:0.2,
+areaWaterSqMi:0,
+populationTotal:161,
+populationDensityKm:310.8,
+populationDensitySqMi:805,
+timezone:Central_Time_Zone,
+utcOffset:-6,
+utcOffsetDst:-5,
+elevationM:364,
+elevationFt:1194,
+postalCode:57072,
+areaCode:605,
+Volume_8:_The_Threat_Is_Real:
+name:Volume 8: The Threat Is Real,
+artist:Anthrax_(American_band),
+released:1998-07-21,
+recorded:Krusty's Fun House, Yonkers, New York, 1998,
+genre:*,Alternative_metal,Speed_metal,
+length:3813.0,
+producer:*Anthrax\n*,Paul_Crook,
+lastAlbum:Stomp 442,
+nextAlbum:We've Come for You All,
+Vordingborg_Municipality:
+name:Vordingborg Municipality,
+nativeName:Vordingborg Kommune,
+settlementType:Municipalities_of_Denmark,
+subdivisionName:Denmark,Region_Zealand,
+leaderParty:Venstre_(Denmark),
+leaderTitle:Mayor,
+areaTotalKm:621,
+populationTotal:45925,
+populationAsOf:--01-01,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+website:site.aspx?p=11566,
+Vonore,_Tennessee:
+officialName:Vonore, Tennessee,
+settlementType:Town,
+subdivisionName:United_States,Tennessee,Monroe_County,_Tennessee,Blount_County,_Tennessee,
+areaTotalKm:30.9,
+areaLandKm:23.3,
+areaWaterKm:7.6,
+populationTotal:1474,
+populationDensityKm:63.3,
+timezone:Eastern_Time_Zone,
+utcOffset:-5,
+utcOffsetDst:-4,
+elevationM:262,
+elevationFt:860,
+postalCode:37885,
+areaCode:423,
+Volkswagen_Schwimmwagen:
+name:Volkswagen Type 166 'Schwimmwagen',
+manufacturer:Volkswagen,
+production:14265,
+engine:4,1131,
+transmission:4,2,
+weight:910.0,
+related:Volkswagen_Kübelwagen,
+Vorselaar:
+arrondissement:Arrondissement_of_Turnhout,
+postalCodes:2290,
+telephoneArea:1403,
+Vosselaar:
+arrondissement:Arrondissement_of_Turnhout,
+mayor:Josee Heykants-Janssens,
+postalCodes:2350,
+telephoneArea:14,
+Vorarlberg:
+officialName:Vorarlberg,
+settlementType:States_of_Austria,
+leaderParty:Austrian_People's_Party,
+leaderTitle:List_of_governors_of_Vorarlberg,
+leaderName:Markus_Wallner,
+areaTotalKm:2601.48,
+populationTotal:378490,
+populationAsOf:2015-01-01,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:AT-8,
+website:,
+Volvo_Driving_Soccer_Mom:
+name:Volvo Driving Soccer Mom,
+artist:Everclear_(band),
+album:Slow_Motion_Daydream,
+released:2003-01-27,
+length:193.0,
+writer:Art_Alexakis,
+Voeren:
+arrondissement:Arrondissement_of_Tongeren,
+mayor:Huub Broers,
+postalCodes:9223372036854775807,
+telephoneArea:4,
+Vojvodina:
+conventionalLongName:Autonomous Province of Vojvodina,
+commonName:Vojvodina,
+imageFlag:Flag_of_Vojvodina.svg,
+officialLanguages:Serbian,Hungarian_language,Slovak_language,Romanian_language,Croatian,Pannonian_Rusyn_language,
+capital:Novi_Sad,
+governmentType:Autonomous_province,
+leaderTitle:President_of_the_Government_of_Vojvodina,
+leaderName:Bojan Pajtić,
+leaderTitle:President of Assembly of Vojvodina,
+leaderName:István Pásztor,
+areaKm:21506,
+areaSqMi:8304,
+populationDensityKm:90,
+populationDensitySqMi:230,
+currency:Serbian_dinar,
+timeZone:Central_European_Time,
+Voss:
+name:Voss,
+county:Hordaland,
+areaTotalKm:1805.81,
+areaLandKm:1731.97,
+areaWaterKm:73.84,
+populationTotal:14168,
+populationDensityKm:8.2,
+Volda:
+name:Volda,
+county:Møre og Romsdal,
+areaTotalKm:547.53,
+areaLandKm:524.89,
+areaWaterKm:22.64,
+populationTotal:8827,
+populationDensityKm:16.8,
+Volkswagen_Golf:
+name:Volkswagen Golf,
+manufacturer:Volkswagen,
+aka:Volkswagen Rabbit,Volkswagen Caribe,Volkswagen Cabrio,
+production:1974,
+assembly:Wolfsburg,Germany,
+class:Compact_car,Compact_car,
+bodyStyle:5,3,2,
+platform:Mk1 to Mk6 Volkswagen Group A platform \nMk7 Volkswagen Group MQB platform,
+predecessor:Volkswagen_Beetle,
+name:Volkswagen Golf Mk1,
+platform:Volkswagen_Group_A_platform,
+related:Volkswagen Jetta Mk1,Volkswagen Scirocco Mk1 & Mk2,
+name:Volkswagen Golf Mk2,
+production:1983,
+related:Volkswagen Jetta Mk2,Volkswagen_Corrado,SEAT Toledo Mk1,
+name:Volkswagen Golf Mk3,
+production:1992,
+related:Volkswagen_Jetta,
+name:Volkswagen Golf Mk4,
+production:1998,
+related:Volkswagen_Jetta,Volkswagen_Lavida,Audi A3 Mk1,Audi TT Mk1,SEAT León Mk1,SEAT Toledo Mk2,Škoda Octavia Mk1,
+name:Volkswagen Golf Mk5,
+production:2003,
+related:Volkswagen Jetta Mk5,Volkswagen_Eos,Volkswagen Scirocco Mk3,Audi A3 Mk2,SEAT León Mk2,SEAT Toledo Mk3,SEAT_Altea,Škoda Octavia Mk2,
+name:Volkswagen Golf Mk6,
+production:2008,
+related:Volkswagen Jetta Mk6,
+name:Volkswagen Golf Mk7,
+production:2012,
+platform:Volkswagen_Group_MQB_platform,
+related:Audi A3 Mk3,SEAT León Mk3,Škoda Octavia Mk3,Volkswagen Passat Mk8,
+Volvocaceae:
+name:Volvocaceae,
+regnum:Plantae,
+divisio:Chlorophyta,
+classis:Chlorophyceae,
+ordo:Volvocales,
+Volvocales:
+name:Volvocales,
+domain:Eukaryote,
+regnum:Plantae,
+divisio:Chlorophyta,
+classis:Chlorophyceae,
+synonyms:* Volvocida (Francé, 1894, orth. zool.)\t\n* Phytomonadina (Blochmann, 1895)\n* Chlamydomonadales (Fritsch in West & Fritsch, 1927),
+Vocal_fold_nodule:
+name:Vocal voice nodule,
+icd:J38.2,478.5,
+Voltron:
+title:Lion Force Voltron,''',
+network:Broadcast_syndication,
+title:Vehicle Force Voltron,
+network:First-run syndication,
+id:86824,
+Volkswagen_Scirocco:
+name:Volkswagen Scirocco,
+manufacturer:Volkswagen,
+production:1974,2008,
+predecessor:Volkswagen_Corrado,Volkswagen Karmann Ghia,
+class:Sport compact,
+layout:Front-engine,_front-wheel-drive_layout,
+name:First generation,
+assembly:Osnabrück, Germany,
+bodyStyle:3,
+platform:Volkswagen_Group_A_platform,
+engine:1.1,1.3,1.5,1.6,1.7,
+transmission:4,5,3,
+related:Volkswagen_Golf,Volkswagen_Jetta,
+designer:Giorgetto_Giugiaro,
+name:Second generation,
+production:1981,
+successor:Volkswagen_Corrado,
+engine:1.8,
+name:Third generation,
+assembly:Palmela, Portugal,
+engine:1.4,2,
+transmission:6,7,
+related:Volkswagen_Golf_Mk5,Volkswagen_Eos,SEAT León Mk2,
+designer:Walter_de_Silva,Marc Lichte,
+Vostok_6:
+cosparId:1963,
+Vostok_5:1963,
+Vogtlandkreis:
+name:Vogtlandkreis,
+Voskhod_2:
+cosparId:1965,
+Voskhod_1:
+cosparId:1964,
+Vous_et_Nous:
+name:Vous et Nous,
+artist:Brigitte Fontaine and Areski Belkacem,
+label:Saravah,
+producer:Areski Belkacem, Antoine Duhamel,
+lastAlbum:15,
+nextAlbum:Les églantines sont peut-être formidables,
+Voodoo_(D'Angelo_album):
+name:Voodoo,
+artist:D'Angelo,
+released:2000-01-25,
+genre:Neo_soul,Funk,Soul_music,Contemporary_R&B,
+length:4734.0,
+label:Cheeba Sound, Virgin,
+producer:D'Angelo , DJ Premier, Raphael Saadiq, Dominique Trenier,
+lastAlbum:Brown Sugar,
+nextAlbum:Black Messiah,
+filename:Chicken Grease Sample.ogg,
+title:\,
+description:The song's light, sparse funk sound is an example of the album's predominant vintage sound, which resulted from old school production techniques employed by recording engineer Russell Elevado.,
+filename:Spanish Joint sample.ogg,
+title:\,
+description:The high tempo, salsa-influenced track was recorded with no overdubs, and features Latin grooves and jazz-based horns by trumpeter Roy Hargrove, who also co-wrote the karma-themed song.,
+filename:Africa sample.ogg,
+title:\,
+description:The album's closing track has been cited by Questlove as his favorite song on the album. It was composed by D'Angelo in honor of his son and his cultural roots.,
+Volans:
+name:Volans,
+abbreviation:Vol,
+dec:−70,
+bordering:Carina_(constellation),Pictor,Dorado,Mensa,Chamaeleon,
+month:March,
+Vogelsbergkreis:
+name:Vogelsbergkreis,
+Vosges:
+name:Vosges,
+elevationM:1424,
+Voices_of_a_Distant_Star:
+type:ova,
+director:Makoto_Shinkai,
+writer:Makoto Shinkai,
+producer:Makoto Shinkai,Yoshihiro Hagiwara,
+music:Tenmon_(composer),
+illustrator:Makoto Shinkai,Kou_Yaginuma,
+publisher:Media_Factory,
+published:2002-07-25,
+type:manga,
+author:Makoto_Shinkai,
+illustrator:Sumomo_Yumeka,
+publisher:Kodansha,
+magazine:Monthly_Afternoon,
+published:2005-02-23,
+volumes:1,
+Votic_language:
+name:Votic,
+nativename:vađđa ceeli, maaceeli,
+states:Russia,
+region:Ingria,
+fam:Finnic_languages,
+iso:vot,
+Volvo_66:
+name:Volvo 66,
+manufacturer:Volvo_Cars,
+production:1975,
+class:Small family car,
+bodyStyle:2,3,
+layout:Front-engine,_rear-wheel-drive_layout,
+engine:1.1,1.3,
+transmission:Variomatic,
+assembly:Born, Netherlands,
+predecessor:DAF_66,
+successor:Volvo_300_Series,
+Volvo_Duett:
+name:Volvo Duett,
+manufacturer:Volvo_Cars,
+production:1953,
+engine:1.8,
+transmission:4,
+layout:Front-engine,_rear-wheel-drive_layout,
+successor:Volvo 145 Express,
+bodyStyle:Station_wagon,
+related:544,
+Volvo_Amazon:
+name:Volvo Amazon,
+manufacturer:Volvo_Cars,
+assembly:Lundby,_Gothenburg,, Sweden,Torslanda,Ghent,, Belgium,Halifax,_Nova_Scotia,, Canada,Durban,, South Africa,Arica,, Northern Chile,
+designer:Jan_Wilsgaard,
+production:1956,
+layout:Front-engine,_rear-wheel-drive_layout,
+length:to,;,
+predecessor:544,
+successor:Volvo_140_Series,
+class:Large family car,
+bodyStyle:2,Coupé,4,Sedan_(automobile),5,Station_wagon,
+engine:1583,Volvo_B4B_engine,'',Inline-four_engine,1778,Volvo_B18_engine,'' I4,1986,
+transmission:3,Manual_transmission,4,Volvo_M40_transmission,'' manual,35,'',Automatic_transmission,
+aka:Volvo 121/122S/123GT,Volvo Canadian GT,120,
+Vomeronasal_organ:
+name:Vomeronasal organ,
+graysubject:223,
+graypage:996,
+precursor:Nasal_placode,
+Volga_Germans:
+group:Volga Germans,
+languages:Russian_language,German_language,
+religions:Lutheranism,Catholic_Church,Baptists,Mennonite,
+Volkswagen_Karmann_Ghia:
+name:Volkswagen Type 14/Type 34,
+manufacturer:Volkswagen,
+production:Germany 1955–1974,445238,41689,
+related:Volkswagen_Beetle,
+class:Coupé,
+bodyStyle:2,
+engine:1200,
+designer:Luigi Segre at Ghia,
+layout:Rear-engine,_rear-wheel-drive_layout,
+successor:Porsche_914,Volkswagen Scirocco,
+assembly:Osnabrück, Germany,São Bernardo do Campo, Brazil,
+Volkswagen_Jetta:
+name:Volkswagen Jetta,
+manufacturer:Volkswagen,
+production:1979,
+class:Compact car / Small family car,
+platform:Volkswagen_Group_A_platform,
+aka:Volkswagen Atlantic,Volkswagen Fox,
+production:August 1979–February 1984,571030,
+assembly:Wolfsburg, Germany,TAS Sarajevo, Yugoslavia,Uitenhage, South Africa,Puebla, México,
+bodyStyle:4,2,
+layout:Front-engine,_front-wheel-drive_layout,
+engine:1.1,1.3,1.5,1.6,1.8,
+transmission:4,5,3,
+related:Volkswagen_Golf_Mk1,
+designer:Giorgetto_Giugiaro,
+production:1984,1991,1708390,
+assembly:Changchun, China,Chengdu, China,Lagos, Nigeria,Puebla, Mexico,New Stanton, Pennsylvania, United States,,
+layout:Front-engine, front-wheel-drive or four-wheel-drive,
+engine:2,
+length:1985,1989,
+width:1680.0,1985,
+related:Volkswagen_Golf_Mk2,Volkswagen Scirocco Mk2,Volkswagen_Corrado,SEAT Toledo Mk1,
+name:Volkswagen Vento,
+aka:Volkswagen Jetta,
+production:January 1992 – February 1999,
+assembly:Osnabrück, Germany,Puebla_City,Mexico,
+engine:2.8,1.9,
+related:Volkswagen_Golf_Mk3,
+designer:Herbert_Schäfer,
+name:Volkswagen Bora,
+aka:Volkswagen City Jetta,Volkswagen Bora Classic Edition,Volkswagen Clásico,Volkswagen Bora,
+production:1999,2004,
+modelYears:1999,
+assembly:Bratislava, Slovakia,
+bodyStyle:5,
+engine:1.4,2.3,
+transmission:6,
+wheelbase:sedan:,estate:,
+length:sedan:,estate:,
+height:sedan:,estate:,'08 City Jetta sedan:,
+related:Volkswagen_Golf_Mk4,Audi A3 Mk1,SEAT León Mk1,SEAT Toledo Mk2,Škoda Octavia Mk1,
+aka:Volkswagen GLI,Volkswagen Sagitar,Volkswagen Vento,Volkswagen Golf Wagon,
+production:2005,
+modelYears:2005.5,
+assembly:Aurangabad, India,Kaluga, Russia,Algiers, Algeria,
+engine:2.5,
+transmission:7,
+length:4554.0,Wagon:,
+width:1781.0,2010,
+height:1460.0,Wagon:,
+related:Volkswagen_Golf_Mk5,Audi A3 Mk2,SEAT León Mk2,SEAT Toledo Mk3,SEAT_Altea,Škoda Octavia Mk2,
+aka:Volkswagen New Compact Sedan,Volkswagen_Vento,Volkswagen_Jetta,Pyeonghwa Hwiparam 1613,Pyeonghwa Zunma 1606,
+production:2011,
+modelYears:2011,
+assembly:Nizhny_Novgorod,Russia,Chengdu,China,Pekan,Malaysia,São_Bernardo_do_Campo,Brazil,
+wheelbase:2650.0,Hybrid:,
+length:4644.0,Hybrid:,
+width:1778.0,Hybrid:,
+height:1450.0,Hybrid:,
+related:Volkswagen_Golf_Mk6,
+Vodafone_Romania:
+name:Vodafone Romania,
+foundation:1997,
+location:Bucharest, Romania,
+keyPeople:Ravinder Takkar, CEO,
+industry:Mobile telecommunications,
+homepage:,
+type:subsidiary of Vodafone,
+Vombatiformes:
+name:Vombatiformes,
+regnum:Animalia,
+phylum:Chordate,
+classis:Mammalia,
+subclassis:Theria,
+infraclassis:Marsupial,
+ordo:Diprotodontia,
+Voivod_(band):
+name:Voivod,
+background:group_or_band,
+origin:Jonquière, Quebec, Canada,
+genre:*,Heavy_metal_music,Progressive_metal,Thrash_metal,Speed_metal,Alternative_metal,
+yearsActive:1982,
+label:*,Metal_Blade_Records,Noise_Records,MCA_Records,* Mausoleum\n* Hypnotic\n* Chophouse\n*,The_End_Records,Relapse_Records,Century_Media_Records,
+associatedActs:*,Metallica,Flotsam_and_Jetsam_(band),Martyr_(band),Project_Failing_Flesh,Ozzy_Osbourne,Probot,
+currentMembers:Michel_Langevin,Denis_Bélanger,Daniel_Mongrain,Dominique \,
+pastMembers:Denis_D'Amour,Jean-Yves_Thériault,Pierre St. Jean,Gilles Brisebois,Eric_Forrest,Jason_Newsted,
+Volker_Schlöndorff:
+name:Volker Schlöndorff,
+birthDate:1939-03-31,
+birthPlace:Wiesbaden,Nazi_Germany,
+yearsActive:1960,
+occupation:Film director, producer, screenwriter,
+spouse:Margarethe_von_Trotta,Angelika Schlöndorff,
+Von_Willebrand_disease:
+name:von Willebrand disease,
+icd:D68.0,286.4,
+omim:193400,
+meshid:D014842,
+Vomer:
+name:Vomer,
+graysubject:43,
+graypage:170,
+meshname:Vomer,
+meshnumber:A02.165.407.600,
+Vouprasia:
+name:Vouprasia,
+nameLocal:Βουπρασία,
+postalCode:27052,
+areaCode:26230,
+Voyager_Point,_New_South_Wales:
+name:Voyager Point,
+pop:1369,
+Volvo_B4B_engine:
+name:B4B, B14, B16,
+manufacturer:Volvo_Cars,
+production:1944,
+successor:Volvo_B18_engine,
+bore:75.0,79.4,
+stroke:80.0,
+displacement:1414.0,
+valvetrain:Overhead_valve_engine,
+Volvo_P1900:
+name:Volvo Sport,
+manufacturer:Volvo_Cars,
+aka:Volvo P1900,
+production:1956,68,
+successor:Volvo_P1800,
+class:Sports car,
+bodyStyle:Roadster_(automobile),
+layout:Front-engine,_rear-wheel-drive_layout,
+engine:B14 I4,
+transmission:3,
+Voyagers!:
+showName:Voyagers!,
+genre:Science fiction,
+creator:James_D._Parriott,
+writer:Jill Donner,Robert Janes,James D. Parriott,Harry Longstreet,Renee Longstreet,
+director:Peter_Crane_(director),Alan_J._Levi,Bernard_McEveety,Ron Satlof,Paul_Stanley_(director),Virgil_W._Vogel,
+starring:Jon-Erik_Hexum,Meeno_Peluce,
+themeMusicComposer:Jerrold_Immel,
+opentheme:Jerrold_Immel,
+composer:Jerrold_Immel,Elliot_Kaplan,Peter_Myers_(composer),Joel_Rosenbaum,J._A._C._Redford,No composer credited,
+numSeasons:1,
+numEpisodes:20,
+executiveProducer:James D. Parriott,
+runtime:3600.0,
+company:James D. Parriott Productions,Scholastic_Corporation,
+distributor:Universal_Television,NBCUniversal_Television_Distribution,
+channel:NBC,
+audioFormat:Monaural,
+firstAired:1982-10-03,
+lastAired:1983-07-10,
+Vogue_(magazine):
+title:VOGUE,
+logo:210,
+imageSize:210,
+imageCaption:The January 2010 issue of Vogue USA, featuring Rachel McAdams.,
+totalCirculation:1259826,
+circulationYear:2013,
+category:List_of_fashion_magazines,
+editor:Anna_Wintour,Alexandra_Shulman,Franca_Sozzani,Emmanuelle_Alt,Yolanda_Sacristán,Daniela_Falcão,Angelica_Cheung,Victoria_Davydova,Edwina_McCann,Christiane_Arp,Myung_Hee_Lee,Priya_Tanna,Seda_Domaniç,Elena_Makri,Mitsuko_Watanabe,Rosalie_Huang,Kelly_Talamás,Karin_Swerink,Paula_Mateus,Masha_Tsukanova,Kullawit_Laosuksri,
+editorTitle:Editors,
+issn:42,
+Voeltzkowia:
+name:Voeltzkowia,
+regnum:Animalia,
+phylum:Chordate,
+classis:Reptile,
+ordo:Squamata,
+familia:Skink,
+Volkssturm:
+Volkssturm:
+Volkssturm:
+Volkssturm:
+Vought_F4U_Corsair:
+Vought_F4U_Corsair:
+Vought_F4U_Corsair:
+Vought_F4U_Corsair:
+Vought_F4U_Corsair:
+Vought_F4U_Corsair:
+Vostok_1:
+Vostok_1:
+Vostok_1:
+Vostok_1:
+Vostok_1:
+Vostok_1:
+Voltaire:
+Voltaire:
+Voltaire:
+Voltaire:
+Voltaire:
+Voltaire:
+Voltaire:
+Voltaire:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volvo:
+Volkswagen:
+Volkswagen:
+Volkswagen:
+Volkswagen:
+Volkswagen:
+Volkswagen:
+Volkswagen:
+Volkswagen:
+Volkswagen:
+Volkswagen:
+Volkswagen:
+Volkswagen:
+Volkswagen:
+Volkswagen:
+Vorbis:
+Vorbis:
+Vorbis:
+Vorbis:
+Vorbis:
+Vorbis:
+Vorbis:
+Vorbis:
+Vorbis:
+Vorbis:
+Vorbis:
+Vorbis:
+Volvox:
+Volvox:
+Volvox:
+Volvox:
+Volvox:
+Volvox:
+Volleyball:
+Volleyball:
+Volleyball:
+Volgograd:
+Volgograd:
+Volgograd:
+Voyeurism:
+Voyeurism:
+Voyeurism:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Volkswagen_Group:
+Vocoder:
+Vocoder:
+Vocoder:
+Vocoder:
+Vocoder:
+Vocoder:
+Volksmarine:
+Volksmarine:
+Volksmarine:
+Volksmarine:
+Volksmarine:
+Volksmarine:
+Volksmarine:
+Volksmarine:
+Volksmarine:
+Volksmarine:
+Volksmarine:
+Volksmarine:
+Volksmarine:
+Von_Hippel–Lindau_disease:
+Von_Hippel–Lindau_disease:
+Von_Hippel–Lindau_disease:
+Von_Hippel–Lindau_disease:
+Volapük:
+Volapük:
+Volapük:
+Volapük:
+Volapük:
+Voyager_2:
+Vocal_folds:
+Vocal_folds:
+Vocal_folds:
+Voluntary_Service_Overseas:
+Voluntary_Service_Overseas:
+Voluntary_Service_Overseas:
+Voluntary_Service_Overseas:
+Voyager_1:
+Volta_River:
+Volta_River:
+Volta_River:
+Volta_River:
+Volta_River:
+Voting_Rights_Act_of_1965:
+Voting_Rights_Act_of_1965:
+Voting_Rights_Act_of_1965:
+Voting_Rights_Act_of_1965:
+Voting_Rights_Act_of_1965:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volga_River:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Beetle:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volkswagen_Kübelwagen:
+Volusia_County,_Florida:
+Volusia_County,_Florida:
+Volusia_County,_Florida:
+Volusia_County,_Florida:
+Volusia_County,_Florida:
+Volusia_County,_Florida:
+Volusia_County,_Florida:
+Volusia_County,_Florida:
+Volusia_County,_Florida:
+Volusia_County,_Florida:
+Volusia_County,_Florida:
+Volusia_County,_Florida:
+Voyager_(web_browser):
+Voyager_(web_browser):
+Voyager_(web_browser):
+Voyager_(web_browser):
+Voyager_(web_browser):
+Voyager_(web_browser):
+Voyager_(web_browser):
+Voyager_(web_browser):
+Vosges_(department):
+Vosges_(department):
+Vosges_(department):
+Vosges_(department):
+Vosges_(department):
+Vosges_(department):
+Vosges_(department):
+Vosges_(department):
+Vosges_(department):
+Vosges_(department):
+Vosges_(department):
+Vosges_(department):
+Vosges_(department):
+Vosges_(department):
+Voice_of_America:
+Voice_of_America:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Vona,_Colorado:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Voluntown,_Connecticut:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volcano,_Hawaii:
+Volo,_Illinois:
+Volo,_Illinois:
+Volo,_Illinois:
+Volo,_Illinois:
+Volo,_Illinois:
+Volo,_Illinois:
+Volo,_Illinois:
+Volo,_Illinois:
+Volo,_Illinois:
+Volo,_Illinois:
+Volo,_Illinois:
+Volo,_Illinois:
+Volkssturm:
+unitName:Volkssturm,
+branch:Nazi_Party,
+dates:--10-18,
+notableCommanders:Joseph_Goebbels,
+Vought_F4U_Corsair:
+type:Carrier-based_aircraft,Fighter_aircraft,
+manufacturer:Vought,
+introduction:1942-12-28,
+produced:1942,
+numberBuilt:12571,
+Vostok_1:
+filename:Gagarin-Poyekhali.ogg,
+title:Poyekhali!,
+description:Gagarin's voice,
+filename:Levitan 12 04 1961.ogg,
+title:First human spaceflight,
+description:Soviet radio announcement by Yuri Levitan,
+Voltaire:
+birthName:François-Marie Arouet,
+pseudonym:Voltaire,
+birthDate:1694-11-21,
+birthPlace:Paris,France,
+deathDate:1778-05-30,
+deathPlace:Paris, France,
+occupation:Writer, philosopher, playwright, historian,
+Volvo:
+name:Volvo Group / AB Volvo,
+type:Public_company,Aktiebolag,
+founder:Assar Gabrielsson and Gustav Larson,
+location:Gothenburg, Sweden,
+products:Volvo_Trucks,Volvo_Buses,Volvo_Construction_Equipment,Volvo_Penta,Financial_services,
+keyPeople:Carl-Henric Svanberg ,,Martin Lundstedt,
+numEmployees:110000,
+subsid:Mack_Trucks,Renault_Trucks,UD_Trucks,Volvo_Construction_Equipment,Volvo_Buses,Volvo_Trucks,Volvo_Penta,Eicher_Motors,
+homepage:,
+intl:yes,
+Volkswagen:
+name:Volkswagen,
+type:Aktiengesellschaft,
+location:Wolfsburg, Germany,
+founder:German_Labour_Front,
+keyPeople:Matthias_Müller_(businessman),
+industry:Automotive_industry,
+products:Cars, trucks and buses,
+production:9727848,
+revenue:2.44985E11,
+netIncome:1.3393E10,
+assets:4.24982E11,
+numEmployees:588902,
+intl:yes,
+parent:Volkswagen_Group,
+Vorbis:
+name:libvorbis,
+developer:Xiph.Org_Foundation,
+released:2002-07-19,
+latestReleaseVersion:1.3,
+programmingLanguage:C_(programming_language),
+genre:Audio_codec,Reference_implementation,
+license:BSD_licenses,
+website:,
+filename:Test ogg mp3 48kbps.wav,
+title:Comparison between mp3 and vorbis,
+description:The first is an uncompressed wav file. The second is a vorbis file encoded at 48kbps, and third is a mp3 file encoded at 48kbps using LAME.,
+Volvox:
+domain:Eukaryote,
+unrankedRegnum:Archaeplastida,
+divisio:Chlorophyta,
+classis:Chlorophyceae,
+ordo:Volvocales,
+familia:Volvocaceae,
+Volleyball:
+union:Fédération_Internationale_de_Volleyball,
+team:6,
+ball:Volleyball_(ball),
+Volgograd:
+leaderTitle:Head,
+leaderName:Alexander_Chunakov,
+website:www.volgadmin.ru,
+Voyeurism:
+name:Voyeurism,
+icd:F65.3,302.82,
+Volkswagen_Group:
+name:Volkswagen Aktiengesellschaft,
+type:Public,
+foundation:Berlin, Germany,
+locationCity:Wolfsburg,
+locationCountry:Germany,
+locations:100,
+keyPeople:Hans_Dieter_Pötsch,Matthias Müller,
+industry:Automotive_industry,
+products:Automobiles, commercial vehicles, engines, motorcycles, turbomachinery,
+production:10.14,
+services:Banking, financing, fleet management, insurance, leasing,
+revenue:€202 billion \nUS$268.55 billion,
+operatingIncome:1.27E10,
+netIncome:1.0847E10,
+assets:3.51209E11,
+equity:9.0189E10,
+owner:Porsche_Automobil_Holding_SE,Volkswagen holdings,Lower_Saxony,Qatar_Investment_Authority,Capital_Group_Companies,
+numEmployees:588902,
+homepage:volkswagenag.com,
+intl:yes,
+Vocoder:
+filename:Elo blue sky.ogg,
+title:\,
+description:Classic example of a singing vocoded voice.,
+filename:Vocoder demo.ogg,
+title:Example of vocoder,
+description:Demonstration of the \,
+Volksmarine:
+unitName:People's Navy,Volksmarine,
+dates:1956,
+country:East Germany,
+allegiance:National_Defense_Council_of_East_Germany,
+type:Navy,
+role:Coastal_defence_and_fortification,
+size:27300,
+commandStructure:National_People's_Army,
+garrison:Rostock,
+battles:Cold_War,
+disbanded:1990-10-02,
+identificationSymbol:150,
+Von_Hippel–Lindau_disease:
+name:Von Hippel–Lindau disease,
+icd:Q85.8,759.6,
+omim:193300,
+Volapük:
+name:Volapük,
+fam:International_auxiliary_language,
+agency:International_Volapük_Academy,
+iso:vo,vol,
+Voyager_2:
+cosparId:1977,
+Vocal_folds:
+name:Vocal folds,
+meshname:Vocal+Folds,
+meshnumber:A04.329.364.737,
+Voluntary_Service_Overseas:
+name:Voluntary Service Overseas,
+formation:1958,
+type:International_development,Charitable_organization,
+Voyager_1:
+cosparId:1977,
+Volta_River:
+name:Volta River,
+country:Ghana,
+discharge:1210,
+mouthName:Gulf of Guinea,
+mouthLocation:Atlantic_Ocean,
+Voting_Rights_Act_of_1965:
+filename:Remarks on the Signing of the Voting Rights Act  Lyndon Baines Johnson.ogv,
+title:1965.0,
+description:--08-06,
+filename:Remarks on the Signing of the Voting Rights Act  Lyndon Baines Johnson.ogg,
+description:audio only,
+Volga_River:
+name:Volga,
+nativeName:Волга,
+country:Russia,
+city:Astrakhan,Volgograd,Saratov,Samara,_Russia,Ulyanovsk,Kazan,Nizhny_Novgorod,Yaroslavl,Tver,
+discharge:8060,
+sourceLocation:Valdai_Hills,
+sourceRegion:Tver_Oblast,
+sourceElevation:225,
+mouthName:Caspian_Sea,
+mouthRegion:Astrakhan_Oblast,
+mouthElevation:-28,
+tributaryLeft:Kama_River,
+tributaryRight:Oka,
+Volkswagen_Beetle:
+name:Volkswagen Type 1,
+manufacturer:Volkswagen,
+aka:\,
+assembly:Wolfsburg, Hanover, Emden, Ingolstadt, Osnabrück, Germany; Melbourne, Australia; Brussels, Belgium; São Bernardo do Campo, Brazil; Jakarta, Indonesia; Dublin, Ireland; Shah Alam, Malaysia; Puebla, Puebla, Mexico; Auckland, New Zealand; Lagos, Nigeria; Manila, Philippines; Uitenhage, South Africa; Sarajevo, Yugoslavia; Valencia, Venezuela; Heinola, Finland,
+class:Subcompact_car,Economy_car,
+bodyStyle:2,
+production:1938,
+successor:Volkswagen_Golf,Volkswagen Jetta,Volkswagen New Beetle,
+layout:Rear-engine,_rear-wheel-drive_layout,
+transmission:4,3,
+Volkswagen_Kübelwagen:
+name:VW type 82 \,
+manufacturer:Volkswagen,
+aka:Safari, \,
+production:50435,
+assembly:Stadt des KDF-Wagens, today Wolfsburg,
+predecessor:Volkswagen_Schwimmwagen,
+successor:Volkswagen 181/Kurierwagen/Thing/Trekker,
+class:List_of_military_vehicles,
+bodyStyle:4,
+layout:Rear-engine,_rear-wheel-drive_layout,
+platform:VW Type 1 Kdf-Wagen,
+engine:air-cooled flat-4,,985,1131.0,
+transmission:4,self-locking differential,
+height:;,collapsible,
+related:Volkswagen_Schwimmwagen,VW_276_Schlepperfahrzeug,
+designer:Ferdinand Porsche,
+Volusia_County,_Florida:
+county:Volusia County,
+state:Florida,
+foundedYear:1854,
+seat:DeLand,_Florida,
+largestCity:Deltona,_Florida,
+areaTotalSqMi:1432.44,
+areaLandSqMi:1101.03,
+areaWaterSqMi:331.4,
+areaPercentage:23.14,
+pop:494593,
+censusYr:2010,
+densitySqMi:449.2,
+Voyager_(web_browser):
+name:Voyager,
+developer:VaporWare_(company),
+latestReleaseVersion:3.3,
+latestPreviewVersion:3.3,
+platform:Amiga,
+genre:Web_browser,
+license:Proprietary_software,
+website:,
+Vosges_(department):
+name:Vosges,
+subdivisionName:France,Alsace-Champagne-Ardenne-Lorraine,
+p:Neufchâteau,_Vosges,Saint-Dié-des-Vosges,
+leaderTitle:President_of_the_Departmental_Council,
+leaderName:Christian_Poncelet,
+areaTotalKm:5874,
+populationTotal:380952,
+populationRank:60,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+Voice_of_America:
+owner:Broadcasting_Board_of_Governors,
+website:,
+Vona,_Colorado:
+officialName:Town of Vona, Colorado,
+settlementType:Town,
+subdivisionName:Kit_Carson_County,_Colorado,
+governmentType:List_of_cities_and_towns_in_Colorado,
+establishedDate:1919-08-09,
+areaTotalKm:0.6,
+areaLandKm:0.6,
+areaWaterKm:0,
+areaTotalSqMi:0.2,
+areaLandSqMi:0.2,
+areaWaterSqMi:0,
+populationTotal:106,
+timezone:Mountain_Time_Zone,
+utcOffset:-7,
+timezoneDst:Mountain_Time_Zone,
+utcOffsetDst:-6,
+elevationM:1376,
+elevationFt:4514,
+postalCode:80861,
+areaCode:970,
+Voluntown,_Connecticut:
+officialName:Voluntown, Connecticut,
+settlementType:New_England_town,
+subdivisionName:United_States,Connecticut,
+governmentType:Board_of_selectmen,
+leaderTitle:First Selectman,
+areaTotalKm:103.1,
+areaLandKm:100.8,
+areaWaterKm:2.2,
+areaTotalSqMi:39.8,
+areaLandSqMi:38.9,
+areaWaterSqMi:0.8,
+populationTotal:2603,
+timezone:Eastern_Time_Zone,
+utcOffset:-5,
+timezoneDst:Eastern_Time_Zone,
+utcOffsetDst:-4,
+elevationM:116,
+elevationFt:381,
+postalCode:6384,
+website:www.voluntown.gov,
+areaCode:860,
+Volcano,_Hawaii:
+officialName:Volcano, Hawaii,
+settlementType:Census-designated_place,
+subdivisionName:United_States,Hawaii,Hawaii_County,_Hawaii,
+areaTotalKm:146.8,
+areaLandKm:146.8,
+areaWaterKm:0,
+areaTotalSqMi:56.7,
+areaLandSqMi:56.7,
+areaWaterSqMi:0,
+populationTotal:2231,
+populationDensityKm:15.2,
+populationDensitySqMi:39.4,
+timezone:Hawaii–Aleutian_Time_Zone,
+utcOffset:-10,
+elevationM:1143,
+elevationFt:3750,
+postalCode:96785,
+areaCode:808,
+Volo,_Illinois:
+name:Volo, Illinois,
+category:List_of_towns_and_villages_in_Illinois,
+motto:\,
+country:United States,
+state:Illinois,
+region:Lake_County,_Illinois,
+population:2929,
+timezone:Central_Time_Zone,
+timezoneDst:Central_Time_Zone,
+postalCode:60050,
+areaCode:847,
+website:www.villageofvolo.com,
+Volga,_Iowa:
+officialName:Volga, Iowa,
+settlementType:City,
+subdivisionName:Clayton_County,_Iowa,
+areaTotalKm:2.02,
+areaLandKm:2.02,
+areaWaterKm:0,
+areaTotalSqMi:0.78,
+areaLandSqMi:0.78,
+areaWaterSqMi:0,
+populationTotal:208,
+populationDensityKm:103,
+populationDensitySqMi:266.7,
+timezone:Central_Time_Zone,
+utcOffset:-6,
+utcOffsetDst:-5,
+elevationM:242,
+elevationFt:794,
+postalCode:52077,
+areaCode:563,
+Volkert_van_der_Graaf:
+occupation:Environmentalism,
+Vox_(musical_equipment):
+name:Vox,
+type:Privately_held_company,
+industry:Musical_instrument,
+foundation:1947,
+founder:Thomas_Walter_Jennings,
+locationCity:Dartford,Kent,
+locationCountry:England,
+products:Electric guitars,Bass guitars,Amplifiers,Electronic organs,Electric ukuleles,Electric mandolins,
+parent:Korg,
+homepage:www.voxamps.com,
+Volinia_Township,_Michigan:
+officialName:Volinia Township, Michigan,
+settlementType:Township_(United_States),
+subdivisionName:United_States,Michigan,Cass_County,_Michigan,
+areaTotalKm:91,
+areaLandKm:89.1,
+areaWaterKm:1.9,
+populationTotal:1112,
+populationDensityKm:12.5,
+timezone:Eastern_Time_Zone,
+utcOffset:-5,
+utcOffsetDst:-4,
+elevationM:265,
+elevationFt:869,
+postalCode:49031,49045,49047,49067,
+Voerendaal:
+name:Voerendaal,
+settlementType:List_of_municipalities_of_the_Netherlands,
+subdivisionName:Netherlands,Limburg_(Netherlands),
+governingBody:Municipal_council_(Netherlands),
+leaderParty:People's_Party_for_Freedom_and_Democracy,
+leaderTitle:Burgemeester,
+leaderName:Wil_Houben,
+elevationM:92,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+postalCode:6310,
+areaCode:45,
+Vorden:
+name:Vorden,
+subdivisionName:Netherlands,Gelderland,Bronckhorst,
+areaTotalKm:67.89,
+areaLandKm:67.4,
+areaWaterKm:0.49,
+populationDensityKm:125,
+Voorst:
+name:Voorst,
+settlementType:List_of_municipalities_of_the_Netherlands,
+subdivisionName:Netherlands,Gelderland,
+governingBody:Municipal_council_(Netherlands),
+leaderParty:Labour_Party_(Netherlands),
+leaderTitle:Burgemeester,
+leaderName:Jos_Penninx,
+elevationM:6,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezoneDst:Central_European_Summer_Time,
+utcOffsetDst:+2,
+postalCode:7382,
+areaCode:550571,
+Voorhout:
+name:Voorhout,
+subdivisionName:Netherlands,South_Holland,Teylingen,
+Voorschoten:
+name:Voorschoten,
+settlementType:List_of_municipalities_of_the_Netherlands,
+subdivisionName:Netherlands,South_Holland,
+governingBody:Municipal_council_(Netherlands),
+leaderParty:People's_Party_for_Freedom_and_Democracy,
+leaderTitle:Burgemeester,
+leaderName:Jeroen_Staatsen,
+elevationM:0,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+postalCode:2250,
+areaCode:71,
+Voorhees_Township,_New_Jersey:
+name:Voorhees Township, New Jersey,
+officialName:Township of Voorhees,
+settlementType:Township_(New_Jersey),
+subdivisionName:Camden_County,_New_Jersey,
+governmentType:Township_(New_Jersey),
+leaderTitle:Mayor,City_manager,Clerk_(municipal_official),
+establishedDate:1899-03-01,
+areaTotalKm:30.157,
+areaLandKm:29.764,
+areaWaterKm:0.392,
+areaTotalSqMi:11.644,
+areaLandSqMi:11.492,
+areaWaterSqMi:0.152,
+areaWaterPercent:1.3,
+populationTotal:29131,
+populationRank:77,6,
+populationDensitySqMi:2534.9,
+timezone:Eastern_Time_Zone,
+utcOffset:-5,
+timezoneDst:Eastern_Time_Zone,
+utcOffsetDst:-4,
+elevationFt:112,
+postalCode:8043,
+areaCode:856,
+Voorheesville,_New_York:
+officialName:Voorheesville,
+settlementType:Administrative_divisions_of_New_York,
+subdivisionName:United_States,New_York,Albany_County,_New_York,New_Scotland,_New_York,
+areaTotalKm:5.5,
+areaLandKm:5.5,
+areaWaterKm:0,
+areaTotalSqMi:2.1,
+areaLandSqMi:2.1,
+areaWaterSqMi:0,
+populationTotal:2789,
+timezone:Eastern_Time_Zone,
+utcOffset:-5,
+utcOffsetDst:-4,
+elevationM:103,
+elevationFt:338,
+postalCode:12186,
+areaCode:518,
+Volney,_New_York:
+officialName:Volney, New York,
+settlementType:Administrative_divisions_of_New_York,
+subdivisionName:United_States,New_York,Oswego_County,_New_York,
+areaTotalKm:127.3,
+areaLandKm:125.1,
+areaWaterKm:2.2,
+areaTotalSqMi:49.1,
+areaLandSqMi:48.3,
+areaWaterSqMi:0.9,
+populationTotal:5926,
+timezone:Eastern_Time_Zone,
+utcOffset:-5,
+utcOffsetDst:-4,
+elevationM:146,
+elevationFt:479,
+postalCode:13069,
+areaCode:315,
+Voltaire,_North_Dakota:
+officialName:Voltaire, North Dakota,
+settlementType:City,
+subdivisionName:United_States,North_Dakota,McHenry_County,_North_Dakota,
+areaTotalKm:1.04,
+areaLandKm:1.04,
+areaWaterKm:0,
+areaTotalSqMi:0.4,
+areaLandSqMi:0.4,
+areaWaterSqMi:0,
+populationTotal:40,
+populationDensityKm:38.6,
+populationDensitySqMi:100,
+timezone:Central_Time_Zone,
+utcOffset:-6,
+utcOffsetDst:-5,
+elevationM:484,
+elevationFt:1588,
+postalCode:58792,
+areaCode:701,
+Volant,_Pennsylvania:
+name:Volant,
+settlementType:Borough_(Pennsylvania),
+subdivisionName:United States,Pennsylvania,Lawrence_County,_Pennsylvania,
+leaderTitle:Mayor,
+areaTotalSqMi:0.1,
+populationTotal:168,
+timezone:Eastern_Time_Zone,
+utcOffset:-4,
+timezone1Dst:Eastern_Time_Zone,
+utcOffset1Dst:-5,
+areaCode:724,
+Volga,_South_Dakota:
+officialName:Volga, South Dakota,
+settlementType:City,
+subdivisionName:United_States,South_Dakota,Brookings_County,_South_Dakota,
+areaTotalKm:2.36,
+areaLandKm:2.36,
+areaWaterKm:0,
+areaTotalSqMi:0.91,
+areaLandSqMi:0.91,
+areaWaterSqMi:0,
+populationTotal:1768,
+populationDensityKm:750.2,
+populationDensitySqMi:1942.9,
+timezone:Central_Time_Zone,
+utcOffset:-6,
+utcOffsetDst:-5,
+elevationM:498,
+elevationFt:1634,
+postalCode:57071,
+areaCode:605,
+Volin,_South_Dakota:
+officialName:Volin, South Dakota,
+settlementType:Town,
+subdivisionName:United_States,South_Dakota,Yankton_County,_South_Dakota,
+areaTotalKm:0.52,
+areaLandKm:0.52,
+areaWaterKm:0,
+areaTotalSqMi:0.2,
+areaLandSqMi:0.2,
+areaWaterSqMi:0,
+populationTotal:161,
+populationDensityKm:310.8,
+populationDensitySqMi:805,
+timezone:Central_Time_Zone,
+utcOffset:-6,
+utcOffsetDst:-5,
+elevationM:364,
+elevationFt:1194,
+postalCode:57072,
+areaCode:605,
+Volume_8:_The_Threat_Is_Real:
+name:Volume 8: The Threat Is Real,
+artist:Anthrax_(American_band),
+released:1998-07-21,
+recorded:Krusty's Fun House, Yonkers, New York, 1998,
+genre:*,Alternative_metal,Speed_metal,
+length:3813.0,
+producer:*Anthrax\n*,Paul_Crook,
+lastAlbum:Stomp 442,
+nextAlbum:We've Come for You All,
+Vordingborg_Municipality:
+name:Vordingborg Municipality,
+nativeName:Vordingborg Kommune,
+settlementType:Municipalities_of_Denmark,
+subdivisionName:Denmark,Region_Zealand,
+leaderParty:Venstre_(Denmark),
+leaderTitle:Mayor,
+areaTotalKm:621,
+populationTotal:45925,
+populationAsOf:--01-01,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+website:site.aspx?p=11566,
+Vonore,_Tennessee:
+officialName:Vonore, Tennessee,
+settlementType:Town,
+subdivisionName:United_States,Tennessee,Monroe_County,_Tennessee,Blount_County,_Tennessee,
+areaTotalKm:30.9,
+areaLandKm:23.3,
+areaWaterKm:7.6,
+populationTotal:1474,
+populationDensityKm:63.3,
+timezone:Eastern_Time_Zone,
+utcOffset:-5,
+utcOffsetDst:-4,
+elevationM:262,
+elevationFt:860,
+postalCode:37885,
+areaCode:423,

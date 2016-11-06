@@ -1,0 +1,20 @@
+
+30_St_Mary_Axe:
+name:30,
+location:St_Mary_Axe,London, United Kingdom,
+startDate:2001,
+completionDate:2003,
+architecturalStyle:Neo-futurism,
+floorCount:41,
+architect:Foster_and_Partners,
+cost:1.38E8,(adjusted for inflation: £ ),
+30:
+cpu:Motorola_68030,
+os:System 6.0.3 – Mac OS 8.1 (with 68040 processor upgrade),
+300_Series_Shinkansen:
+name:300,
+manufacturer:Hitachi,Kawasaki_Heavy_Industries,Kinki_Sharyo,Nippon_Sharyo,
+yearconstruction:1990,
+numberbuilt:1104,
+capacity:1323,
+operator:*,Central_Japan_Railway_Company,West_Japan_Railway_Company,

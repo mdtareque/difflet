@@ -1,0 +1,21 @@
+
+G4S_Secure_Solutions:
+name:G4S Secure Solutions,
+type:Subsidiary,
+parent:G4S,
+foundation:1954,
+keyPeople:George Wackenhut,
+location:Jupiter, Florida, United States,
+homepage:us,
+G4S:
+name:G4S plc,
+type:Public_limited_company,
+keyPeople:John Connolly (Chairman),Ashley Almanza (CEO),
+location:London,
+revenue:£6,848 million,
+operatingIncome:2.7E8,
+netIncome:1.69E8,
+industry:Security,
+numEmployees:618000,
+subsid:G4S_Secure_Solutions,
+homepage:,

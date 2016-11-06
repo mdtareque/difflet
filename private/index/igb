@@ -1,0 +1,13 @@
+
+GBU-12_Paveway_II:
+name:GBU-12 Paveway II,
+GBU-24_Paveway_III:
+name:GBU-24 Paveway III,
+type:laser-guided bomb,
+GBU-15:GBU-15,
+origin:United_States,
+wars:Gulf_War,
+GBU-28:
+name:Guided Bomb Unit 28,
+diameter:38.8,
+origin:United States,

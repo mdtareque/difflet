@@ -1,0 +1,17 @@
+
+HGM-25A_Titan_I:
+name:Titan I,
+function:Intercontinental_ballistic_missile,
+manufacturer:Glenn_L._Martin_Company,
+countryOrigin:United_States,
+height:31 m,
+diameter:3.05 m,
+mass:105140.0,
+stages:2,
+status:Retired,
+sites:Cape_Canaveral_Air_Force_Station,Cape_Canaveral_Air_Force_Station_Launch_Complex_15,Cape_Canaveral_Air_Force_Station_Launch_Complex_16,Cape_Canaveral_Air_Force_Station_Launch_Complex_19,Cape_Canaveral_Air_Force_Station_Launch_Complex_20,Vandenberg_Air_Force_Base,Vandenberg_AFB_OSTF,Vandenberg_AFB_SLTF,Vandenberg_AFB_Launch_Complex_395,
+first:1959-02-06,
+last:1965-03-05,
+launches:70,
+success:53,
+fail:17,

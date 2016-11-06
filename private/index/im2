@@ -1,0 +1,71 @@
+
+M25_motorway:
+type:M,
+route:25,
+lengthMi:117,
+junction:1000,J3 → M20 motorway,J5 → M26 motorway,J7 → M23 motorway Junction 8,J12 → M3 motorway Junction 2,J15 → M4 motorway Junction 4B,J16 → M40 motorway Junction 1A,J21 → M1 motorway Junction 6A,J23 → A1(M) motorway Junction 1,J27 → M11 motorway Junction 6,
+M2_Browning:
+name:Browning Machine Gun, Cal. .50, M2, HB,
+type:Heavy_machine_gun,
+origin:United_States,
+wars:World_War_II,Korean_War,First_Indochina_War,Suez_Crisis,Portuguese_Colonial_War,Vietnam_War,Six-Day_War,Iran–Iraq_War,Yom_Kippur_War,Cambodian_Civil_War,Cambodian–Vietnamese_War,Falklands_War,South_African_Border_War,Namibian_War_of_Independence,Invasion_of_Grenada,Bougainville_Civil_War,United_States_invasion_of_Panama,Gulf_War,Somali_Civil_War,Yugoslav_Wars,War_in_Afghanistan_(2001–14),Iraq_War,Mexican_Drug_War,
+weight:38.0,with tripod and T&E,
+M26_Pershing:
+name:M26 Pershing,
+origin:United_States,
+type:Medium_tank,Heavy_tank,
+wars:World_War_II,Korean_War,
+M22_Locust:
+name:Light Tank  M22,
+type:Airborne_forces,Light_tank,
+wars:World War II,1948,
+M24_Chaffee:
+name:Light Tank M24,
+type:Light_tank,
+wars:World War II, Korean War, First Indochina War, Ifni War, Vietnam War, Algerian War, Indo-Pakistani War of 1971,
+length:including gun,excluding gun,
+M2_motorway_(Great_Britain):
+type:M,
+route:2,
+lengthMi:25.7,
+terminusA:Shorne,
+terminusB:Boughton_under_Blean,
+M20_motorway:
+type:M,
+route:20,
+lengthMi:50.6,
+terminusA:Swanley,
+terminusB:Folkestone,
+junction:1000,J1 → M25 motorway,J3 → M26 motorway,
+M27_motorway:
+type:M,
+route:27,
+lengthMi:25,
+terminusA:Cadnam,
+terminusB:Portsmouth,
+junction:1000,J3 → M271 motorway,J4 → M3 motorway,J12 → M275 motorway,
+M23_motorway:
+type:M,
+route:23,
+lengthMi:15.9,
+terminusA:Marling Glen, Surrey,
+terminusB:Crawley,West_Sussex,
+junction:1000,J8 → M25 motorway,
+M25_motorway:
+M25_motorway:
+M25_motorway:
+M25_motorway:
+M25_motorway:
+M25_motorway:
+M25_motorway:
+M25_motorway:
+M25_motorway:
+M25_motorway:
+M25_motorway:
+M25_motorway:
+M25_motorway:
+M25_motorway:
+type:M,
+route:25,
+lengthMi:117,
+junction:1000,J3 → M20 motorway,J5 → M26 motorway,J7 → M23 motorway Junction 8,J12 → M3 motorway Junction 2,J15 → M4 motorway Junction 4B,J16 → M40 motorway Junction 1A,J21 → M1 motorway Junction 6A,J23 → A1(M) motorway Junction 1,J27 → M11 motorway Junction 6,

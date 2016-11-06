@@ -1,0 +1,76 @@
+
+RMS_Olympic:
+shipOwner:*25px White Star Line 1911–1934\n*25px Cunard White Star Line 1934–1935,
+shipBuilder:Harland_and_Wolff,Belfast,
+shipLaidDown:1908-12-16,
+shipLaunched:1910-10-20,
+shipCompleted:1911-05-31,
+shipMaidenVoyage:1911-06-14,
+shipFate:7.573824E8,
+shipStatus:Scrapped,
+shipHeight:175.0,
+shipPower:24,
+shipSpeed:* \n*,
+RMS_Queen_Elizabeth:
+shipName:*1939–68: RMS Queen Elizabeth\n*1968–70: Elizabeth\n*1970–72: Seawise University,
+shipOwner:*1939–49: Cunard White Star Line\n*1949–68: Cunard Line\n*1968–70: The Queen Corporation\n*1970–72: Orient Overseas Line,
+shipOrdered:1936-10-06,
+shipBuilder:*John Brown and Company\n* (Clydebank, Scotland),
+shipLaidDown:1936-12-04,
+shipLaunched:1938-09-27,
+shipChristened:1938-09-27,
+shipMaidenVoyage:1940-03-03,
+shipFate:Fire-damaged and partially dismantled, vessel's remains covered over on seabed in Hong Kong Harbour in 1975,
+shipType:Ocean_liner,
+RMS_Queen_Mary:
+shipName:Royal Mail Ship  Queen Mary,
+shipOwner:*1936–49: Cunard White Star Line\n*1949–67: Cunard Line\n*1967-Present: City of Long Beach,
+shipOrdered:1929-04-03,
+shipBuilder:*John Brown and Company\n*Clydebank, Scotland,
+shipLaidDown:1930-12-01,
+shipLaunched:1934-09-26,
+shipChristened:1934-09-26,
+shipMaidenVoyage:1936-05-27,
+shipOutOfService:1967-12-09,
+shipStatus:Hotel / restaurant / museum ship,
+shipType:Ocean_liner,
+shipLength:* LOA\n* LBP,
+shipPower:24,
+shipSpeed:28.5,
+name:RMS Queen Mary,
+added:1993-04-15,
+refnum:92001714,
+RMS_Empress_of_Russia:
+shipName:RMS Empress of Russia,
+shipOwner:File:Canadian_Pacific_house_flag.svg,Canadian_Pacific_Railway,
+shipBuilder:Fairfield_Shipbuilding_and_Engineering_Company,Govan,Scotland,
+shipLaunched:1912-08-28,
+shipMaidenVoyage:1913-04-01,
+shipFate:Scrapped in 1945, Barrow,
+shipClass:Ocean_liner,
+shipLength:570.0,
+shipBeam:68.0,
+RMS_Olympic:
+RMS_Olympic:
+RMS_Olympic:
+RMS_Olympic:
+RMS_Olympic:
+RMS_Olympic:
+RMS_Olympic:
+RMS_Olympic:
+RMS_Olympic:
+RMS_Olympic:
+RMS_Olympic:
+RMS_Olympic:
+RMS_Olympic:
+shipOwner:*25px White Star Line 1911–1934\n*25px Cunard White Star Line 1934–1935,
+shipBuilder:Harland_and_Wolff,Belfast,
+shipLaidDown:1908-12-16,
+shipLaunched:1910-10-20,
+shipCompleted:1911-05-31,
+shipMaidenVoyage:1911-06-14,
+shipFate:7.573824E8,
+shipStatus:Scrapped,
+shipHeight:175.0,
+shipPower:24,
+shipSpeed:* \n*,

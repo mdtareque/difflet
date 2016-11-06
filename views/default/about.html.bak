@@ -1,0 +1,18 @@
+{{extend 'layout.html'}}
+
+<div style="text-align: center">
+<h1>Semester project: CSE703 : Difflet</h1>
+<h2>Monsoon 2016</h2>
+<h2>Guide: Prof. Radhika Mamidi</h2>
+<h3>International Institute of Information Technology, Hyderabad</h3>
+
+<hr>
+
+<h2>Created By :</h2>
+<p>Md Tareque Khan(201505521)</p>
+<p>Harshendra Avabratha(201505520)</p>
+<p>Utsav Choksi(201505581)</p>
+<p>Source code available: {{=A(_href='https://github.com/mdtareque/difflet2')}}</p>
+
+<hr>
+</div>

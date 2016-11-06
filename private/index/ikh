@@ -1,0 +1,514 @@
+
+Khmer_language:
+name:Khmer,
+states:Cambodia,Vietnam,Thailand,
+iso:km,khm,
+name:Old Khmer,
+states:Khmer_Empire,
+Khazars:
+conventionalLongName:Kingdom of Khazaria,Eastern Tourkia,(Hazar Kağanlığı),
+commonName:Khazaria,
+yearStart:650,
+yearEnd:1048,
+capital:Balanjar,Samandar,Atil,
+currency:Yarmaq,
+Khalid_al-Mihdhar:
+name:Khalid al-Mihdhar,
+birthDate:1975-05-16,
+birthName:Khalid al-Mihdhar,
+birthPlace:Mecca,Saudi_Arabia,
+deathDate:2001-09-11,
+deathPlace:The Pentagon, Arlington, Virginia, United States,
+relatives:Ahmed_al-Darbi,
+Khunjerab_Pass:
+name:Khunjerab Pass,
+location:Xinjiang, China / Gilgit–Baltistan, Pakistan,
+Khandi_Alexander:
+name:Khandi Alexander,
+birthDate:1957-09-04,
+birthPlace:New York City, New York, USA,
+occupation:Actress, dancer, choreographer,
+yearsActive:1985,
+Khwaja_Ahmad_Abbas:
+name:Khwaja Ahmad Abbas / K. A. Abbas,
+birthName:Khwaja Ahmad Abbas,
+birthDate:1914-06-07,
+birthPlace:Panipat,Punjab_Province_(British_India),British_Raj,
+occupation:Film_director,Screenwriter,Novelist,Journalist,Columnist,
+deathDate:1987-06-01,
+deathPlace:Mumbai,Maharashtra,India,
+yearsActive:1935,
+id:7815,
+Khartoum:
+officialName:Khartoum,
+nickname:the Triangular Capital,
+subdivisionName:Sudan,Khartoum_(state),
+leaderTitle:Governor,
+populationUrban:576337,
+populationTotal:1939598,
+timezone:East_Africa_Time,
+utcOffset:+3,
+utcOffsetDst:+3,
+Khyber_Pakhtunkhwa:
+name:Khyber Pakhtunkhwa,
+nativeName:خیبر پښتونخوا,
+nickname:Frontier, Frontier Province, Sarhad,
+p:Peshawar,
+establishedDate:1947-08-14,--07-01,
+governmentType:Administrative_units_of_Pakistan,
+governingBody:Khyber_Pakhtunkhwa_Assembly,
+leaderTitle:List_of_current_Pakistani_governors,
+leaderName:Iqbal Zafar Jhagra,
+leaderTitle:List_of_current_Pakistani_chief_ministers,
+leaderName:Pervez Khattak,
+leaderTitle:Chief_Secretary,Khyber_Pakhtunkhwa_Assembly,
+leaderName:Khyber_Pakhtunkhwa_Assembly,
+leaderTitle:High_Courts_of_Pakistan,
+leaderName:Peshawar_High_Court,
+areaTotalKm:74521,
+populationTotal:26896829,
+timezone:Time_in_Pakistan,
+utcOffset:+5,
+areaCode:9291,
+website:,
+isoCode:PK-KP,
+Khat:
+name:Khat,
+status:LR/lc,
+statusSystem:IUCN2.3,
+regnum:Plantae,
+unrankedDivisio:Flowering_plant,
+unrankedClassis:Eudicots,
+unrankedOrdo:Rosids,
+ordo:Celastrales,
+familia:Celastraceae,
+genus:Catha,
+binomialAuthority:Forssk. ex Endl.,
+Khabarovsk:
+leaderTitle:Mayor,
+website:khabarovskadm.ru,
+Khamis_Mushait:
+name:Khamis Mushayt,
+nativeName:خـميــس مشيـــط,
+subdivisionName:'Asir_Region,
+leaderTitle:Mayor,
+leaderName:Saeed_Bin_Mushait,
+populationTotal:713000,
+timezone:East_Africa_Time,
+utcOffset:+3,
+timezoneDst:East_Africa_Time,
+utcOffsetDst:+3,
+website:,
+areaCode:+966-7,
+Khabarovsk_Krai:
+areaKm:788600,
+leaderTitle:Governor_of_Khabarovsk_Krai,
+leaderName:Vyacheslav_Shport,
+website:www.khabkrai.ru,
+Khan_Yunis:
+population:142637,
+area:54560,
+website:,
+Khosrow_II:
+name:Khosrow II,
+title:List_of_shahanshahs_of_the_Sasanian_Empire,Parvīz,
+reign:590,--02-25,
+predecessor:Hormizd_IV,Bahrām_Chōbin,Vistahm,
+successor:Kavadh_II,
+father:Hormizd_IV,
+Khosrow_I:
+name:Khosrow I,
+title:Shahanshah of the Sasanian Empire,Anushiruwan,
+reign:--09-13,0579-01-31,
+predecessor:Kavadh_I,
+successor:Hormizd_IV,
+father:Kavadh_I,
+Khanty_people:
+group:Khanty,
+poptime:31000,
+popplace:Khanty-Mansi Autonomous Okrug,
+rels:Russian_Orthodox_Church,Shamanism,
+langs:Russian_language,Khanty_language,
+related:Mansi_people,
+KHTML:
+name:KHTML,
+frequentlyUpdated:yes,
+developer:KDE,
+programmingLanguage:C++,
+operatingSystem:Cross-platform,
+genre:Layout_engine,
+license:GNU_Lesser_General_Public_License,
+Khanate_of_Sibir:
+conventionalLongName:Khanate of Sibir,
+commonName:Khanate of Sibir,
+yearStart:1490,
+yearEnd:1598,
+capital:Chimgi-Tura,Sibir,
+governmentType:Khanate,
+Khoisan:
+group:Khoisan,
+popplace:Southern_Africa,
+rels:Mainly Christian and African Traditional Religion,
+langs:Khoisan_languages,
+related:perhaps Sandawe people, Botswana people, Namibia people,,
+Khaki:
+title:Khaki,
+hex:F0E68C,
+r:240,
+g:230,
+b:140,
+h:54,
+s:41,
+v:94,
+hex:C3B091,
+r:195,
+g:176,
+b:145,
+h:37,
+s:26,
+v:76,
+title:Dark Khaki,
+hex:BDB76B,
+r:189,
+g:183,
+b:107,
+h:56,
+s:43,
+v:74,
+Khama_III:
+name:Khama III,
+title:King  of Bechuanaland, Ruler of the Bangwato people of central Botswana; Paramount Chief of the bamaNgwato,
+reign:1872,
+fullName:Khama III Boiklanyo,
+successor:Sekgoma Khama, Kgosi Sekgoma II,
+father:Kgosikgolo Sekgoma, Kgosi Sekgoma I,
+Khon_Kaen:
+name:Khon Kaen,
+nativeName:กองทัพเรือ,
+settlementType:Thesaban,
+subdivisionName:Thailand,Khon_Kaen_Province,Mueang_Khon_Kaen_District,
+governmentType:City municipality,
+leaderTitle:Mayor,
+areaTotalKm:46,
+populationTotal:113754,
+timezone:UTC+07:00,
+utcOffset:+7,
+website:,
+Khorat_Plateau:
+name:Khorat Plateau,
+nativeName:ที่ราบสูงโคราช,
+settlementType:Natural_region,
+subdivisionName:Thailand,
+elevationM:200,
+Khon_Kaen_Province:
+name:Khon Kaen,
+nativeName:ขอนแก่น,
+settlementType:Provinces_of_Thailand,
+leaderTitle:Governor,
+areaTotalKm:10886,
+populationTotal:1790049,
+populationRank:Provinces_of_Thailand,
+timezone:Time_in_Thailand,
+utcOffset:+7,
+areaCode:43,
+isoCode:ISO_3166-2:TH,
+Khamphoui:
+name:Khamphoui,
+title:Queen of Laos,
+reign:--10-29,
+spouse:Sisavang_Vatthana,
+birthDate:1912-07-12,
+birthPlace:Luang_Prabang,Kingdom_of_Luang_Phrabang,French_Indochina,
+deathPlace:Sop_Hao,Laos,
+Khmer_Empire:
+nativeName:កម្វុជទេឝ,
+conventionalLongName:Khmer Empire,( Kambujadesa Kingdom),Kampuchea,
+commonName:Khmer Empire,
+yearStart:802,
+yearEnd:1431,
+capital:Yaśodharapura,Hariharalaya,Angkor,
+governmentType:Absolute_monarchy,
+Khmer_Republic:
+conventionalLongName:Khmer Republic,
+nativeName:Sathéaranakrâth Khmer,
+commonName:Khmer Republic,
+nationalMotto:''',\,
+governmentType:Unitary_state,Parliamentary_system,Republic,with military dictatorship,
+nationalAnthem:''',Song_of_the_Khmer_Republic,
+capital:Phnom Penh,
+yearStart:1970,
+yearEnd:1975,
+currency:Cambodian_riel,
+Khaosai_Galaxy:
+name:Khaosai Galaxy,
+birthDate:1959-05-15,
+birthPlace:Phetchabun,Thailand,
+Khirbat_Iribbin:
+population:360,
+area:11463,
+Khirbat_Jiddin:7587,
+population:1500,
+Khajuraho_Group_of_Monuments:
+id:240,
+region:List_of_World_Heritage_Sites_in_India,
+link:240,
+Khan_Abdul_Ghaffar_Khan:
+name:Khan Abdul Ghaffar Khan,
+birthDate:1890-02-06,
+birthPlace:Utmanzai, Hashtnagar, Frontier Tribal Areas of Punjab Province, British India,
+deathDate:1988-01-20,
+deathPlace:Peshawar, Khyber Pakhtunkhwa, Pakistan,
+restingPlace:Jalalabad,Nangarhar_Province,Afghanistan,
+nationality:British Indian –,
+children:Khan_Abdul_Ghani_Khan,Khan_Abdul_Wali_Khan,Sardaro,Mehar Taja,Khan_Abdul_Ali_Khan,
+awards:Amnesty International Prisoner of Conscience of the Year,Jawaharlal_Nehru_Award,Bharat_Ratna,
+Khakassia:
+areaKm:61900,
+leaderTitle:Head_of_the_Republic_of_Khakassia,
+leaderName:Viktor_Zimin_(politician),
+website:www.r-19.ru,
+Khiva:
+officialName:Khiva,
+nativeName:Xiva / Хива,
+subdivisionName:25,Xorazm_Region,
+populationTotal:51200,
+Khmer_language:
+Khmer_language:
+Khmer_language:
+Khmer_language:
+Khmer_language:
+Khmer_language:
+Khmer_language:
+Khmer_language:
+Khazars:
+Khazars:
+Khazars:
+Khazars:
+Khazars:
+Khazars:
+Khazars:
+Khazars:
+Khazars:
+Khazars:
+Khalid_al-Mihdhar:
+Khalid_al-Mihdhar:
+Khalid_al-Mihdhar:
+Khalid_al-Mihdhar:
+Khalid_al-Mihdhar:
+Khalid_al-Mihdhar:
+Khalid_al-Mihdhar:
+Khalid_al-Mihdhar:
+Khunjerab_Pass:
+Khunjerab_Pass:
+Khandi_Alexander:
+Khandi_Alexander:
+Khandi_Alexander:
+Khandi_Alexander:
+Khandi_Alexander:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khwaja_Ahmad_Abbas:
+Khartoum:
+Khartoum:
+Khartoum:
+Khartoum:
+Khartoum:
+Khartoum:
+Khartoum:
+Khartoum:
+Khartoum:
+Khartoum:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khyber_Pakhtunkhwa:
+Khat:
+Khat:
+Khat:
+Khat:
+Khat:
+Khat:
+Khat:
+Khat:
+Khat:
+Khat:
+Khat:
+Khabarovsk:
+Khabarovsk:
+Khamis_Mushait:
+Khamis_Mushait:
+Khamis_Mushait:
+Khamis_Mushait:
+Khamis_Mushait:
+Khamis_Mushait:
+Khamis_Mushait:
+Khamis_Mushait:
+Khamis_Mushait:
+Khamis_Mushait:
+Khamis_Mushait:
+Khamis_Mushait:
+Khabarovsk_Krai:
+Khabarovsk_Krai:
+Khabarovsk_Krai:
+Khabarovsk_Krai:
+Khan_Yunis:
+Khan_Yunis:
+Khan_Yunis:
+Khmer_language:
+name:Khmer,
+states:Cambodia,Vietnam,Thailand,
+iso:km,khm,
+name:Old Khmer,
+states:Khmer_Empire,
+Khazars:
+conventionalLongName:Kingdom of Khazaria,Eastern Tourkia,(Hazar Kağanlığı),
+commonName:Khazaria,
+yearStart:650,
+yearEnd:1048,
+capital:Balanjar,Samandar,Atil,
+currency:Yarmaq,
+Khalid_al-Mihdhar:
+name:Khalid al-Mihdhar,
+birthDate:1975-05-16,
+birthName:Khalid al-Mihdhar,
+birthPlace:Mecca,Saudi_Arabia,
+deathDate:2001-09-11,
+deathPlace:The Pentagon, Arlington, Virginia, United States,
+relatives:Ahmed_al-Darbi,
+Khunjerab_Pass:
+name:Khunjerab Pass,
+location:Xinjiang, China / Gilgit–Baltistan, Pakistan,
+Khandi_Alexander:
+name:Khandi Alexander,
+birthDate:1957-09-04,
+birthPlace:New York City, New York, USA,
+occupation:Actress, dancer, choreographer,
+yearsActive:1985,
+Khwaja_Ahmad_Abbas:
+name:Khwaja Ahmad Abbas / K. A. Abbas,
+birthName:Khwaja Ahmad Abbas,
+birthDate:1914-06-07,
+birthPlace:Panipat,Punjab_Province_(British_India),British_Raj,
+occupation:Film_director,Screenwriter,Novelist,Journalist,Columnist,
+deathDate:1987-06-01,
+deathPlace:Mumbai,Maharashtra,India,
+yearsActive:1935,
+id:7815,
+Khartoum:
+officialName:Khartoum,
+nickname:the Triangular Capital,
+subdivisionName:Sudan,Khartoum_(state),
+leaderTitle:Governor,
+populationUrban:576337,
+populationTotal:1939598,
+timezone:East_Africa_Time,
+utcOffset:+3,
+utcOffsetDst:+3,
+Khyber_Pakhtunkhwa:
+name:Khyber Pakhtunkhwa,
+nativeName:خیبر پښتونخوا,
+nickname:Frontier, Frontier Province, Sarhad,
+p:Peshawar,
+establishedDate:1947-08-14,--07-01,
+governmentType:Administrative_units_of_Pakistan,
+governingBody:Khyber_Pakhtunkhwa_Assembly,
+leaderTitle:List_of_current_Pakistani_governors,
+leaderName:Iqbal Zafar Jhagra,
+leaderTitle:List_of_current_Pakistani_chief_ministers,
+leaderName:Pervez Khattak,
+leaderTitle:Chief_Secretary,Khyber_Pakhtunkhwa_Assembly,
+leaderName:Khyber_Pakhtunkhwa_Assembly,
+leaderTitle:High_Courts_of_Pakistan,
+leaderName:Peshawar_High_Court,
+areaTotalKm:74521,
+populationTotal:26896829,
+timezone:Time_in_Pakistan,
+utcOffset:+5,
+areaCode:9291,
+website:,
+isoCode:PK-KP,
+Khat:
+name:Khat,
+status:LR/lc,
+statusSystem:IUCN2.3,
+regnum:Plantae,
+unrankedDivisio:Flowering_plant,
+unrankedClassis:Eudicots,
+unrankedOrdo:Rosids,
+ordo:Celastrales,
+familia:Celastraceae,
+genus:Catha,
+binomialAuthority:Forssk. ex Endl.,
+Khabarovsk:
+leaderTitle:Mayor,
+website:khabarovskadm.ru,
+Khamis_Mushait:
+name:Khamis Mushayt,
+nativeName:خـميــس مشيـــط,
+subdivisionName:'Asir_Region,
+leaderTitle:Mayor,
+leaderName:Saeed_Bin_Mushait,
+populationTotal:713000,
+timezone:East_Africa_Time,
+utcOffset:+3,
+timezoneDst:East_Africa_Time,
+utcOffsetDst:+3,
+website:,
+areaCode:+966-7,
+Khabarovsk_Krai:
+areaKm:788600,
+leaderTitle:Governor_of_Khabarovsk_Krai,
+leaderName:Vyacheslav_Shport,
+website:www.khabkrai.ru,
+Khan_Yunis:
+population:142637,
+area:54560,
+website:,
+Khosrow_II:
+name:Khosrow II,
+title:List_of_shahanshahs_of_the_Sasanian_Empire,Parvīz,
+reign:590,--02-25,
+predecessor:Hormizd_IV,Bahrām_Chōbin,Vistahm,
+successor:Kavadh_II,
+father:Hormizd_IV,
+Khosrow_I:
+name:Khosrow I,
+title:Shahanshah of the Sasanian Empire,Anushiruwan,
+reign:--09-13,0579-01-31,
+predecessor:Kavadh_I,
+successor:Hormizd_IV,
+father:Kavadh_I,

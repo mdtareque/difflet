@@ -1,0 +1,217 @@
+
+M16_rifle:
+name:Rifle, 5.56 mm, M16,
+origin:United_States,
+type:Assault_rifle,
+wars:Vietnam_War,Laotian_Civil_War,Cambodian_Civil_War,The_Troubles,Cambodian–Vietnamese_War,1982,Invasion_of_Grenada,South_Lebanon_conflict_(1985–2000),Nepalese_Civil_War,Bougainville_Civil_War,United_States_invasion_of_Panama,Oka_Crisis,Gulf_War,Somali_Civil_War,Yugoslav_Wars,Operation_Deny_Flight,Implementation_Force,War_in_Afghanistan_(2001–14),Iraq_War,Syrian_Civil_War,Gaza–Israel_conflict,2014,Iraqi_Civil_War_(2014–present),Several other conflicts,
+M18_Claymore_mine:
+name:M18A1 Claymore mine,
+type:Directional fragmentation anti-personnel mine,
+wars:Vietnam_War,Cambodian_Civil_War,Iraq_War,Gulf_War,Bosnian_War,Rhodesian_Bush_War,War_in_Afghanistan_(2001–14),
+weight:3.5,
+length:216.0,
+width:38.0,
+height:124.0,
+M109_howitzer:
+name:M109 Howitzer,
+type:Self-propelled_artillery,
+wars:Vietnam_War,Yom Kippur War,Iran–Iraq War,Western Sahara War,Gulf War,Iraq War,Saudi Arabian-led intervention in Yemen,
+length:30.0,
+M110_howitzer:
+name:8.0,
+origin:United_States,
+wars:Vietnam_War,Iran–Iraq War,1982,Gulf War,
+type:Self-propelled_artillery,
+M102_howitzer:
+name:M102 howitzer,
+type:Howitzer,
+wars:Vietnam_War,Invasion_of_Grenada,Gulf_War,Iraq_War,
+length:Travel:,
+width:Travel:,
+height:Travel:,
+M198_howitzer:
+name:M198 Howitzer,
+wars:Gulf_War,
+weight:7154.0,
+length:660.0,738.0,
+width:168.0,
+height:174.0,
+M1_Garand:
+name:Rifle, Caliber .30, M1,
+origin:United_States,
+type:Semi-automatic_rifle,
+wars:World_War_II,Indonesian_National_Revolution,Korean_War,1948,Hukbalahap_Rebellion,First_Indochina_War,Suez_Crisis,1958,Cuban_Revolution,Vietnam_War,Cambodian_Civil_War,Angolan_Civil_War,Iran–Iraq_War,Gulf_War,The_Troubles,Syrian_Civil_War,Numerous other conflicts,
+weight:to,
+M11_motorway:
+type:M,
+route:11,
+lengthMi:55,
+directionA:South,
+directionB:North,
+terminusA:South_Woodford,
+terminusB:Girton,_Cambridgeshire,
+junction:1000,M25_motorway,
+M1_carbine:
+name:Carbine, Caliber .30, M1,
+type:* Semi-automatic rifle\n* Carbine,
+origin:United_States,
+wars:World_War_II,Hukbalahap_Rebellion,Malayan_Emergency,Suez_Crisis,Korean_War,Cuban_Revolution,First_Indochina_War,Vietnam_War,The_Troubles,Cambodian_Civil_War,Angolan_Civil_War,
+weight:empty\n loaded w/ sling,
+M1911_pistol:
+name:United States Pistol, Caliber .45, M1911,
+origin:United_States,
+type:Semi-automatic_pistol,
+wars:As standard U.S. service pistol:\nWorld War I,World_War_II,Korean_War,Vietnam_War,In non-standard use:,Gulf_War,War_in_Afghanistan_(2001–14),Iraq_War,Mexican_Drug_War,Syrian_Civil_War,
+weight:2.44,
+length:8.25,
+M1_motorway:
+type:M,
+route:1,
+lengthMi:193.5,
+directionA:South,
+directionB:North,
+terminusA:London A406,
+terminusB:Hook Moor,
+junction:1000,J6a → M25 motorway,J17 → M45 motorway,J19 → M6 motorway,J21 → M69 motorway,J32 → M18 motorway,J42 → M62 motorway,J43 → M621 motorway,J48 → A1(M) motorway,
+M14_rifle:
+name:Rifle, 7.62 mm, M14,
+origin:United_States,
+type:Battle_rifle,Sniper_rifle,Designated_marksman_rifle,
+weight:9.2,10.7,
+length:44.3,
+M18_motorway_(Great_Britain):
+type:M,
+route:18,
+lengthMi:26.5,
+terminusA:Thurcroft,
+terminusB:Rawcliffe,_East_Riding_of_Yorkshire,
+junction:1000,M1_motorway,A1(M)_motorway,M180_motorway,M62_motorway,
+M180_motorway:
+type:M,
+route:180,
+lengthMi:25,
+terminusA:Stainforth,_South_Yorkshire,
+terminusB:Elsham,_North_Lincolnshire,
+junction:1000,M18_motorway_(Great_Britain),M181_motorway,
+M1_motorway_(Republic_of_Ireland):
+type:M,
+route:1,
+lengthKm:87,
+terminusA:Dublin,
+terminusB:Ballymascanlan,
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M16_rifle:
+M18_Claymore_mine:
+M18_Claymore_mine:
+M18_Claymore_mine:
+M18_Claymore_mine:
+M18_Claymore_mine:
+M18_Claymore_mine:
+M18_Claymore_mine:
+M18_Claymore_mine:
+M18_Claymore_mine:
+M18_Claymore_mine:
+M18_Claymore_mine:
+M18_Claymore_mine:
+M18_Claymore_mine:
+M109_howitzer:
+M109_howitzer:
+M109_howitzer:
+M109_howitzer:
+M109_howitzer:
+M109_howitzer:
+M109_howitzer:
+M109_howitzer:
+M109_howitzer:
+M109_howitzer:
+M110_howitzer:
+M110_howitzer:
+M110_howitzer:
+M110_howitzer:
+M110_howitzer:
+M110_howitzer:
+M110_howitzer:
+M102_howitzer:
+M102_howitzer:
+M102_howitzer:
+M102_howitzer:
+M102_howitzer:
+M102_howitzer:
+M102_howitzer:
+M102_howitzer:
+M102_howitzer:
+M198_howitzer:
+M198_howitzer:
+M198_howitzer:
+M198_howitzer:
+M198_howitzer:
+M198_howitzer:
+M198_howitzer:
+M16_rifle:
+name:Rifle, 5.56 mm, M16,
+origin:United_States,
+type:Assault_rifle,
+wars:Vietnam_War,Laotian_Civil_War,Cambodian_Civil_War,The_Troubles,Cambodian–Vietnamese_War,1982,Invasion_of_Grenada,South_Lebanon_conflict_(1985–2000),Nepalese_Civil_War,Bougainville_Civil_War,United_States_invasion_of_Panama,Oka_Crisis,Gulf_War,Somali_Civil_War,Yugoslav_Wars,Operation_Deny_Flight,Implementation_Force,War_in_Afghanistan_(2001–14),Iraq_War,Syrian_Civil_War,Gaza–Israel_conflict,2014,Iraqi_Civil_War_(2014–present),Several other conflicts,
+M18_Claymore_mine:
+name:M18A1 Claymore mine,
+type:Directional fragmentation anti-personnel mine,
+wars:Vietnam_War,Cambodian_Civil_War,Iraq_War,Gulf_War,Bosnian_War,Rhodesian_Bush_War,War_in_Afghanistan_(2001–14),
+weight:3.5,
+length:216.0,
+width:38.0,
+height:124.0,
+M109_howitzer:
+name:M109 Howitzer,
+type:Self-propelled_artillery,
+wars:Vietnam_War,Yom Kippur War,Iran–Iraq War,Western Sahara War,Gulf War,Iraq War,Saudi Arabian-led intervention in Yemen,
+length:30.0,
+M110_howitzer:
+name:8.0,
+origin:United_States,
+wars:Vietnam_War,Iran–Iraq War,1982,Gulf War,
+type:Self-propelled_artillery,
+M102_howitzer:
+name:M102 howitzer,
+type:Howitzer,
+wars:Vietnam_War,Invasion_of_Grenada,Gulf_War,Iraq_War,
+length:Travel:,
+width:Travel:,
+height:Travel:,
+M198_howitzer:
+name:M198 Howitzer,
+wars:Gulf_War,
+weight:7154.0,
+length:660.0,738.0,
+width:168.0,
+height:174.0,
+M1_Garand:
+name:Rifle, Caliber .30, M1,
+origin:United_States,
+type:Semi-automatic_rifle,
+wars:World_War_II,Indonesian_National_Revolution,Korean_War,1948,Hukbalahap_Rebellion,First_Indochina_War,Suez_Crisis,1958,Cuban_Revolution,Vietnam_War,Cambodian_Civil_War,Angolan_Civil_War,Iran–Iraq_War,Gulf_War,The_Troubles,Syrian_Civil_War,Numerous other conflicts,
+weight:to,

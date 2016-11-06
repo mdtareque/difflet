@@ -1,0 +1,268 @@
+
+SS_Kaiser_Wilhelm_der_Grosse:
+shipName:SS Kaiser Wilhelm der Grosse,
+shipOwner:Norddeutscher_Lloyd,
+shipBuilder:AG_Vulcan_Stettin,Szczecin,
+shipLaunched:1897-05-04,
+shipChristened:1897-05-04,
+shipMaidenVoyage:1897-09-19,
+shipFate:--08-26,
+SS_Eastland:
+shipName:Eastland,
+shipLaunched:1903-05-06,
+shipMaidenVoyage:1903-07-16,
+shipNickname:\,
+shipFate:Sold in 1905 to the Michigan Transportation Company,--08-05,Sold in 1909 to the Eastland Navigation Company of Cleveland, Ohio.,--06-01,--12-20,
+shipName:USS Wilmette,
+shipAcquired:1917-11-21,
+shipCommissioned:1918-09-20,
+shipRecommissioned:--06-29,
+shipDecommissioned:--07-09,
+shipFate:--10-31,
+shipLength:265.0,
+shipBeam:1163.32,
+shipDraft:594.36,
+shipPower:*Two triple expansion steam engines\n*Four Scotch marine boilers \n*1,750 shp,
+SS_General_von_Steuben:
+shipName:*1923: München\n*1930: SS General von Steuben\n*1938: Steuben,
+shipOwner:Norddeutscher_Lloyd,
+shipBuilder:AG Vulcan Stettin, Germany,
+shipMaidenVoyage:1923-06-23,
+shipFate:--02-10,
+SSM-N-8_Regulus:
+name:SSM-N-8 Regulus,
+type:Cruise missile,
+SS-GB:
+name:SS-GB,
+author:Len_Deighton,
+coverArtist:Raymond_Hawkey,
+country:United_Kingdom,
+language:English_language,
+genre:Alternate_history,
+publisher:Jonathan_Cape,
+releaseDate:1978-08-24,
+pages:368,
+isbn:978,
+SS_Great_Britain:
+shipName:SS ''Great Britain,
+shipOwner:Great_Western_Steamship_Company,
+shipBuilder:William_Patterson_Shipbuilders,
+shipOriginalCost:*Projected: £70,000\n*Actual: £117,000,
+shipLaunched:1843-07-19,
+shipMaidenVoyage:1845-07-26,
+shipHomeport:Bristol, England,
+shipType:Passenger_ship,
+shipBeam:1539.24,
+shipPower:2,
+SST_Records:
+name:SST Records,
+founded:1966,
+founder:Greg_Ginn,
+genre:Hardcore_punk,Punk_rock,Alternative_rock,Indie_rock,Post-hardcore,Jazz,Doom_metal,
+country:United_States,
+location:Taylor,_Texas,
+url:sstsuperstore.com,
+SS_Carnatic:
+shipName:SS Carnatic,
+shipBuilder:Samuda_Brothers,Cubitt_Town,London,
+shipLaunched:1862-06-12,
+shipCompleted:1863-04-25,
+shipFate:--09-12,
+SS_City_of_Flint_(1919):
+shipName:City of Flint,
+shipBuilder:American International Shipbuilding,
+shipLaunched:--12-28,
+shipCompleted:--02-28,
+shipFate:--01-23,
+shipClass:Design 1022,
+SS_Yongala:
+shipName:SS Yongala,
+shipOwner:Adelaide_Steamship_Company,
+shipOriginalCost:102000.0,
+shipLaunched:1903-04-29,
+shipFate:--03-23,
+shipStatus:Shipwreck,
+shipSpeed:official top speed,
+SS_Edmund_Fitzgerald:
+shipName:SS Edmund Fitzgerald,
+shipOwner:Northwestern_Mutual,
+shipOperator:Columbia Transportation Division, Oglebay Norton Company of Cleveland, Ohio,
+shipOrdered:1957-02-01,
+shipBuilder:Great Lakes Engineering Works of River Rouge, Michigan,
+shipLaidDown:1957-08-07,
+shipLaunched:1958-06-07,
+shipChristened:1958-06-07,
+shipMaidenVoyage:1958-09-24,
+shipNickname:Fitz, Mighty Fitz, Big Fitz, Pride of the American Flag, Toledo Express, Titanic of the Great Lakes,
+shipInService:1958-06-08,
+shipOutOfService:1975-11-10,
+shipFate:--11-10,
+shipStatus:Sank because of weather conditions,
+shipType:Lake_freighter,
+shipLength:*  overall\n*  between perpendiculars,
+shipDraft:typical,
+SS_Savannah:
+shipName:Savannah,
+shipOriginalCost:50000.0,
+shipFate:--11-05,
+shipType:Hybrid sailing ship/sidewheel steamer,
+shipLength:98.0,
+shipBeam:25.0,
+shipDraft:14.0,
+SS_Saros:
+shipFate:Aground 1937,
+shipType:Steamship,
+SS_Richard_Montgomery:
+shipName:SS Richard Montgomery,
+shipBuilder:St._Johns_River_Shipbuilding_Company,Jacksonville,_Florida,
+shipLaidDown:1943-03-15,
+shipLaunched:1943-06-15,
+shipAcquired:1943-07-29,
+shipFate:--08-20,
+shipType:Liberty_ship,
+SS_Central_America:
+shipName:Central America,
+shipFate:Sunk 1857,
+SS_Princess_Alice_(1865):
+shipName:*PS Bute \n*SS Princess Alice,
+shipOwner:*Wemyss Bay Railway Co.\n*The Waterman's Steam Packet Co.\n*The Woolwich Steam Packet Co. \n*The London Steamboat Co.,
+shipBuilder:Caird & Company, Greenock,
+shipLaunched:1865-03-29,
+shipOutOfService:1878-09-03,
+shipFate:wrecked in collision,
+shipPower:140,
+SS_Cap_Arcona_(1927):
+shipCountry:Germany,
+shipName:Cap Arcona,
+shipOperator:Hamburg_Süd,
+shipBuilder:Blohm & Voss, Hamburg,
+shipLaidDown:1926-07-21,
+shipLaunched:--05-14,
+shipMaidenVoyage:1927-10-29,
+shipHomeport:Port_of_Hamburg,
+shipNickname:Queen of the South Atlantic,
+shipFate:Requisitioned for the Kriegsmarine in 1940,
+shipCountry:Nazi_Germany,
+shipAcquired:--11-29,
+shipOutOfService:--04-14,
+shipFate:--05-03,
+shipClass:Ocean_liner,
+shipLength:overall,
+shipSpeed:Service:,
+SS_Kaiser_Wilhelm_der_Grosse:
+SS_Kaiser_Wilhelm_der_Grosse:
+SS_Kaiser_Wilhelm_der_Grosse:
+SS_Kaiser_Wilhelm_der_Grosse:
+SS_Kaiser_Wilhelm_der_Grosse:
+SS_Kaiser_Wilhelm_der_Grosse:
+SS_Kaiser_Wilhelm_der_Grosse:
+SS_Kaiser_Wilhelm_der_Grosse:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_Eastland:
+SS_General_von_Steuben:
+SS_General_von_Steuben:
+SS_General_von_Steuben:
+SS_General_von_Steuben:
+SS_General_von_Steuben:
+SSM-N-8_Regulus:
+SSM-N-8_Regulus:
+SS-GB:
+SS-GB:
+SS-GB:
+SS-GB:
+SS-GB:
+SS-GB:
+SS-GB:
+SS-GB:
+SS-GB:
+SS-GB:
+SS_Great_Britain:
+SS_Great_Britain:
+SS_Great_Britain:
+SS_Great_Britain:
+SS_Great_Britain:
+SS_Great_Britain:
+SS_Great_Britain:
+SS_Great_Britain:
+SS_Great_Britain:
+SS_Great_Britain:
+SS_Kaiser_Wilhelm_der_Grosse:
+shipName:SS Kaiser Wilhelm der Grosse,
+shipOwner:Norddeutscher_Lloyd,
+shipBuilder:AG_Vulcan_Stettin,Szczecin,
+shipLaunched:1897-05-04,
+shipChristened:1897-05-04,
+shipMaidenVoyage:1897-09-19,
+shipFate:--08-26,
+SS_Eastland:
+shipName:Eastland,
+shipLaunched:1903-05-06,
+shipMaidenVoyage:1903-07-16,
+shipNickname:\,
+shipFate:Sold in 1905 to the Michigan Transportation Company,--08-05,Sold in 1909 to the Eastland Navigation Company of Cleveland, Ohio.,--06-01,--12-20,
+shipName:USS Wilmette,
+shipAcquired:1917-11-21,
+shipCommissioned:1918-09-20,
+shipRecommissioned:--06-29,
+shipDecommissioned:--07-09,
+shipFate:--10-31,
+shipLength:265.0,
+shipBeam:1163.32,
+shipDraft:594.36,
+shipPower:*Two triple expansion steam engines\n*Four Scotch marine boilers \n*1,750 shp,
+SS_General_von_Steuben:
+shipName:*1923: München\n*1930: SS General von Steuben\n*1938: Steuben,
+shipOwner:Norddeutscher_Lloyd,
+shipBuilder:AG Vulcan Stettin, Germany,
+shipMaidenVoyage:1923-06-23,
+shipFate:--02-10,
+SSM-N-8_Regulus:
+name:SSM-N-8 Regulus,
+type:Cruise missile,
+SS-GB:
+name:SS-GB,
+author:Len_Deighton,
+coverArtist:Raymond_Hawkey,
+country:United_Kingdom,
+language:English_language,
+genre:Alternate_history,
+publisher:Jonathan_Cape,
+releaseDate:1978-08-24,
+pages:368,
+isbn:978,
+SS_Great_Britain:
+shipName:SS ''Great Britain,
+shipOwner:Great_Western_Steamship_Company,
+shipBuilder:William_Patterson_Shipbuilders,
+shipOriginalCost:*Projected: £70,000\n*Actual: £117,000,
+shipLaunched:1843-07-19,
+shipMaidenVoyage:1845-07-26,
+shipHomeport:Bristol, England,
+shipType:Passenger_ship,
+shipBeam:1539.24,
+shipPower:2,
+SST_Records:
+name:SST Records,
+founded:1966,
+founder:Greg_Ginn,
+genre:Hardcore_punk,Punk_rock,Alternative_rock,Indie_rock,Post-hardcore,Jazz,Doom_metal,
+country:United_States,
+location:Taylor,_Texas,
+url:sstsuperstore.com,

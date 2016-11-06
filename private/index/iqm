@@ -1,0 +1,13 @@
+
+Qmail:
+name:qmail,
+developer:Daniel_J._Bernstein,
+latestReleaseVersion:1.03,
+latestReleaseDate:1998-06-15,
+latestPreviewVersion:netqmail 1.06,
+latestPreviewDate:2007-11-11,
+operatingSystem:Unix-like,
+programmingLanguage:C_(programming_language),
+genre:Message_transfer_agent,
+license:Public_domain,
+website:qmail.html,

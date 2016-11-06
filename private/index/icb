@@ -1,0 +1,91 @@
+
+CBS:
+name:CBS,
+type:Broadcast_network,Television_network,Radio_network,
+country:United_States,
+founder:William_S._Paley,
+slogan:America's Most Watched Network,Only CBS,
+owner:CBS_Corporation,
+keyPeople:Leslie_Moonves,Glenn Geller,Sean_McManus_(television_executive),Jeff_Fager,
+launchDate:1927-09-18,1941-07-01,
+pictureFormat:1080,480,
+formerNames:United Independent Broadcasters,Columbia Phonographic Broadcasting System,Columbia Broadcasting System, Inc.,CBS, Inc.,
+CBS_Evening_News:
+showName:CBS Evening News,
+genre:News,
+creator:Don_Hewitt,
+presenter:Weekdays:,Scott_Pelley,Weekends:,Jim_Axelrod,Jeff_Glor,
+themeMusicComposer:John Trivers, Elizabeth Myers,& Alan James Pasqua,Rick Patterson, Ron Walz,and Neal Fox,James_Horner,
+composer:John Trivers, Elizabeth Myers,& Alan James Pasqua,Rick Patterson, Ron Walz,and Neal Fox,James_Horner,
+language:American_English,
+numSeasons:67,
+location:CBS_Broadcast_Center,New_York_City,New_York,
+runtime:900.0,1800.0,
+company:CBS News Productions,
+network:CBS,
+pictureFormat:480,1080,
+firstAired:1948-05-03,
+related:CBS Morning News,CBS Overnight News,CBS This Morning,NBC Nightly News,ABC World News Tonight,
+website:,
+id:927228,193671,189246,450903,800281,
+CBS_Morning_News:
+showName:CBS Morning News,
+genre:News,
+presenter:Anne-Marie_Green,
+themeMusicComposer:Rick Patterson, Ron Walz,& Neal Fox,James_Horner,James Trivers, Elizabeth Myers,& Alan James Pasqua,Joel Beckerman,
+country:United_States,
+language:English_language,
+location:Studio 57, CBS Broadcast Center, New York City, New York,
+runtime:1380.0,
+network:CBS,
+pictureFormat:480,1080,
+lastAired:1982-10-04,
+related:CBS Evening News,CBS Overnight News,CBS This Morning,
+CBC_Radio_One:
+available:AM/FM: Canada,Satellite: Canada, United States,
+owner:Canadian_Broadcasting_Corporation,
+website:radio,
+CBGB:
+name:CBGB,
+location:315,
+built:1973,
+refnum:13000027,
+CBS_Radio_Mystery_Theater:
+showName:CBS Radio Mystery Theater,
+format:Radio drama,
+language:English_language,
+presenter:E._G._Marshall,Tammy_Grimes,
+creator:Himan_Brown,
+producer:Himan Brown,
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+CBS:
+name:CBS,
+type:Broadcast_network,Television_network,Radio_network,
+country:United_States,
+founder:William_S._Paley,
+slogan:America's Most Watched Network,Only CBS,
+owner:CBS_Corporation,
+keyPeople:Leslie_Moonves,Glenn Geller,Sean_McManus_(television_executive),Jeff_Fager,
+launchDate:1927-09-18,1941-07-01,
+pictureFormat:1080,480,
+formerNames:United Independent Broadcasters,Columbia Phonographic Broadcasting System,Columbia Broadcasting System, Inc.,CBS, Inc.,

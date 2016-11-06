@@ -1,0 +1,970 @@
+
+Vänern:
+name:Vänern,
+inflow:Klarälven,
+outflow:Göta_älv,
+basinCountries:Sweden,
+area:5650.0,
+depth:27 m,
+maxDepth:106 m,
+volume:153.0,
+elevation:44 m,
+islands:Brommö,Djurö,Fågelö,Hammarön,Kållandsö,Lurö,
+Västerås_Municipality:
+name:Västerås kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Västmanland_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.vasteras.se,
+Václav_Havel:
+name:Václav Havel,
+office:1,
+primeminister:Václav_Klaus,Josef_Tošovský,Miloš_Zeman,Vladimír_Špidla,
+termStart:1993-02-02,
+termEnd:2003-02-02,
+successor:Václav_Klaus,
+office:10,
+primeminister:Marián_Čalfa,Jan_Stráský,
+termStart:1989-12-29,
+termEnd:1992-07-20,
+predecessor:Gustáv_Husák,
+birthDate:1936-10-05,
+birthPlace:Prague,First_Czechoslovak_Republic,
+deathDate:2011-12-18,
+deathPlace:Vlčice,Czech_Republic,
+party:OF,
+otherparty:SZ supporter,
+spouse:Olga Šplíchalová,Dagmar Veškrnová,
+almaMater:Czech_Technical_University_in_Prague,Faculty_of_Theatre_(Prague),
+signature:Vaclav Havel Signature.svg,
+website:Index.php?&setln=2,,
+Võ_Nguyên_Giáp:
+name:Võ Nguyên Giáp,
+office:Deputy_Prime_Minister_of_Vietnam,
+primeminister:Phạm_Văn_Đồng,Phạm_Hùng,Võ_Văn_Kiệt,Đỗ_Mười,
+termStart:1955-09-20,
+termEnd:1991-08-08,
+successor:Phan_Văn_Khải,
+office:3,
+president:Ho_Chi_Minh,Tôn_Đức_Thắng,
+primeminister:Ho_Chi_Minh,
+termStart:1946-05-11,
+termEnd:1947-05-08,
+predecessor:Phan_Anh,
+successor:Tạ_Quang_Bửu,
+termStart:1948-05-08,
+predecessor:Tạ_Quang_Bửu,
+successor:Văn_Tiến_Dũng,
+office:Member of the Politburo,
+birthDate:1911-08-25,
+deathDate:2013-10-04,
+birthPlace:Lệ_Thủy_District,Quảng_Bình_Province,French_Indochina,
+deathPlace:108,
+branch:Vietnam People's Army,
+nickname:Văn,
+serviceyears:1944,
+rank:20,
+commands:*,People's_Army_of_Vietnam,
+battles:*''',World_War_II,*,First_Indochina_War,Vietnam_War,'''\n*,Battle_of_Hanoi,Battle_of_Dien_Bien_Phu,Battle_of_Hòa_Bình,Operation_Rolling_Thunder,Operation_Lea,Battle_of_Khe_Sanh,Operation_Lam_Son_719,Tet_Offensive,Easter_Offensive,Fall_of_Saigon,1975,Sino-Vietnamese_War,
+awards:*,Resolution_for_Victory_Order,
+signature:General Giáp signature.svg,
+Västernorrland_County:
+officialName:Västernorrland,
+nativeName:Västernorrlands län,
+settlementType:Counties_of_Sweden,
+subdivisionName:Sweden,
+leaderTitle:Governor,
+leaderName:Bo_Källstrand,
+leaderTitle:Council,
+areaTotalKm:21683.8,
+populationTotal:242347,
+populationAsOf:2011-03-31,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:SE-Y,
+Víctor_Jara:
+name:Víctor Jara,
+background:solo_singer,
+birthName:Víctor Lidio Jara Martínez,
+birthDate:1932-09-28,
+birthPlace:Lonquén, Chile,
+origin:Chillán Viejo, Chile,
+deathDate:1973-09-15,
+deathPlace:Santiago, Chile,
+occupation:Singer/songwriter, Poet, Theatre director, University academic, Social activist,
+instrument:Vocals, Spanish guitar,
+genre:Folk_music,Nueva_canción,Andean_music,
+yearsActive:1959,
+label:Odeon_Records,DICAP/Alerce,Warner_Music_Group,
+associatedActs:Violeta_Parra,Patricio_Castillo_(musician),Quilapayún,Inti-Illimani,Patricio_Manns,Ángel_Parra,Isabel_Parra,Sergio_Ortega,Pablo_Neruda,Daniel_Viglietti,Atahualpa_Yupanqui,Joan_Baez,Dean_Reed,Silvio_Rodríguez,Holly_Near,Cornelis_Vreeswijk,
+website:www.fundacionvictorjara.cl,
+Víctor_Raúl_Haya_de_la_Torre:
+name:Víctor Raúl Haya de la Torre,
+office:Constitution_of_Peru,
+termStart:1978-07-28,
+termEnd:1979-08-02,
+successor:Luis_Alberto_Sánchez,
+office:Leader of the Peruvian Aprista Party,
+termStart:--05-07,
+successor:Armando_Villanueva,
+birthDate:1895-02-22,
+birthPlace:Trujillo,_Peru,Peru,
+deathDate:1979-08-02,
+deathPlace:Lima,Peru,
+party:American_Popular_Revolutionary_Alliance,
+almaMater:National_University_of_Trujillo,National_University_of_San_Marcos,University_of_Oxford,London_School_of_Economics,
+residence:Villa Mercedes, Ate District,
+occupation:Lawyer,
+Västmanland_County:
+officialName:Västmanland,
+nativeName:Västmanlands län,
+settlementType:Counties_of_Sweden,
+subdivisionName:Sweden,
+leaderTitle:Governor,
+leaderName:Ingemar_Skogö,
+leaderTitle:Council,
+areaTotalKm:5145.8,
+populationTotal:252819,
+populationAsOf:2011-03-31,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:SE-U,
+Västra_Götaland_County:
+officialName:Västra Götaland,
+nativeName:Västra Götalands län,
+settlementType:Counties_of_Sweden,
+subdivisionName:Sweden,
+leaderTitle:Governor,
+leaderName:Lars_Bäckström,
+leaderTitle:Council,
+leaderName:Västra_Götaland_Regional_Council,
+areaTotalKm:25246.9,
+populationTotal:1615084,
+populationAsOf:2013-12-31,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:SE-O,
+Värmdö_Municipality:
+name:Värmdö kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Stockholm_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.varmdo.se,
+Vårgårda_Municipality:
+name:Vårgårda Municipality,
+nativeName:Vårgårda kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Västra_Götaland_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.vargarda.se,
+Vänersborg_Municipality:
+name:Vänersborg Municipality,
+nativeName:Vänersborgs kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Västra_Götaland_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.vanersborg.se,
+Värnamo_Municipality:
+name:Värnamo Municipality,
+nativeName:Värnamo kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Jönköping_County,
+leaderTitle:Mayor,
+leaderName:Hans-Göran Johansson,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.varnamo.se,
+Västervik_Municipality:
+name:Västervik Municipality,
+nativeName:Västerviks kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Kalmar_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.vastervik.se,
+Växjö_Municipality:
+name:Växjö Municipality,
+nativeName:Växjö kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Kronoberg_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.vaxjo.se,
+Värmland_County:
+officialName:Värmland,
+nativeName:Värmlands län,
+settlementType:Counties_of_Sweden,
+subdivisionName:Sweden,
+leaderTitle:Governor,
+leaderName:Kenneth_Johansson,
+leaderTitle:Council,
+areaTotalKm:17591,
+populationTotal:272773,
+populationAsOf:2011-03-31,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:SE-S,
+Västerbotten_County:
+officialName:Västerbotten,
+nativeName:Västerbottens län,
+settlementType:Counties_of_Sweden,
+subdivisionName:Sweden,
+leaderTitle:Governor,
+leaderName:Magdalena_Andersson_(Moderate),
+leaderTitle:Council,
+areaTotalKm:55186.2,
+populationTotal:259239,
+populationAsOf:2011-03-31,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:SE-AC,
+Vännäs_Municipality:
+name:Vännäs Municipality,
+nativeName:Vännäs kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Västerbotten_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:default.aspx?di=1263&cid=4&type=U,
+Västergötland:
+name:Västergötland,
+subdivisionName:Sweden,Götaland,Västra_Götaland_County,Jönköping_County,Halland_County,Örebro_County,
+areaTotalKm:16694,
+populationTotal:1238845,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+Víctor_Galíndez:
+name:Víctor Galíndez,
+realname:Víctor Emilio Galíndez,
+nickname:El Leopardo de Morón,
+nationality:Argentina,
+birthDate:1948-11-02,
+birthPlace:Vedia,_Buenos_Aires,
+deathDate:1980-10-25,
+deathPlace:25,
+Våler,_Østfold:
+name:Våler,
+county:Østfold,
+areaTotalKm:257,
+areaLandKm:239,
+areaWaterPercent:0.08,
+populationTotal:4003,
+populationDensityKm:17,
+Våler,_Hedmark:
+name:Våler,
+county:Hedmark,
+areaTotalKm:705,
+areaLandKm:678,
+areaWaterPercent:0.22,
+populationTotal:3906,
+populationDensityKm:6,
+Vågå:
+name:Vågå,
+county:Oppland,
+areaTotalKm:1330,
+areaLandKm:1253,
+areaWaterPercent:0.41,
+populationTotal:3724,
+populationDensityKm:3,
+Vågsøy:
+name:Vågsøy,
+county:Sogn og Fjordane,
+areaTotalKm:176.5,
+areaLandKm:171.13,
+areaWaterKm:5.37,
+populationTotal:6119,
+populationDensityKm:35.8,
+Værøy:
+name:Værøy,
+county:Nordland,
+areaTotalKm:18.53,
+areaLandKm:18.49,
+areaWaterKm:0.04,
+populationTotal:748,
+populationDensityKm:40.5,
+Vågan:
+name:Vågan,
+otherName:Vuogát,
+county:Nordland,
+areaTotalKm:477.71,
+areaLandKm:459.17,
+areaWaterKm:18.54,
+populationTotal:9086,
+populationDensityKm:19.8,
+Vézelay_Abbey:
+id:84,
+region:Lists_of_World_Heritage_Sites_in_Europe,
+link:84,
+Väinö_Linna:
+name:Väinö Linna,
+birthDate:1920-12-20,
+birthPlace:Urjala, Finland,
+deathDate:1992-04-21,
+deathPlace:Tampere, Finland,
+notableworks:The Unknown Soldier,Under_the_North_Star_trilogy,
+influences:Fyodor_Dostoyevsky,Friedrich_Nietzsche,Erich_Maria_Remarque,Arthur_Schopenhauer,
+Värmland:
+name:Värmland,
+subdivisionName:Sweden,Svealand,Värmland_County,Örebro_County,Västra_Götaland_County,
+areaTotalKm:18164,
+populationTotal:311652,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+Västmanland:
+name:Västmanland,
+subdivisionName:Sweden,Svealand,Västmanland_County,Örebro_County,Dalarna_County,
+areaTotalKm:8363,
+populationTotal:289206,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+Västerbotten:
+name:Västerbotten,
+subdivisionName:Sweden,Norrland,Västerbotten_County,
+areaTotalKm:15093,
+populationTotal:262362,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+Väinö_Tanner:
+name:Väinö Tanner,
+office:Prime_Minister_of_Finland,
+termStart:1926-12-13,
+termEnd:1927-12-17,
+president:Lauri_Kristian_Relander,
+predecessor:Kyösti_Kallio,
+successor:Juho_Sunila,
+birthDate:1881-03-12,
+birthPlace:Helsinki,
+deathDate:1966-04-19,
+deathPlace:Helsinki,
+party:Social_Democratic_Party_of_Finland,
+Václav_Havel_Airport_Prague:
+name:Václav Havel Airport Prague,
+nativename:(Letiště Václava Havla Praha),
+iata:PRG,
+icao:LKPR,
+cityServed:Prague, Czech Republic,
+location:Ruzyně,
+elevationM:380,
+elevationF:1247,
+website:,
+r1Number:6,
+r1LengthM:3715,
+r1LengthF:12191,
+r1Surface:Concrete,
+r2Number:12,
+r2LengthF:10665,
+r2LengthM:3250,
+r2Surface:Concrete,
+r3Number:4,
+r3LengthF:6955,
+r3LengthM:2120,
+r3Surface:Asphalt_concrete,
+Václav_Klaus:
+name:Václav Klaus,
+office:2,
+primeminister:Vladimír_Špidla,Stanislav_Gross,Jiří_Paroubek,Mirek_Topolánek,Jan_Fischer_(politician),Petr_Nečas,
+termStart:2003-03-07,
+termEnd:2013-03-07,
+predecessor:Václav_Havel,
+successor:Miloš_Zeman,
+office:Chair_of_the_Chamber_of_Deputies_of_the_Parliament_of_the_Czech_Republic,
+termStart:1998-07-17,
+termEnd:2002-06-20,
+president:Václav_Havel,
+predecessor:Miloš_Zeman,
+successor:Lubomír_Zaorálek,
+office:1,
+termStart:1993-01-01,
+termEnd:1998-01-02,
+successor:Josef_Tošovský,
+termStart:1992-07-02,
+termEnd:1993-01-01,
+predecessor:Petr_Pithart,
+office:Minister of Finance of Czechoslovakia,
+primeminister:Marián_Čalfa,
+termStart:1989-12-10,
+termEnd:1992-07-02,
+predecessor:Jan_Stejskal_(politician),
+successor:Jan_Klak,
+birthDate:1941-06-19,
+birthPlace:Prague,Protectorate_of_Bohemia_and_Moravia,
+party:Civic_Forum,Civic_Democratic_Party_(Czech_Republic),Independent_politician,
+spouse:Livia Mištinová,
+almaMater:University_of_Economics,_Prague,
+religion:Czechoslovak_Hussite_Church,
+signature:Vaclav Klaus Signature.svg,
+website:,
+Vålerenga_Fotball:
+clubname:Vålerenga Fotball,
+fullname:Vålerenga Fotball,
+nickname:Enga, Vål'enga, the Bohemians,,the Pride of Oslo, St. Hallvard's Men,
+ground:Ullevaal_Stadion,Oslo,
+capacity:28972,
+manager:Kjetil_Rekdal,
+league:Tippeligaen,
+season:2015,
+position:Tippeligaen, 7th,
+website:,
+no:1,
+name:Marcus_Sandberg,
+no:3,
+name:Enar_Jääger,
+no:4,
+name:Jonatan_Tollås,
+no:5,
+name:Robert_Lundström,
+no:6,
+name:Simon_Larsen,
+no:7,
+name:Daniel_Fredheim_Holm,
+no:8,
+name:Jesper_Arvidsson,
+no:9,
+name:Rasmus_Lindkvist,
+no:10,
+name:Ghayas_Zahid,
+no:14,
+name:Herman_Stengel,
+no:15,
+name:Markus_Nakkim,
+no:17,
+name:Niklas_Castro,
+no:18,
+name:Rino_Falk_Larsen,
+no:19,
+name:Christian_Grindheim,
+no:20,
+name:Mathias_Totland,
+no:22,
+name:Elías_Már_Ómarsson,
+no:23,
+name:Sander_Berge,
+no:24,
+name:Kjetil_Wæhler,
+no:25,
+name:Mohammed_Abdellaoue,
+no:26,
+name:Deshorn_Brown,
+no:30,
+name:Aslak_Falch,
+no:33,
+name:Anders_Nedrebø,
+no:34,
+name:Adrian_Møller,
+no:37,
+name:Ivan_Näsberg,Simen_Juklerød,
+no:2,
+name:Niklas_Gunnarsson,Adrian Møller,
+no:40,
+name:Mortadha Jassim Alkanany,
+no:41,
+name:Rino Falk Larsen,
+no:42,
+name:Mats Lien Vågan,
+no:43,
+name:Niklas Castro,
+Vänern:
+Vänern:
+Vänern:
+Vänern:
+Vänern:
+Vänern:
+Vänern:
+Vänern:
+Vänern:
+Vänern:
+Vänern:
+Vänern:
+Vänern:
+Vänern:
+Vänern:
+Västerås_Municipality:
+Västerås_Municipality:
+Västerås_Municipality:
+Västerås_Municipality:
+Västerås_Municipality:
+Västerås_Municipality:
+Västerås_Municipality:
+Västerås_Municipality:
+Västerås_Municipality:
+Västerås_Municipality:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Václav_Havel:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Võ_Nguyên_Giáp:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Västernorrland_County:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Jara:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Víctor_Raúl_Haya_de_la_Torre:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Västmanland_County:
+Vänern:
+name:Vänern,
+inflow:Klarälven,
+outflow:Göta_älv,
+basinCountries:Sweden,
+area:5650.0,
+depth:27 m,
+maxDepth:106 m,
+volume:153.0,
+elevation:44 m,
+islands:Brommö,Djurö,Fågelö,Hammarön,Kållandsö,Lurö,
+Västerås_Municipality:
+name:Västerås kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Västmanland_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.vasteras.se,
+Václav_Havel:
+name:Václav Havel,
+office:1,
+primeminister:Václav_Klaus,Josef_Tošovský,Miloš_Zeman,Vladimír_Špidla,
+termStart:1993-02-02,
+termEnd:2003-02-02,
+successor:Václav_Klaus,
+office:10,
+primeminister:Marián_Čalfa,Jan_Stráský,
+termStart:1989-12-29,
+termEnd:1992-07-20,
+predecessor:Gustáv_Husák,
+birthDate:1936-10-05,
+birthPlace:Prague,First_Czechoslovak_Republic,
+deathDate:2011-12-18,
+deathPlace:Vlčice,Czech_Republic,
+party:OF,
+otherparty:SZ supporter,
+spouse:Olga Šplíchalová,Dagmar Veškrnová,
+almaMater:Czech_Technical_University_in_Prague,Faculty_of_Theatre_(Prague),
+signature:Vaclav Havel Signature.svg,
+website:Index.php?&setln=2,,
+Võ_Nguyên_Giáp:
+name:Võ Nguyên Giáp,
+office:Deputy_Prime_Minister_of_Vietnam,
+primeminister:Phạm_Văn_Đồng,Phạm_Hùng,Võ_Văn_Kiệt,Đỗ_Mười,
+termStart:1955-09-20,
+termEnd:1991-08-08,
+successor:Phan_Văn_Khải,
+office:3,
+president:Ho_Chi_Minh,Tôn_Đức_Thắng,
+primeminister:Ho_Chi_Minh,
+termStart:1946-05-11,
+termEnd:1947-05-08,
+predecessor:Phan_Anh,
+successor:Tạ_Quang_Bửu,
+termStart:1948-05-08,
+predecessor:Tạ_Quang_Bửu,
+successor:Văn_Tiến_Dũng,
+office:Member of the Politburo,
+birthDate:1911-08-25,
+deathDate:2013-10-04,
+birthPlace:Lệ_Thủy_District,Quảng_Bình_Province,French_Indochina,
+deathPlace:108,
+branch:Vietnam People's Army,
+nickname:Văn,
+serviceyears:1944,
+rank:20,
+commands:*,People's_Army_of_Vietnam,
+battles:*''',World_War_II,*,First_Indochina_War,Vietnam_War,'''\n*,Battle_of_Hanoi,Battle_of_Dien_Bien_Phu,Battle_of_Hòa_Bình,Operation_Rolling_Thunder,Operation_Lea,Battle_of_Khe_Sanh,Operation_Lam_Son_719,Tet_Offensive,Easter_Offensive,Fall_of_Saigon,1975,Sino-Vietnamese_War,
+awards:*,Resolution_for_Victory_Order,
+signature:General Giáp signature.svg,
+Västernorrland_County:
+officialName:Västernorrland,
+nativeName:Västernorrlands län,
+settlementType:Counties_of_Sweden,
+subdivisionName:Sweden,
+leaderTitle:Governor,
+leaderName:Bo_Källstrand,
+leaderTitle:Council,
+areaTotalKm:21683.8,
+populationTotal:242347,
+populationAsOf:2011-03-31,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:SE-Y,
+Víctor_Jara:
+name:Víctor Jara,
+background:solo_singer,
+birthName:Víctor Lidio Jara Martínez,
+birthDate:1932-09-28,
+birthPlace:Lonquén, Chile,
+origin:Chillán Viejo, Chile,
+deathDate:1973-09-15,
+deathPlace:Santiago, Chile,
+occupation:Singer/songwriter, Poet, Theatre director, University academic, Social activist,
+instrument:Vocals, Spanish guitar,
+genre:Folk_music,Nueva_canción,Andean_music,
+yearsActive:1959,
+label:Odeon_Records,DICAP/Alerce,Warner_Music_Group,
+associatedActs:Violeta_Parra,Patricio_Castillo_(musician),Quilapayún,Inti-Illimani,Patricio_Manns,Ángel_Parra,Isabel_Parra,Sergio_Ortega,Pablo_Neruda,Daniel_Viglietti,Atahualpa_Yupanqui,Joan_Baez,Dean_Reed,Silvio_Rodríguez,Holly_Near,Cornelis_Vreeswijk,
+website:www.fundacionvictorjara.cl,
+Víctor_Raúl_Haya_de_la_Torre:
+name:Víctor Raúl Haya de la Torre,
+office:Constitution_of_Peru,
+termStart:1978-07-28,
+termEnd:1979-08-02,
+successor:Luis_Alberto_Sánchez,
+office:Leader of the Peruvian Aprista Party,
+termStart:--05-07,
+successor:Armando_Villanueva,
+birthDate:1895-02-22,
+birthPlace:Trujillo,_Peru,Peru,
+deathDate:1979-08-02,
+deathPlace:Lima,Peru,
+party:American_Popular_Revolutionary_Alliance,
+almaMater:National_University_of_Trujillo,National_University_of_San_Marcos,University_of_Oxford,London_School_of_Economics,
+residence:Villa Mercedes, Ate District,
+occupation:Lawyer,
+Västmanland_County:
+officialName:Västmanland,
+nativeName:Västmanlands län,
+settlementType:Counties_of_Sweden,
+subdivisionName:Sweden,
+leaderTitle:Governor,
+leaderName:Ingemar_Skogö,
+leaderTitle:Council,
+areaTotalKm:5145.8,
+populationTotal:252819,
+populationAsOf:2011-03-31,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:SE-U,
+Västra_Götaland_County:
+officialName:Västra Götaland,
+nativeName:Västra Götalands län,
+settlementType:Counties_of_Sweden,
+subdivisionName:Sweden,
+leaderTitle:Governor,
+leaderName:Lars_Bäckström,
+leaderTitle:Council,
+leaderName:Västra_Götaland_Regional_Council,
+areaTotalKm:25246.9,
+populationTotal:1615084,
+populationAsOf:2013-12-31,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:SE-O,
+Värmdö_Municipality:
+name:Värmdö kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Stockholm_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.varmdo.se,
+Vårgårda_Municipality:
+name:Vårgårda Municipality,
+nativeName:Vårgårda kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Västra_Götaland_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.vargarda.se,
+Vänersborg_Municipality:
+name:Vänersborg Municipality,
+nativeName:Vänersborgs kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Västra_Götaland_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.vanersborg.se,
+Värnamo_Municipality:
+name:Värnamo Municipality,
+nativeName:Värnamo kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Jönköping_County,
+leaderTitle:Mayor,
+leaderName:Hans-Göran Johansson,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.varnamo.se,
+Västervik_Municipality:
+name:Västervik Municipality,
+nativeName:Västerviks kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Kalmar_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.vastervik.se,
+Växjö_Municipality:
+name:Växjö Municipality,
+nativeName:Växjö kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Kronoberg_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:www.vaxjo.se,
+Värmland_County:
+officialName:Värmland,
+nativeName:Värmlands län,
+settlementType:Counties_of_Sweden,
+subdivisionName:Sweden,
+leaderTitle:Governor,
+leaderName:Kenneth_Johansson,
+leaderTitle:Council,
+areaTotalKm:17591,
+populationTotal:272773,
+populationAsOf:2011-03-31,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:SE-S,
+Västerbotten_County:
+officialName:Västerbotten,
+nativeName:Västerbottens län,
+settlementType:Counties_of_Sweden,
+subdivisionName:Sweden,
+leaderTitle:Governor,
+leaderName:Magdalena_Andersson_(Moderate),
+leaderTitle:Council,
+areaTotalKm:55186.2,
+populationTotal:259239,
+populationAsOf:2011-03-31,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:SE-AC,
+Vännäs_Municipality:
+name:Vännäs Municipality,
+nativeName:Vännäs kommun,
+settlementType:Municipalities_of_Sweden,
+subdivisionName:Sweden,Västerbotten_County,
+timezone:Central_European_Time,
+utcOffset:+1,
+timezone1Dst:Central_European_Summer_Time,
+utcOffset1Dst:+2,
+isoCode:ISO_3166-2:SE,
+website:default.aspx?di=1263&cid=4&type=U,

@@ -1,0 +1,13 @@
+
+7.5_cm_Gebirgskanone_Model_1911:
+name:Ehrhardt 7.5 cm Model 1911,
+origin:German_Empire,
+type:Mountain_gun,
+weight:509.0,
+7.5_cm_leichtes_Infanteriegeschütz_18:
+name:75,
+type:Infantry_support_gun,
+wars:World_War_II,
+7.5_cm_Infanteriegeschütz_37:
+name:7.5,
+type:Infantry_support_gun,

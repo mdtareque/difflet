@@ -1,35 +1,51 @@
 {{extend 'layout.html'}}
 
-<h1 style="margin:0 auto; text-align:center;">Search for <i>differences between</i> </h1>
+<h1 style="margin:0 auto; text-align:center; margin-bottom: 2%;margin-top: 2%;">Search for <i>differences between</i> </h1>
 <div class="row">
-    <div class="col-md-6 col-md-offset-3" style="border:1px solid red;" >
-            <div class="row"  style="border:1px solid black;">
-                
-                    <form class="navbar-form navbar-left" role="search" action="difflet" method="get">
-                    <input id="e1" name="e1" type="text" class="form-control" placeholder="India" style="text-align:right; border:1px solid black" value="India">
-                        <input id="e2" name="e2" type="text" class="form-control" placeholder="USA"  style="text-align:left; border:1px solid black" value="USA">
-                    
-                    <button type="submit" class="btn btn-default" >Submit</button>
-                    <a href="{{=URL('default', 'random')}}" class="btn btn-default" >Random Difflet </a>
-                    </form>
+    <div class="col-md-6 col-md-offset-3" style="border:0px solid red;" >
+            <div class="rw"  style="border:px solid black; margin:0 auto; min-width: 60%; text-align: center">
+
+                <form class="navbar-form" role="search" action="difflet" method="get">
+                    <input id="e1" name="e1" type="text" class="form-control" placeholder="India" style="margin-right:0%; border:1px solid black; tex-align : right; margin-bottom: 4px; width: 160px" value="India">
+                    <input id="e2" name="e2" type="text" class="form-control" placeholder="USA"  style="margin-right:0%; border:1px solid black; margin-bottom: 4px;width: 160px" value="USA">
+<br/>
+
+                    <button type="submit" class="btn btn-default" style="width: 130px">Submit</button>
+                    <a href="{{=URL('default', 'random')}}" class="btn btn-default"  style="min-width: 130px">Random Difflet </a>
+                </form>
             </div>
     </div>
 </div>
 
-<div class="row">
+<div class="row recent-popular-row">
 
-    <div class="col-md-4 col-md-offset-1 recent_searches">
+    <div class="col-md-4 col-md-offset-2 recent_searches">
         <a href = "#" class = "list-group-item active">
             <b>Recent Searches</b>
         </a>
-        {{for e1,e2 in recent_searches:}}
-        <a href = "{{=URL('default', 'difflet', vars={'e1': e1, 'e2': e2})}}" class = "list-group-item">{{=e1 + ' vs ' + e2}}</a>
+        {{for i in range(0):}}
+        <div class="boxes">
+                <span id="diffbox" >
+                <a href="{{=URL('default', 'difflet', vars={'e1' : 'India', 'e2' : 'Australia'}) }}">
+                <span class="box">
+                    <span>India</span>
+                    <span>-vs-</span>
+                    <span>Australia</span>
+                    <span class="hits">4</span>
+                </span>
+                </a>
+                </span>
+            </div>
         {{pass}}
+        <div class="clear"></div>
 
     </div>
 
-    <div class="col-md-6 col-md-offset-1 popular_searches">
-        {{for i in range(4):}}
+    <div class="col-md-4 col-md-offset-0 popular_searches">
+        <a href = "#" class = "list-group-item active">
+            <b>Popular Searches</b>
+        </a>
+        {{for i in range(0):}}
         <div class="boxes">
                 <span id="diffbox" >
                 <a href="{{=URL('default', 'difflet', vars={'e1' : 'India', 'e2' : 'Australia'}) }}">

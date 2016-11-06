@@ -1,0 +1,16 @@
+
+A9_road_(Scotland):
+type:A,
+route:9,
+lengthMi:269,
+directionA:South,
+terminusA:Polmont,
+directionB:North,
+terminusB:Scrabster,
+A90_road:
+type:A,
+route:90,
+directionA:South,
+directionB:North,
+terminusA:Edinburgh,
+terminusB:Fraserburgh,

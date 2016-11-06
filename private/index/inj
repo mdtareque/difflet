@@ -1,0 +1,12 @@
+
+NJ_Transit:
+name:NJ Transit,
+locale:New Jersey , New York, Rockland and Orange counties in New York State, and Philadelphia County in Pennsylvania.,
+transitType:Commuter_rail,Light_rail,Bus,
+beganOperation:1979-07-17,
+vehicles:2477,1078,93,
+lines:11,3,871,
+stations:162,60,27,18000,
+ridership:940877,392613,216375,
+operator:Commuter rail: See rail article,Bus: See bus article,Light Rail: See light rail article,
+headquarters:1,

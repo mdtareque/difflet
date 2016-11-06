@@ -1,0 +1,73 @@
+
+M61_Vulcan:
+name:M61 Vulcan,
+origin:United_States,
+type:Rotary_cannon,
+wars:Vietnam_War,Gulf_War,War_in_Afghanistan_(2001–14),Iraq_War,
+weight:M61A1:  without feed system,M61A2:  without feed system,
+M6_motorway:
+type:M,
+route:6,
+lengthMi:232.2,
+directionA:South,
+terminusA:Catthorpe,
+directionB:North,
+terminusB:Gretna,_Dumfries_and_Galloway,
+junction:1000,M1_motorway,J2 → M69 motorway,J3a → M6 Toll,J4 → M42 motorway,J4a → M42 motorway,J6 → A38(M) motorway,M5_motorway,J10a → M54 motorway,J11a → M6 Toll,J20 → M56 motorway,J21a → M62 motorway,J26 → M58 motorway,J29 → M65 motorway,J30 → M61 motorway,J32 → M55 motorway,J35 → A601(M) motorway,J45 → A74(M) motorway,
+M60_motorway:
+type:M,
+route:60,
+lengthMi:35,
+junction:1000,J4 → M56,J12 → M62,J12 → M602,J15 → M61,J18 → M62,J18 → M66,J24 → M67,
+cities:Manchester,Trafford,City_of_Salford,Metropolitan_Borough_of_Bury,Metropolitan_Borough_of_Rochdale,Metropolitan_Borough_of_Oldham,Tameside,
+M62_motorway:
+type:M,
+route:62,
+lengthMi:107,
+directionA:West,
+terminusA:Knotty_Ash,
+junction:1000,
+directionB:East,
+terminusB:North_Cave,
+M67_motorway:
+type:M,
+route:67,
+lengthMi:5,
+directionA:West,
+directionB:East,
+terminusA:Denton,_Greater_Manchester,
+terminusB:Hattersley,
+junction:1000,J1 → M60 motorway,
+M65_motorway:
+type:M,
+route:65,
+lengthMi:25.8,
+directionA:West,
+directionB:East,
+terminusA:Farington,
+terminusB:Colne,
+junction:1000,M6_motorway,M61_motorway,
+M61_motorway:
+type:M,
+route:61,
+lengthMi:20,
+directionA:South,
+directionB:North,
+terminusA:Worsley,
+terminusB:Preston,_Lancashire,
+junction:1000,J1 → M60 motorway,J9 → M65 motorway,M6_motorway,
+M61_Vulcan:
+M61_Vulcan:
+M61_Vulcan:
+M61_Vulcan:
+M61_Vulcan:
+M61_Vulcan:
+M61_Vulcan:
+M61_Vulcan:
+M61_Vulcan:
+M61_Vulcan:
+name:M61 Vulcan,
+origin:United_States,
+type:Rotary_cannon,
+wars:Vietnam_War,Gulf_War,War_in_Afghanistan_(2001–14),Iraq_War,
+weight:M61A1:  without feed system,M61A2:  without feed system,

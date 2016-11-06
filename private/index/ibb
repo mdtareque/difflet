@@ -1,0 +1,456 @@
+
+BBC_Red_Button:
+name:BBC Red Button,
+pictureFormat:576,1080,
+share:0.1,
+shareSource:monthly-viewing-summary?_s=4,
+owner:BBC,
+language:English_language,
+formerNames:BBC Text,BBCi,
+sisterNames:BBC_One,BBC_Two,BBC_Three_(former),BBC_Four,BBC_News_(TV_channel),BBC_Parliament,CBBC_(TV_channel),CBeebies,
+web:redbutton,
+BBC_Radio_1:
+name:BBC Radio 1,
+area:United Kingdom: FM, DAB, TV,United States: TV,Canada: Satellite radio,Worldwide: Internet radio,
+slogan:Where New Music Begins,
+airdate:1967-09-30,
+frequency:FM: 97.6 MHz - 99.7 MHz,97.1,DAB: 12B - BBC National DAB,( RDS Name: Radio 1/BBC R1),Freeview: 700,Freesat: 700,Sky : 0101,Virgin Media: 901,Virgin Media Ireland: 907,
+share:6.5,
+shareAsOf:September 2015,
+format:Contemporary_hit_radio,News,Outline_of_entertainment,Speech,Show_business,
+owner:BBC,
+sisterStations:BBC_Radio_1Xtra,
+webcast:bbc_radio_one,,r1_heaacv2.pls,
+BBC_News_(TV_channel):
+name:BBC News,
+launch:1997-11-09,
+pictureFormat:576,1080,
+network:BBC_Television,
+share:1.04,
+shareSource:monthly-viewing-summary?_s=4,
+owner:BBC,
+slogan:\,\,Live The Story,The World's Newsroom,\,
+headquarters:BBC Television Centre,Broadcasting House,
+language:English_language,British_Sign_Language,
+sisterNames:BBC_One,BBC_Two,BBC_Three_(former),BBC_Four,BBC_Parliament,CBBC_(TV_channel),CBeebies,
+formerNames:BBC News 24,
+web:bbcnews,
+filename:Bbc news theme 2007.ogg,
+title:BBC News theme,
+description:The BBC News title music by David Lowe,
+BBC_World_Service:
+name:BBC World Service,
+type:Radio network broadcasting news, speech, discussions,
+slogan:The World's Radio Station, The BBC's international radio station,
+owner:BBC,
+keyPeople:Fran_Unsworth,
+launchDate:1932-12-19,
+formerNames:BBC Empire Service,BBC Overseas Service,External Services of the BBC,
+website:worldserviceradio,
+BBC_World_News:
+name:BBC World News,
+launch:--03-11,--01-16,--04-21,
+closedDate:--01-15,--04-20,
+pictureFormat:16,14,
+share:Available in:,350000000,1700000,81,46,35,74000000,
+shareAsOf:September 2011,
+network:BBC_News,
+owner:BBC,(  ),
+slogan:Demand a Broader View \n\nPutting News First \nLive The Story,
+language:English,
+headquarters:Broadcasting House, London, United Kingdom,
+formerNames:BBC World Service Television (  ),BBC World (  ),
+replacedNames:BBC World Service Television (  ),BBC World (  ),
+sisterNames:CBeebies,BBC America,BBC Arabic Television,BBC Brit,BBC Canada,BBC Earth,BBC Entertainment,BBC First,BBC HD,BBC HD Nordics,BBC Kids,BBC Knowledge,BBC Lifestyle,BBC UKTV,
+web:,
+BBC_BASIC:
+name:BBC BASIC,
+latestReleaseVersion:5.9,
+influencedBy:BASIC,Atom_BASIC,BCPL,
+website:www.bbcbasic.org,
+BBC_Radiophonic_Workshop:
+filename:Whale Theme from HitchHikers TV series sample.ogg,
+title:BBC Radiophonic Workshop, \,
+description:An excerpt from Whale Theme from the Hitchhikers Guide to the Galaxy TV series , BBC Radiophonic Workshop,
+BBC_Radio_4:
+name:BBC Radio 4,
+area:United_Kingdom,
+slogan:Intelligent speech, the most insightful journalism, the wittiest comedy, the most fascinating features and the most compelling drama and readings anywhere in UK radio,
+frequency:FM: 92.5–96.1 MHz, 103.5–104.9 MHz,LW: 198 kHz,MW: 603 kHz, 720 kHz, 774 kHz, 756 kHz, 1449 kHz, 1485 kHz,DAB: 12B,Freesat: 704 , 710,Freeview: 704,Sky : 0104 , 0143,Virgin Media: 904 , 911,Virgin Media Ireland: 910,(Various frequencies on analogue cable),
+airdate:1967-09-30,
+share:11.7,
+shareAsOf:September 2015,
+shareSource:RAJAR – Quarterly Listening,
+formerCallsigns:BBC_Home_Service,
+owner:BBC,
+sisterStations:BBC_Radio_4_Extra,
+webcast:bbc_radio_four,FM\n*Worldwide stream URL (HLS, 48 Kbps AAC+)\n*Worldwide stream URL (HLS, 96 Kbps AAC+)\n*Worldwide stream URL (HTTP progressive, 128 Kbps MP3)\n*UK-only stream URL (HLS, 128 Kbps AAC)\n*UK-only stream URL (HLS, 320 Kbps AAC)\nLW\n*Worldwide stream URL (HLS, 48 Kbps AAC+)\n*Worldwide stream URL (HLS, 96 Kbps AAC+)\n*Worldwide stream URL (HTTP progressive, 128 Kbps MP3)\n*UK-only stream URL (HLS, 128 Kbps AAC)\n*UK-only stream URL (HLS, 320 Kbps AAC),
+BBC_Two:
+name:BBC Two,
+launch:1964-04-20,
+pictureFormat:576,1080,
+share:5.04,
+shareSource:monthly-viewing-summary?_s=4,
+owner:BBC,
+formerNames:BBC2,
+sisterNames:BBC_One,BBC_Three_(former),BBC_Four,BBC_News_(TV_channel),BBC_Parliament,CBBC_(TV_channel),CBeebies,
+web:bbctwo,
+BBC_Radio:
+name:BBC Radio,
+type:Division_(business),
+foundation:1927,
+locationCity:Broadcasting House, London,
+keyPeople:Helen_Boaden,
+industry:Mass_media,
+owner:BBC,
+parent:BBC,
+BBC_Television_Shakespeare:
+showName:BBC Television Shakespeare,
+genre:Shakespearean_comedy,Shakespearean_tragedy,Shakespearean_history,
+creator:Cedric_Messina,
+writer:William_Shakespeare,
+themeMusicComposer:William Walton,Stephen Oliver,
+numSeries:7,
+numEpisodes:37,
+producer:Cedric Messina,Jonathan Miller,Shaun Sutton,
+company:BBC_Television,Time_Life,
+distributor:2,
+channel:BBC_Two,
+pictureFormat:4,
+audioFormat:Monaural,
+firstAired:1978-12-03,
+lastAired:1985-04-27,
+productionWebsite:index.html,
+BBC_Radio_4_Extra:
+name:BBC Radio 4 Extra,
+slogan:Showcasing the best in comedy drama and entertainment. With quizzes, sitcoms, panel games, satire, stand up, life stories, classics from the archive, science fiction and fantasy,
+airdate:2002-12-15,2011-04-02,
+share:0.9,
+shareAsOf:March 2013,
+shareSource:quarterly_listening.php,
+format:Comedy,Drama,
+owner:BBC,
+webcast:*Web Stream\nHTTP progressive Streams\n*Worldwide stream (Shoutcast, 128 Kbps MP3)\nHLS Streams\n*Worldwide stream (48 Kbps AAC+)\n*Worldwide stream (96 Kbps AAC+)\n*UK-only stream (128 Kbps AAC)\n*UK-only stream (320 Kbps AAC)\nHDS Streams\n*Worldwide stream (48 Kbps AAC+),
+BBC_One:
+name:BBC One,
+launch:1936-11-02,
+broadcastArea:United Kingdom and Crown Dependencies,
+pictureFormat:16,
+share:21.46,
+shareSource:monthly-viewing-summary?_s=4,
+owner:BBC,
+country:United_Kingdom,
+formerNames:BBC Television Service,BBC TV,BBC1,
+sisterNames:BBC_Two,BBC_Three_(former),BBC_Four,BBC_News_(TV_channel),BBC_Parliament,CBBC_(TV_channel),CBeebies,
+BBC_Radio_5_Live_Sports_Extra:
+name:BBC Radio 5 Live Sports Extra,
+area:United Kingdom - Nationally via Digital Audio Broadcasting (DAB),
+airdate:2002-02-02,
+share:0.2,
+shareAsOf:December 2012,
+format:Sport,
+owner:BBC,
+slogan:More live sport. Pure live sport. Live cricket from the Test Match Special team, football commentary, Formula 1, rugby union, rugby league, baseball, NFL American Football, tennis...,
+webcast:*Web Stream\nHTTP progressive Streams\n*Worldwide stream (Shoutcast, 128 Kbps MP3)\nHLS Streams\n*Worldwide stream (48 Kbps AAC+)\n*Worldwide stream (96 Kbps AAC+)\n*UK-only stream (128 Kbps AAC)\n*UK-only stream (320 Kbps AAC)\nHDS Streams\n*Worldwide stream (48 Kbps AAC+),
+BBC_Radio_5_Live:
+name:BBC Radio 5 Live,
+slogan:On digital and online, this is BBC Radio 5 Live,First for breaking news, and the best live sport,The World Cup Station,The Olympic Station,
+airdate:1994-03-28,
+frequency:MW: 693 kHz, 909 kHz, 990 kHz and on selected BBC Local Radio stations' frequencies overnight.,DAB: 12B,Freeview: 705,Freesat: 705,Sky : 0105,Virgin Media: 905,Virgin Media Ireland: 911,
+share:3.4,
+shareAsOf:September 2015,
+shareSource:RAJAR,
+owner:BBC,
+webcast:*Web Stream\nHTTP progressive Streams\n*Worldwide stream (Shoutcast, 128 Kbps MP3)\nHLS Streams\n*Worldwide stream (48 Kbps AAC+)\n*Worldwide stream (96 Kbps AAC+)\n*UK-only stream (128 Kbps AAC)\n*UK-only stream (320 Kbps AAC)\nHDS Streams\n*Worldwide stream (48 Kbps AAC+),
+BBC_Northern_Ireland:
+name:BBC Northern Ireland,
+area:Northern Ireland,
+website:northernireland,
+BBN_Technologies:
+name:BBN Technologies,
+type:Subsidiary of Raytheon,
+location:Cambridge,_Massachusetts,Massachusetts,United_States,
+founder:Leo Beranek and Richard Bolt,
+BBC_Radio_6_Music:
+name:BBC Radio 6 Music,
+area:United Kingdom – Nationally via Digital Audio Broadcasting (DAB),
+slogan:The place for the best Alternative Music. From Indie Pop and Iconic Rock to Trip Hop, Electronica and Dance with great Archive Music Sessions, Live Music Concerts and Documentaries,
+airdate:2002-03-11,
+share:2.0,
+shareAsOf:September 2015,
+shareSource:quarterly_listening.php,
+owner:BBC,
+webcast:*Web Stream\nHTTP progressive Streams\n*Worldwide stream (Shoutcast, 128 Kbps MP3)\nHLS Streams\n*Worldwide stream (48 Kbps AAC+)\n*Worldwide stream (96 Kbps AAC+)\n*UK-only stream (128 Kbps AAC)\n*UK-only stream (320 Kbps AAC)\nHDS Streams\n*Worldwide stream (48 Kbps AAC+),
+website:*\n*Song List,
+BBC_Radio_3:
+name:BBC Radio 3,
+area:United_Kingdom,
+airdate:1967-09-30,
+frequency:FM: 90.2 MHz – 92.6 MHz,DAB: 12B,Freeview: 703,Freesat: 703,Sky : 0103,Virgin Media: 903,Virgin Media Ireland: 909,
+share:1.2,
+shareAsOf:September 2015,
+shareSource:RAJAR – Quarterly Listening,
+format:Classical_music,Jazz,World_music,Radio_drama,High_culture,The_arts,
+owner:BBC,
+webcast:*Web Stream\nHTTP progressive Streams\n*Worldwide stream (Shoutcast, 128 Kbps MP3)\n*UK-only stream (Shoutcast, 320 Kbps AAC)\nHLS Streams\n*Worldwide stream (48 Kbps AAC+)\n*Worldwide stream (96 Kbps AAC+)\n*UK-only stream (128 Kbps AAC)\n*UK-only stream (320 Kbps AAC)\nHDS Streams\n*Worldwide stream (48 Kbps AAC+),
+website:*\n*Song List,
+BBC_America:
+name:BBC America,
+launch:1998-03-29,
+pictureFormat:1080,480,
+owner:BBC_Worldwide,AMC_Networks,
+headquarters:New_York_City,New_York,
+sisterNames:AMC_(TV_channel),BBC_Entertainment,BBC_World_News,IFC_(U.S._TV_network),SundanceTV,WE_tv,
+BBC_Four:
+name:BBC Four,
+launch:2002-03-02,
+pictureFormat:576,1080,
+share:0.82,
+shareSource:monthly-viewing-summary?_s=4,
+owner:BBC,
+replacedNames:BBC_Knowledge,
+web:bbcfour,
+sisterNames:BBC_One,BBC_Two,BBC_Three_(former),BBC_News_(TV_channel),BBC_Parliament,CBBC_(TV_channel),CBeebies,
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Red_Button:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_Radio_1:
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_News_(TV_channel):
+BBC_World_Service:
+BBC_World_Service:
+BBC_World_Service:
+BBC_World_Service:
+BBC_World_Service:
+BBC_World_Service:
+BBC_World_Service:
+BBC_World_Service:
+BBC_World_Service:
+BBC_World_Service:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_World_News:
+BBC_BASIC:
+BBC_BASIC:
+BBC_BASIC:
+BBC_BASIC:
+BBC_BASIC:
+BBC_BASIC:
+BBC_Radiophonic_Workshop:
+BBC_Radiophonic_Workshop:
+BBC_Radiophonic_Workshop:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Radio_4:
+BBC_Red_Button:
+name:BBC Red Button,
+pictureFormat:576,1080,
+share:0.1,
+shareSource:monthly-viewing-summary?_s=4,
+owner:BBC,
+language:English_language,
+formerNames:BBC Text,BBCi,
+sisterNames:BBC_One,BBC_Two,BBC_Three_(former),BBC_Four,BBC_News_(TV_channel),BBC_Parliament,CBBC_(TV_channel),CBeebies,
+web:redbutton,
+BBC_Radio_1:
+name:BBC Radio 1,
+area:United Kingdom: FM, DAB, TV,United States: TV,Canada: Satellite radio,Worldwide: Internet radio,
+slogan:Where New Music Begins,
+airdate:1967-09-30,
+frequency:FM: 97.6 MHz - 99.7 MHz,97.1,DAB: 12B - BBC National DAB,( RDS Name: Radio 1/BBC R1),Freeview: 700,Freesat: 700,Sky : 0101,Virgin Media: 901,Virgin Media Ireland: 907,
+share:6.5,
+shareAsOf:September 2015,
+format:Contemporary_hit_radio,News,Outline_of_entertainment,Speech,Show_business,
+owner:BBC,
+sisterStations:BBC_Radio_1Xtra,
+webcast:bbc_radio_one,,r1_heaacv2.pls,
+BBC_News_(TV_channel):
+name:BBC News,
+launch:1997-11-09,
+pictureFormat:576,1080,
+network:BBC_Television,
+share:1.04,
+shareSource:monthly-viewing-summary?_s=4,
+owner:BBC,
+slogan:\,\,Live The Story,The World's Newsroom,\,
+headquarters:BBC Television Centre,Broadcasting House,
+language:English_language,British_Sign_Language,
+sisterNames:BBC_One,BBC_Two,BBC_Three_(former),BBC_Four,BBC_Parliament,CBBC_(TV_channel),CBeebies,
+formerNames:BBC News 24,
+web:bbcnews,
+filename:Bbc news theme 2007.ogg,
+title:BBC News theme,
+description:The BBC News title music by David Lowe,
+BBC_World_Service:
+name:BBC World Service,
+type:Radio network broadcasting news, speech, discussions,
+slogan:The World's Radio Station, The BBC's international radio station,
+owner:BBC,
+keyPeople:Fran_Unsworth,
+launchDate:1932-12-19,
+formerNames:BBC Empire Service,BBC Overseas Service,External Services of the BBC,
+website:worldserviceradio,
+BBC_World_News:
+name:BBC World News,
+launch:--03-11,--01-16,--04-21,
+closedDate:--01-15,--04-20,
+pictureFormat:16,14,
+share:Available in:,350000000,1700000,81,46,35,74000000,
+shareAsOf:September 2011,
+network:BBC_News,
+owner:BBC,(  ),
+slogan:Demand a Broader View \n\nPutting News First \nLive The Story,
+language:English,
+headquarters:Broadcasting House, London, United Kingdom,
+formerNames:BBC World Service Television (  ),BBC World (  ),
+replacedNames:BBC World Service Television (  ),BBC World (  ),
+sisterNames:CBeebies,BBC America,BBC Arabic Television,BBC Brit,BBC Canada,BBC Earth,BBC Entertainment,BBC First,BBC HD,BBC HD Nordics,BBC Kids,BBC Knowledge,BBC Lifestyle,BBC UKTV,
+web:,
+BBC_BASIC:
+name:BBC BASIC,
+latestReleaseVersion:5.9,
+influencedBy:BASIC,Atom_BASIC,BCPL,
+website:www.bbcbasic.org,
+BBC_Radiophonic_Workshop:
+filename:Whale Theme from HitchHikers TV series sample.ogg,
+title:BBC Radiophonic Workshop, \,
+description:An excerpt from Whale Theme from the Hitchhikers Guide to the Galaxy TV series , BBC Radiophonic Workshop,
+BBC_Radio_4:
+name:BBC Radio 4,
+area:United_Kingdom,
+slogan:Intelligent speech, the most insightful journalism, the wittiest comedy, the most fascinating features and the most compelling drama and readings anywhere in UK radio,
+frequency:FM: 92.5–96.1 MHz, 103.5–104.9 MHz,LW: 198 kHz,MW: 603 kHz, 720 kHz, 774 kHz, 756 kHz, 1449 kHz, 1485 kHz,DAB: 12B,Freesat: 704 , 710,Freeview: 704,Sky : 0104 , 0143,Virgin Media: 904 , 911,Virgin Media Ireland: 910,(Various frequencies on analogue cable),
+airdate:1967-09-30,
+share:11.7,
+shareAsOf:September 2015,
+shareSource:RAJAR – Quarterly Listening,
+formerCallsigns:BBC_Home_Service,
+owner:BBC,
+sisterStations:BBC_Radio_4_Extra,
+webcast:bbc_radio_four,FM\n*Worldwide stream URL (HLS, 48 Kbps AAC+)\n*Worldwide stream URL (HLS, 96 Kbps AAC+)\n*Worldwide stream URL (HTTP progressive, 128 Kbps MP3)\n*UK-only stream URL (HLS, 128 Kbps AAC)\n*UK-only stream URL (HLS, 320 Kbps AAC)\nLW\n*Worldwide stream URL (HLS, 48 Kbps AAC+)\n*Worldwide stream URL (HLS, 96 Kbps AAC+)\n*Worldwide stream URL (HTTP progressive, 128 Kbps MP3)\n*UK-only stream URL (HLS, 128 Kbps AAC)\n*UK-only stream URL (HLS, 320 Kbps AAC),

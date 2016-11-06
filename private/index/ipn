@@ -1,0 +1,31 @@
+
+Pneumonia:
+name:Pneumonia,
+icd:J12, J13, J14, J15, J16, J17, J18, P23,480,-,486,,,770,
+meshid:D011014,
+filename:Crackles pneumoniaO.ogg,
+title:Crackles,
+description:Crackles heard in the lungs of a person with pneumonia using a stethoscope.,
+Pneumothorax:
+name:Pneumothorax,
+icd:J93, P25.1, S27.0,512,,,860,
+omim:173600,
+meshid:D011030,
+Pneumonia:
+Pneumonia:
+Pneumonia:
+Pneumonia:
+Pneumonia:
+Pneumonia:
+Pneumonia:
+Pneumonia:
+Pneumonia:
+Pneumonia:
+Pneumonia:
+Pneumonia:
+name:Pneumonia,
+icd:J12, J13, J14, J15, J16, J17, J18, P23,480,-,486,,,770,
+meshid:D011014,
+filename:Crackles pneumoniaO.ogg,
+title:Crackles,
+description:Crackles heard in the lungs of a person with pneumonia using a stethoscope.,

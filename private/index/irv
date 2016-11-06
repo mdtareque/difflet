@@ -1,0 +1,42 @@
+
+RV_Triton:
+shipName:RV Triton,
+shipBuilder:VT_Group,
+shipOriginalCost:1200.0,
+shipFate:*Sold to Gardline Marine Sciences, 2005\n*Leased to Australian Customs and Border Protection Service, December 2006,
+shipCountry:Australia,
+shipName:ACV Triton,
+shipStatus:Active as of 2011,
+RV_Calypso:
+shipClass:*British Yard Minesweeper\n*Mark 1 Class Motor Minesweeper,
+shipName:HMS J-826,
+shipBuilder:Ballard_Marine_Railway_Company,Seattle,Washington_(state),United_States,
+shipLaidDown:1941-08-12,
+shipLaunched:1942-03-21,
+shipFate:Sunk and raised,
+shipStatus:Being refurbished under the direction of the Cousteau Society,
+shipPower:2,
+RV_Polarstern:
+shipName:Polarstern,
+shipOperator:Alfred_Wegener_Institute_for_Polar_and_Marine_Research,
+shipBuilder:Howaldtswerke-Deutsche Werft at Kiel and the Nobiskrug at Rendsburg,
+shipLaidDown:1981-02-22,
+shipCompleted:1982-12-01,
+shipStatus:In service,
+shipType:Icebreaker,Research_vessel,
+shipPower:Four diesel engines,,
+RV_Triton:
+RV_Triton:
+RV_Triton:
+RV_Triton:
+RV_Triton:
+RV_Triton:
+RV_Triton:
+RV_Triton:
+shipName:RV Triton,
+shipBuilder:VT_Group,
+shipOriginalCost:1200.0,
+shipFate:*Sold to Gardline Marine Sciences, 2005\n*Leased to Australian Customs and Border Protection Service, December 2006,
+shipCountry:Australia,
+shipName:ACV Triton,
+shipStatus:Active as of 2011,

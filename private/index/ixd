@@ -1,0 +1,9 @@
+
+XDM_(display_manager):
+name:XDM,
+author:Keith_Packard,
+developer:X.Org_Foundation,
+latestReleaseVersion:1.1,
+programmingLanguage:C_(programming_language),C++,
+genre:X_display_manager_(program_type),
+license:MIT_License,

@@ -1,0 +1,13 @@
+
+Iyonix_PC:
+name:Iyonix PC,
+manufacturer:Castle_Technology,
+os:RISC_OS,Linux,
+cpu:List_of_ARM_microarchitectures,XScale,
+predecessor:RiscPC,A9home,
+successor:Touch_Book,ARMini,
+Iyo,_Ehime:
+name:Iyo,
+settlementType:Cities_of_Japan,
+region:Shikoku,
+population:39915,
