@@ -5,6 +5,7 @@ div.main { margin-bottom: 2em; }
 .dp { text-align: center; margin: 1em 0; padding: .2em; }
 .dp span {
     /*border           : 1px solid black;*/
+    font-size: 1.1em;
     padding            : 1px 20px;
     border-radius      : 40px;
     font-weight        : bold;
@@ -26,14 +27,20 @@ div.addDp span {
     box-shadow         : 6px 6px 29px -1px rgba(0,0,0,0.77);
 }
 
+div.main div.leftPane, div.main div.rightPane {
+    word-wrap: break-word;
+    /* white-space: pre-wrap; */
+    font-size: 1.2em;
+}
+
 div.main div.leftPane { text-align: right; border-right: 4px solid black; }
 
-div.main div.rightPane { text-align: left; border-left: 4px solid black; margin-left: -4px; }
+div.main div.rightPane { text-align: left; border-left: 4px solid black; margin-left: -4px;}
 
 div.heading div {
     border         : 0px solid red;
     text-align     : center;
-    text-transform : capitalize;
+    /* text-transform : capitalize; */
     font-weight    : bold;
     padding-bottom : 1em;
     margin         : .2em 0;
@@ -42,12 +49,13 @@ div.heading div {
     font-size      : 1.5em;
 }
 
-div.main div.heading div.leftPane {
+div.main div.heading div.hleftPane {
     text-align   : center;
     border-right : 4px solid black;
 }
+
 div.main div.heading div.hrightPane { text-align:center; }
-div.heading div.leftPane, div.heading div.hrightPane { border-bottom: 0px solid black; }
+div.heading div.hleftPane, div.heading div.hrightPane { border-bottom: 0px solid black; }
 
 
 /* popup for css*/

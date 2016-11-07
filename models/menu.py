@@ -5,7 +5,7 @@
 # Customize your APP title, subtitle and menus here
 # ----------------------------------------------------------------------------------------------------------------------
 response.logo = A(B('diff',SPAN('L'),'et'),XML('&trade;&nbsp;'),
-        _class="navbar-brand",_href="http://www.127.0.0.0:8000/",
+        _class="navbar-brand",_href="/difflet",
                   _id="web2py-logo")
 response.title = request.application.replace('_',' ').title()
 response.subtitle = ''

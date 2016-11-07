@@ -3,8 +3,8 @@
 <div class="main">
   <div class="row heading">
     <div class="col-md-2"></div>
-    <div class="col-md-4 leftPane">{{=e1}}</div>
-    <div class="col-md-4 hrightPane">{{=e2}} </div>
+    <div class="col-md-4 hleftPane">{{=e1.capitalize()}}</div>
+    <div class="col-md-4 hrightPane">{{=e2.capitalize()}} </div>
   </div>
 
   {{if 'img' in output:}}
@@ -30,12 +30,17 @@
 
 
   {{i=0}}
+  {{import re
+  regexSub = re.compile("([A-Z])")
+  regex2 = re.compile('(\S)_(\S)')
+  }}
   {{for dp, value in output.iteritems(): }}
 
     <div class="row">
         <div class="col-md-4"></div>
         <div class="col-md-4 dp {{='secondOnwards' if i > 0 else 'firstdp'}}"  data-id="{{=i}}">
-          <span class="btn btn-primary btn-large">{{=dp.capitalize()}}</span>
+
+          <span class="btn btn-primary btn-large" style="text-transform: none;">{{=(regexSub.sub(" \\1",dp).title())}}</span>
         </div>
     </div>
 
@@ -45,14 +50,14 @@
             {{if dp == 'img':}}
                 <img src="{{=value[0]}}" />
             {{else:}}
-                {{=value[0]}}
+                {{=regex2.sub('\\1 \\2', value[0])}}
             {{pass}}
         </div>
         <div class="col-md-4 rightPane">
             {{if dp == 'img':}}
                 <img src="{{=value[1]}}" />
             {{else:}}
-                {{=value[1]}}
+                {{=regex2.sub('\\1 \\2', value[1])}}
             {{pass}}
         </div>
         <div class="col-md-2"></div>
@@ -66,7 +71,7 @@
     <div class="row">
         <div class="col-md-4"></div>
         <div class="col-md-4 dp"  data-id="{{=i}}">
-          <span class="btn btn-primary btn-large">Video</span>
+          <span class="btn btn-primary btn-large" style="text-transform: none;">Video</span>
         </div>
     </div>
 
@@ -97,15 +102,15 @@
         <a href = "#" class = "list-group-item active">
             <b>Popular Searches</b>
         </a>
-        {{for i in range(0):}}
+        {{for i in range(0, min(4, len(popular_searches))):}}
         <div class="boxes">
                 <span id="diffbox" >
-                <a href="{{=URL('default', 'difflet', vars={'e1' : 'India', 'e2' : 'Australia'}) }}">
+                <a href="{{=URL('default', 'difflet', vars={'e1' : popular_searches[i][0], 'e2' : popular_searches[i][1]}) }}">
                 <span class="box">
-                    <span>India</span>
+                    <span>{{=popular_searches[i][0].title()}}</span>
                     <span>-vs-</span>
-                    <span>Australia</span>
-                    <span class="hits">4</span>
+                    <span>{{=popular_searches[i][1].title()}}</span>
+                    <span class="hits">{{=popular_searches[i][2]}}</span>
                 </span>
                 </a>
                 </span>

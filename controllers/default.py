@@ -9,10 +9,34 @@
 # -------------------------------------------------------------------------
 
 def _thingId(ename):
-    return db(db.thing.name==ename).select(db.thing.id)[0]['id']
+    try:
+        _id = db(db.thing.name==ename).select(db.thing.id)[0]['id']
+    except:
+        _id = -1
+    return _id
 
 def _thingName(id):
     return db(db.thing.id==id).select(db.thing.name)[0]['name']
+
+def _getRecent():
+    recents = db(db.recents).select(db.recents.thing1, db.recents.thing2, orderby = ~db.recents.last_accessed, limitby=(0,4))
+    recent_searches = []
+    try:
+        for r in recents:
+            recent_searches.append( (_thingName(r['thing1']), _thingName(r['thing2']))  )
+    except:
+        pass
+    return recent_searches
+
+def _getPopular():
+    popular = db(db.popular).select(db.popular.thing1, db.popular.thing2, db.popular.hits , orderby = ~db.popular.hits, limitby=(0,4))
+    popular_searches = []
+    try:
+        for r in popular:
+            popular_searches.append( (_thingName(r['thing1']), _thingName(r['thing2']), r['hits'])  )
+    except:
+        pass
+    return popular_searches
 
 def index():
     redirect(URL('default', 'search'))
@@ -20,19 +44,16 @@ def index():
     return dict(message=T('Difflet App Loaded!'))
 
 def search():
-    recents = db(db.recents).select(db.recents.thing1, db.recents.thing2, orderby = ~db.recents.last_accessed, limitby=(0,5))
-    recent_searches = []
-    try:
-        for r in recents:
-            recent_searches.append( (_thingName(r['thing1']), _thingName(r['thing2']))  )
-    except:
-        pass
+    recent_searches = _getRecent()
+    popular_searches = _getPopular()
     return locals()
 
 def saveSearch(e1, e2): # save to recents
     from datetime import datetime as dt
     now = dt.today()
     e1id, e2id = _thingId(e1), _thingId(e2)
+    if e1id == -1 or e2id == -1:
+        return
     e1id, e2id = min(e1id, e2id), max(e1id, e2id)
     q = (db.recents.thing1 == e1id) & (db.recents.thing2 == e2id)
     myset = db(q).select(db.recents.ALL, limitby=(0,1))
@@ -54,9 +75,11 @@ def saveSearch(e1, e2): # save to recents
 def random():
     # 'country', animal and company
     data = [
-     ['india', 'australia', 'egypt'],
-     ['lion', 'deer'],
-     ['apple co.', 'google', 'ibm']
+     ['india', 'indonesia', 'italy'],
+     ['india', 'indonesia', 'italy'],
+     ['india', 'indonesia', 'italy'],
+     #['lion', 'deer'],
+     #['apple co.', 'google', 'ibm']
     ]
     import random as rand_
     r1 = rand_.randrange(0, len(data))
@@ -68,23 +91,75 @@ def random():
 
 def difflet():
     e1, e2 = request.vars['e1'],request.vars['e2']
-    e1 = "india"
-    e2 = "indonesia"
+    #e1, e2 = "india", "indonesia"
+    if e1 is None or e2 is None:
+        response.flash = T("Invalid input")
+        redirect(URL('default', 'search'))
+
     e1, e2 = e1.lower(), e2.lower()
+    e1, e2 = min(e1, e2), max(e1,e2)
     #e1id=(db(db.thing.name==e1).select())[0]['id']
     #e2id=(db(db.thing.name==e2).select())[0]['id']
 
-    """
     q1 = (db.listings.thing == db.thing.id) & (db.listings.point == db.point.id) & (db.listings.description == db.description.id) & (db.thing.name == e1)
     q2 = (db.listings.thing == db.thing.id) & (db.listings.point == db.point.id) & (db.listings.description == db.description.id) & (db.thing.name == e2)
 
+
+    from searchpy import getdata
+    indexpath = request.folder + "private/index"
+    one = getdata(indexpath, e1)
+    two = getdata(indexpath, e2)
+    common=[]
+    e1_dp_id = sorted(one.keys())
+    e2_dp_id = sorted(two.keys())
+    for i in e1_dp_id:
+        if i in e2_dp_id:
+            common.append(i)
+    output = {}
+    for k,v in one.items() :
+        if k in common:
+            output[k] = (v, '')
+    for k,v in two.items() :
+        if k in common:
+            old_tuple = output[k]
+            output[k] = (old_tuple[0], v)
+
+    e1id = _thingId(e1)
+    if e1id == -1:
+        print 'thing1 inserted : ', e1
+        e1id = db.thing.insert(name = e1)
+    e2id = _thingId(e2)
+    if e2id == -1:
+        print 'thing2 inserted : ', e1
+        e2id = db.thing.insert(name = e2)
+    e1id = _thingId(e1)
+    e2id = _thingId(e2)
+
+    for point in output.keys():
+        if not db(db.point.property == point).select():
+            print 'diff-point inserted : ', point
+            point_id_inserted0 = db.point.insert(property = point)
+        point_id_inserted = db(db.point.property == point).select()[0]['id']
+        t1did = -1
+        if not db(db.description.body == output[point][0]).select():
+            print 'description inserted for e1 ', output[point][0]
+            t1did = db.description.insert(body = output[point][0])
+        t2did = -1
+        if not db(db.description.body == output[point][1]).select():
+            print 'description inserted for e2 ', output[point][1]
+            t2did = db.description.insert(body = output[point][1])
+        if t1did != -1:
+            print 'description inserted for ', e1 ,' ', point
+            db.listings.insert( thing = e1id, point = point_id_inserted, description = int(t1did) )
+        if t2did != -1:
+            print 'listings inserted for ', e2 ,' ', point
+            db.listings.insert( thing = e2id, point = point_id_inserted, description = int(t2did) )
+
+    print ''
+    print 'going to query now'
     e1rows = db(q1).select(db.point.property, db.description.body, db.point.id)
     e2rows = db(q2).select(db.point.property, db.description.body, db.point.id)
     #e2rows = db(db.listing.entity==e2id).select(join = db.diff_point.on(db.listing.diff_point == db.diff_point.id))
-
-
-    #if not e1rows: # populate e1rows
-
 
     e1_dp_id = []
     for i in range(0, len(e1rows)):
@@ -110,41 +185,91 @@ def difflet():
         if r['point']['id'] in common:
             old_tuple = output[r['point']['property']]
             output[r['point']['property']] = (old_tuple[0], r['description']['body'])
-#        if r['diff_point.id'] in common:
-#            old_tuple = output[r['diff_point.name']]
-#            output[r['diff_point.name']] =  ( old_tuple[0],  r['listing.summary'])
     saveSearch(e1, e2)
-    """
+    print "output"
+    print output
+
 
     diffvideo = request.vars['v'] == '2'
-    from searchpy import getdata
-    indexpath = request.folder + "private/index"
-    one = getdata(indexpath, e1)
-    two = getdata(indexpath, e2)
-    common=[]
-    e1_dp_id = sorted(one.keys())
-    e2_dp_id = sorted(two.keys())
-    for i in e1_dp_id:
-        if i in e2_dp_id:
-            common.append(i)
-    output={}
-    output = {}
-    for k,v in one.items() :
-        if k in common:
-            output[k] = (v, '')
-    for k,v in two.items() :
-        if k in common:
-            old_tuple = output[k]
-            output[k] = (old_tuple[0], v)
-
+    diffvideo = True
     if diffvideo == True:
-        from ytSearchpy import find_video
-        urls = find_video(e1, e2)
-        print "URLS>>>>>>>>>>>>>>>"
-        print urls
-        v1url = urls[0][1]
-        v2url = urls[1][1]
+        v1url, v2url = "", ""
 
+        v1url = db(db.point.property == 'video-' + e1).select()
+        if v1url:
+            print 'found url for ', e1
+            vq =  (db.point.property == 'video-'+e1) & (db.listings.thing == e1id ) & (db.listings.description == db.description.id) & (db.point.id == db.listings.point)
+            v1url = db( vq ).select(db.description.body)[0]['body']
+        else:
+            v1url = ""
+
+        v2url = db(db.point.property == 'video-' + e2).select()
+        if v2url:
+            print 'found url for ', e2
+            vq =  (db.point.property == 'video-'+e2) & (db.listings.thing == e2id ) & (db.listings.description == db.description.id) & (db.point.id == db.listings.point)
+            v2url = db( vq ).select(db.description.body)[0]['body']
+        else:
+            v2url = ""
+
+        if v1url == v2url and v1url != "":
+            # all good
+            pass
+        elif v1url != "" and v2url != "":
+            # all good
+            pass
+        elif v1url == "" or v2url == "":
+            print 'hitting youtube API'
+
+            from ytSearchpy import find_video
+            urls = find_video(e1, e2)
+            print "URLS>>>>>>>>>>>>>>>", urls
+            _v1url = urls[0][1]
+            _v2url = urls[1][1]
+
+            if v1url == "":
+                v1url = _v1url
+            if v2url == "":
+                v2url = _v2url
+
+            pid =  db(db.point.property == 'video-'+e1).select()
+            if not pid:
+                pid = db.point.insert(property = 'video-'+e1)
+                did = db.description.insert(body = v1url)
+                db.listings.insert(thing = e1id, point = int(pid), description = int(did))
+                print 'inserted video for ', e1
+            pid =  db(db.point.property == 'video-'+e2).select()
+            if not pid:
+                pid = db.point.insert(property = 'video-'+e2)
+                did = db.description.insert(body = v1url)
+                db.listings.insert(thing = e2id, point = int(pid), description = int(did))
+                print 'inserted video for ', e2
+
+#            if v1url == v2url:
+#                pid =  db(db.point.property == 'video-'+e1+'-vs-'+e2).select()
+#                if not pid:
+#                    pid = db.point.insert(property = 'video-'+e1+'-vs-'+e2)
+#                    did = db.description.insert(body = v1url)
+#                    db.listings.insert(thing = e2id, point = int(pid), description = int(did))
+#                    db.listings.insert(thing = e1id, point = int(pid), description = int(did))
+#                    print 'inserted video for ', e1,'-vs-', e2
+
+
+
+            """if v1url == v2url:
+                pid = db.point.insert(property = "video-"+e1+"-vs-"+e2)
+                did = db.description.insert(body = v1url)
+                db.listing.insert( thing = e1id, point = pid, description = did )
+                db.listing.insert( thing = e2id, point = pid, description = did )
+            else:
+                pid = db.point.insert(property = "video-"+e1)
+                did = db.description.insert(body = v1url)
+                db.listing.insert( thing = e1id, point = pid, description = did )
+                pid = db.point.insert(property = "video-"+e2)
+                did = db.description.insert(body = v2url)
+                db.listing.insert( thing = e2id, point = pid, description = did )
+            """
+
+    popular_searches = _getPopular()
     return locals()
 
 
