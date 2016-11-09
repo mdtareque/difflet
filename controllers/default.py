@@ -61,7 +61,7 @@ def saveSearch(e1, e2): # save to recents
         db(q).update(last_accessed=now)
     else:
         db.recents.insert(thing1 =e1id, thing2= e2id, last_accessed=now)
-    print "saved recents %s vs %s" % (e1, e2)
+    #print "saved recents %s vs %s" % (e1, e2)
     q2 = (db.popular.thing1 == e1id) & (db.popular.thing2 == e2id)
     myset = db(q2).select(db.popular.ALL, limitby=(0,1))
     if myset:
@@ -69,16 +69,19 @@ def saveSearch(e1, e2): # save to recents
         db(q2).update(hits = oldcount + 1, last_accessed=now)
     else:
         db.popular.insert(thing1 =e1id, thing2= e2id, hits=1, last_accessed=now)
-    print "update hit %s vs %s" % (e1, e2)
+    #print "update hit %s vs %s" % (e1, e2)
     return
 
 def random():
     # 'country', animal and company
     data = [
-     ['india', 'indonesia', 'italy'],
-     ['india', 'indonesia', 'italy'],
-     ['india', 'indonesia', 'italy'],
-     #['lion', 'deer'],
+     ['india', 'indonesia', 'italy', 'iran', 'nepal', 'germany', ''],
+     ['url', 'uri'],
+     ['elephant', 'giraffe'],
+     ['ganges', 'nile'],
+     ['c++', 'perl'],
+     ['mumbai', 'hyderabad', 'delhi', 'jaipur', 'chennai']
+
      #['apple co.', 'google', 'ibm']
     ]
     import random as rand_
@@ -126,37 +129,37 @@ def difflet():
 
     e1id = _thingId(e1)
     if e1id == -1:
-        print 'thing1 inserted : ', e1
+        #print 'thing1 inserted : ', e1
         e1id = db.thing.insert(name = e1)
     e2id = _thingId(e2)
     if e2id == -1:
-        print 'thing2 inserted : ', e1
+        #print 'thing2 inserted : ', e1
         e2id = db.thing.insert(name = e2)
     e1id = _thingId(e1)
     e2id = _thingId(e2)
 
     for point in output.keys():
         if not db(db.point.property == point).select():
-            print 'diff-point inserted : ', point
+            #print 'diff-point inserted : ', point
             point_id_inserted0 = db.point.insert(property = point)
         point_id_inserted = db(db.point.property == point).select()[0]['id']
         t1did = -1
         if not db(db.description.body == output[point][0]).select():
-            print 'description inserted for e1 ', output[point][0]
+            #print 'description inserted for e1 ', output[point][0]
             t1did = db.description.insert(body = output[point][0])
         t2did = -1
         if not db(db.description.body == output[point][1]).select():
-            print 'description inserted for e2 ', output[point][1]
+            #print 'description inserted for e2 ', output[point][1]
             t2did = db.description.insert(body = output[point][1])
         if t1did != -1:
-            print 'description inserted for ', e1 ,' ', point
+            #print 'description inserted for ', e1 ,' ', point
             db.listings.insert( thing = e1id, point = point_id_inserted, description = int(t1did) )
         if t2did != -1:
-            print 'listings inserted for ', e2 ,' ', point
+            #print 'listings inserted for ', e2 ,' ', point
             db.listings.insert( thing = e2id, point = point_id_inserted, description = int(t2did) )
 
-    print ''
-    print 'going to query now'
+    #print ''
+    #print 'going to query now'
     e1rows = db(q1).select(db.point.property, db.description.body, db.point.id)
     e2rows = db(q2).select(db.point.property, db.description.body, db.point.id)
     #e2rows = db(db.listing.entity==e2id).select(join = db.diff_point.on(db.listing.diff_point == db.diff_point.id))
@@ -186,8 +189,8 @@ def difflet():
             old_tuple = output[r['point']['property']]
             output[r['point']['property']] = (old_tuple[0], r['description']['body'])
     saveSearch(e1, e2)
-    print "output"
-    print output
+    #print "output"
+    #print output
 
 
     diffvideo = request.vars['v'] == '2'
@@ -197,7 +200,7 @@ def difflet():
 
         v1url = db(db.point.property == 'video-' + e1).select()
         if v1url:
-            print 'found url for ', e1
+            #print 'found url for ', e1
             vq =  (db.point.property == 'video-'+e1) & (db.listings.thing == e1id ) & (db.listings.description == db.description.id) & (db.point.id == db.listings.point)
             v1url = db( vq ).select(db.description.body)[0]['body']
         else:
@@ -205,7 +208,7 @@ def difflet():
 
         v2url = db(db.point.property == 'video-' + e2).select()
         if v2url:
-            print 'found url for ', e2
+            #print 'found url for ', e2
             vq =  (db.point.property == 'video-'+e2) & (db.listings.thing == e2id ) & (db.listings.description == db.description.id) & (db.point.id == db.listings.point)
             v2url = db( vq ).select(db.description.body)[0]['body']
         else:
@@ -218,11 +221,11 @@ def difflet():
             # all good
             pass
         elif v1url == "" or v2url == "":
-            print 'hitting youtube API'
+            #print 'hitting youtube API'
 
             from ytSearchpy import find_video
             urls = find_video(e1, e2)
-            print "URLS>>>>>>>>>>>>>>>", urls
+            #print "URLS>>>>>>>>>>>>>>>", urls
             _v1url = urls[0][1]
             _v2url = urls[1][1]
 
@@ -236,38 +239,33 @@ def difflet():
                 pid = db.point.insert(property = 'video-'+e1)
                 did = db.description.insert(body = v1url)
                 db.listings.insert(thing = e1id, point = int(pid), description = int(did))
-                print 'inserted video for ', e1
+                #print 'inserted video for ', e1
             pid =  db(db.point.property == 'video-'+e2).select()
             if not pid:
                 pid = db.point.insert(property = 'video-'+e2)
                 did = db.description.insert(body = v1url)
                 db.listings.insert(thing = e2id, point = int(pid), description = int(did))
-                print 'inserted video for ', e2
+                #print 'inserted video for ', e2
 
-#            if v1url == v2url:
-#                pid =  db(db.point.property == 'video-'+e1+'-vs-'+e2).select()
-#                if not pid:
-#                    pid = db.point.insert(property = 'video-'+e1+'-vs-'+e2)
-#                    did = db.description.insert(body = v1url)
-#                    db.listings.insert(thing = e2id, point = int(pid), description = int(did))
-#                    db.listings.insert(thing = e1id, point = int(pid), description = int(did))
-#                    print 'inserted video for ', e1,'-vs-', e2
+    if len(output) < 3:
+        response.flash = T("No data found on wikipedia directly.")
 
+    if 'img' not in output:
+        from searchpy import getImage
+        print 'hitting image'
+        try:
+            i1 = getImage(e1)
+            i2 = getImage(e2)
+            if i1!="" and i2!="":
+                output['img'] = (i1, i2)
+                pid = db(db.point.property == 'img').select()
+                did1 = db.description.insert(body=i1)
+                did2 = db.description.insert(body=i2)
+                db.listings.insert(thing = e1id, point = int(pid), description = int(did1))
+                db.listings.insert(thing = e2id, point = int(pid), description = int(did2))
+        except:
+            pass
 
-
-            """if v1url == v2url:
-                pid = db.point.insert(property = "video-"+e1+"-vs-"+e2)
-                did = db.description.insert(body = v1url)
-                db.listing.insert( thing = e1id, point = pid, description = did )
-                db.listing.insert( thing = e2id, point = pid, description = did )
-            else:
-                pid = db.point.insert(property = "video-"+e1)
-                did = db.description.insert(body = v1url)
-                db.listing.insert( thing = e1id, point = pid, description = did )
-                pid = db.point.insert(property = "video-"+e2)
-                did = db.description.insert(body = v2url)
-                db.listing.insert( thing = e2id, point = pid, description = did )
-            """
 
     popular_searches = _getPopular()
     return locals()
@@ -367,5 +365,5 @@ def call():
 def html():
     from diffpy import getCheck
     a=getCheck(6)
-    print a
+    #print a
     return locals()

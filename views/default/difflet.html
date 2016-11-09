@@ -11,17 +11,17 @@
     <div class="row">
         <div class="col-md-4"></div>
         <div class="col-md-4 dp {{='secondOnwards' if i > 0 else 'firstdp'}}" data-id="{{=i}}">
-          <span class="btn btn-primary btn-large">Image</span>
+          <span class="btn btn-primary btn-large" style="text-transform: none">Image</span>
         </div>
     </div>
 
     <div class="row row{{=i}}">
         <div class="col-md-2"></div>
         <div class="col-md-4 leftPane">
-            <img src="{{=output['img'][0]}}" />
+            <img src="{{=output['img'][0]}}" style="border: 1px solid gray;"/>
         </div>
         <div class="col-md-4 rightPane">
-            <img src="{{=output['img'][1]}}" />
+            <img src="{{=output['img'][1]}}" style="border: 1px solid gray;"/>
         </div>
         <div class="col-md-2"></div>
     </div>
@@ -85,8 +85,10 @@
             <iframe width="350" height="197" src="{{=v2url}}" frameborder="0" allowfullscreen></iframe>
         </div>
         {{else:}}
-        <div class="col-md-8 col-md-offset-3">
-            <iframe width="500" height="281" src="{{=v1url}}" frameborder="0" allowfullscreen></iframe>
+        <div class="col-md-8">
+            <div style="margin: 0 auto; border: 0px solid black; width: 500px;">
+                <iframe width="500" height="281" src="{{=v1url}}" frameborder="0" allowfullscreen></iframe>
+            </div>
         </div>
         {{pass}}
 

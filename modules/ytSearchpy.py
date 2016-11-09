@@ -26,7 +26,7 @@ def youtube_search(title, maxresult=5):
     developerKey=DEVELOPER_KEY)
 
   title = urllib.quote_plus(title)
-  print 'Title is ',title
+  #print 'Title is ',title
   search_response = youtube.search().list(
     q=title,
     part="id,snippet",
@@ -66,13 +66,13 @@ def find_video(e1, e2):
                 break
     pre = "https://www.youtube.com/embed/"
     suf = "?rel=0"
-    print ''
+    #print ''
     if done:
         _output.append( (e1, pre + final[1] + suf) )
         _output.append( (e2, pre + final[1] + suf) )
-        print 'matched', final
+        #print 'matched', final
     else:
-        print "nothing matched"
+        #print "nothing matched"
         # go to find 2 video
         out = youtube_search('description of '+e1, 1)
         _output.append( (e1, pre + out[0][1] + suf) )
