@@ -1,6 +1,6 @@
 sessions/*
 private/index/*
-private/index0/*
+private/indexData/*
 private/appconfig.ini
 errors/*
 */*.pyc
