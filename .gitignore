@@ -5,3 +5,4 @@ private/appconfig.ini
 errors/*
 */*.pyc
 */*.tgz
+*.pyc

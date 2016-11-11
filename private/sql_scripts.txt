@@ -1,1 +1,3 @@
 select name, body, property from listings as l, thing as t, point as p, description as d  where l.thing = t.id and l.point = p.id and l.description = d.id and t.name = 'thing1';
+mysqldump -u root -p difflet_db > db.nov11.sql
+mysql -uroot -p dbname < db.nov11.sql
