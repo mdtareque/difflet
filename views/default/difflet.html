@@ -1,10 +1,11 @@
 {{extend 'layout.html'}}
 
+{{i=0}}
 <div class="main">
   <div class="row heading">
     <div class="col-md-2"></div>
-    <div class="col-md-4 hleftPane">{{=e1.capitalize()}}</div>
-    <div class="col-md-4 hrightPane">{{=e2.capitalize()}} </div>
+    <div class="col-md-4 hleftPane">{{=e1.capitalize().title().replace('_', ' ')}}</div>
+    <div class="col-md-4 hrightPane">{{=e2.capitalize().title().replace('_', ' ')}} </div>
   </div>
 
   {{if 'img' in output:}}
@@ -109,9 +110,9 @@
                 <span id="diffbox" >
                 <a href="{{=URL('default', 'difflet', vars={'e1' : popular_searches[i][0], 'e2' : popular_searches[i][1]}) }}">
                 <span class="box">
-                    <span>{{=popular_searches[i][0].title()}}</span>
+                    <span>{{=popular_searches[i][0].title()[:12].replace('_', ' ')}}</span>
                     <span>-vs-</span>
-                    <span>{{=popular_searches[i][1].title()}}</span>
+                    <span>{{=popular_searches[i][1].title()[:12].replace('_', ' ')}}</span>
                     <span class="hits">{{=popular_searches[i][2]}}</span>
                 </span>
                 </a>

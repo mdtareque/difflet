@@ -5,7 +5,7 @@ div.main { margin-bottom: 2em; }
 .dp { text-align: center; margin: 1em 0; padding: .2em; }
 .dp span {
     /*border           : 1px solid black;*/
-    font-size: 1.1em;
+    font-size: 1.3em;
     padding            : 1px 20px;
     border-radius      : 40px;
     font-weight        : bold;
@@ -30,7 +30,8 @@ div.addDp span {
 div.main div.leftPane, div.main div.rightPane {
     word-wrap: break-word;
     /* white-space: pre-wrap; */
-    font-size: 1.2em;
+    font-size: 1.8em;
+    font-weight: bold;
 }
 
 div.main div.leftPane { text-align: right; border-right: 4px solid black; }
@@ -55,7 +56,7 @@ div.main div.heading div.hleftPane {
 }
 
 div.main div.heading div.hrightPane { text-align:center; }
-div.heading div.hleftPane, div.heading div.hrightPane { border-bottom: 0px solid black; }
+div.heading div.hleftPane, div.heading div.hrightPane { border-bottom: 0px solid black; font-size: 1.6em; }
 
 
 /* popup for css*/

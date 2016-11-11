@@ -75,12 +75,12 @@ def saveSearch(e1, e2): # save to recents
 def random():
     # 'country', animal and company
     data = [
-     ['india', 'indonesia', 'italy', 'iran', 'nepal', 'germany', ''],
-     ['url', 'uri'],
-     ['elephant', 'giraffe'],
-     ['ganges', 'nile'],
-     ['c++', 'perl'],
-     ['mumbai', 'hyderabad', 'delhi', 'jaipur', 'chennai']
+     ['india', 'indonesia', 'italy', 'iran', 'nepal', 'germany'],
+     ['java_(programming_language)', 'ruby_(programming_language)', 'c++'],
+     ['mumbai', 'hyderabad', 'delhi', 'jaipur', 'chennai'],
+     ['hindi', 'urdu'],
+     ['shah_rukh_khan', 'aamir_khan'],
+     ['google', 'ibm']
 
      #['apple co.', 'google', 'ibm']
     ]
@@ -95,9 +95,13 @@ def random():
 def difflet():
     e1, e2 = request.vars['e1'],request.vars['e2']
     #e1, e2 = "india", "indonesia"
+    e1 = e1.replace(' ','_')
+    e2 = e2.replace(' ','_')
     if e1 is None or e2 is None:
         response.flash = T("Invalid input")
         redirect(URL('default', 'search'))
+
+    print e1, e2
 
     e1, e2 = e1.lower(), e2.lower()
     e1, e2 = min(e1, e2), max(e1,e2)

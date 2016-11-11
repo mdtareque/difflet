@@ -28,9 +28,9 @@
                 <span id="diffbox" >
                 <a href="{{=URL('default', 'difflet', vars={'e1' : recent_searches[i][0], 'e2' : recent_searches[i][1]}) }}">
                 <span class="box">
-                    <span>{{=recent_searches[i][0].title()}}</span>
+                    <span>{{=recent_searches[i][0].title()[:12].replace('_', ' ')}}</span>
                     <span>-vs-</span>
-                    <span>{{=recent_searches[i][1].title()}}</span>
+                    <span>{{=recent_searches[i][1].title()[:12].replace('_', ' ')}}</span>
                 </span>
                 </a>
                 </span>
@@ -49,9 +49,9 @@
                 <span id="diffbox" >
                 <a href="{{=URL('default', 'difflet', vars={'e1' :  popular_searches[i][0] , 'e2' : popular_searches[i][1]}) }}">
                 <span class="box">
-                    <span>{{=popular_searches[i][0].title()}}</span>
+                    <span>{{=popular_searches[i][0].title()[:12].replace('_', ' ')}}</span>
                     <span>-vs-</span>
-                    <span>{{=popular_searches[i][1].title()}}</span>
+                    <span>{{=popular_searches[i][1].title()[:12].replace('_', ' ')}}</span>
                     <span class="hits">{{=popular_searches[i][2]}}</span>
                 </span>
                 </a>
