@@ -1,8 +1,0 @@
-
-M8_motorway_(Scotland):
-type:M,
-route:8,
-lengthMi:60.3,
-terminusA:Edinburgh,Edinburgh_City_Bypass,
-terminusB:Langbank,
-junction:1000,J2 → M9 motorway,J8 → M73 motorway,J13 → M80 motorway,J21 → M74 motorway,J22 → M77 motorway,J30 → M898 motorway,

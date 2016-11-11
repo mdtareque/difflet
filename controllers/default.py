@@ -81,8 +81,6 @@ def random():
      ['hindi', 'urdu'],
      ['shah_rukh_khan', 'aamir_khan'],
      ['google', 'ibm']
-
-     #['apple co.', 'google', 'ibm']
     ]
     import random as rand_
     r1 = rand_.randrange(0, len(data))

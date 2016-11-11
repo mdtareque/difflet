@@ -30,7 +30,7 @@ div.addDp span {
 div.main div.leftPane, div.main div.rightPane {
     word-wrap: break-word;
     /* white-space: pre-wrap; */
-    font-size: 1.8em;
+    font-size: 1.6em;
     font-weight: bold;
 }
 

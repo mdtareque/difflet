@@ -1,2 +1,7 @@
 sessions/*
+private/index/*
+private/index0/*
+private/appconfig.ini
+errors/*
 */*.pyc
+*/*.tgz
